@@ -2,8 +2,8 @@
   "ublVersion" : "2.3",
   "sdkVersion" : "1.14.0-SNAPSHOT",
   "metadataDatabase" : {
-    "version" : "1.13.76",
-    "createdOn" : "2025-01-09T16:37:23"
+    "version" : "1.13.127",
+    "createdOn" : "2025-03-18T16:42:39"
   },
   "noticeId" : "18",
   "metadata" : [ {
@@ -572,7 +572,7 @@
         "content" : [ {
           "id" : "BT-106-Procedure",
           "contentType" : "field",
-          "displayType" : "TEXTBOX",
+          "displayType" : "COMBOBOX",
           "description" : "Procedure Accelerated",
           "_label" : "field|name|BT-106-Procedure"
         }, {
