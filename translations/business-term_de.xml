@@ -20,7 +20,6 @@
 <entry key="business-term|description|BG-4">Zusätzliche Angaben zum Gewinner, Bieter oder Unterauftragnehmer.</entry>
 <entry key="business-term|description|BG-44">Angaben zum Wert des Preises und zur Rangfolge für einen Gewinner eines Wettbewerbs, eine Innovationspartnerschaft oder einen wettbewerblichen Dialog (z. B. „10 000 EUR – 1. Platz “, „5 000 EUR – 2. Platz“).</entry>
 <entry key="business-term|description|BG-541">Angaben zu einer Zahl im Zusammenhang mit dem Zuschlagskriterium.</entry>
-<entry key="business-term|description|BG-556">Informationen über den Höchstwert, der im Rahmen einer Rahmenvereinbarung innerhalb einer Gruppe von Losen als Auftrag vergeben werden kann. Diese Angabe kann gemacht werden, wenn der Höchstwert einer Gruppe von Losen geringer ist als die Summe der Werte einzelner Lose in dieser Gruppe (z. B. wenn derselbe Betrag auf mehrere Lose aufgeteilt wird). Dabei handelt es sich um auf der Grundlage der Angebote des bzw. der Gewinner(s) berechnete Höchstwerte.</entry>
 <entry key="business-term|description|BG-557">Informationen über den Höchstwert, der im Rahmen einer Rahmenvereinbarung innerhalb einer Gruppe von Losen als Auftrag vergeben werden kann. Diese Angabe kann gemacht werden, wenn der Höchstwert einer Gruppe von Losen geringer ist als die Summe der Werte einzelner Lose in dieser Gruppe (z. B. wenn derselbe Betrag auf mehrere Lose aufgeteilt wird).</entry>
 <entry key="business-term|description|BG-6">Angaben zum Vergabeverfahren.</entry>
 <entry key="business-term|description|BG-61">Informationen über die für die Finanzierung der Auftragsvergabe verwendeten Mittel der Union. Diese Angaben können je nach Los unterschiedlich ausfallen.</entry>
@@ -31,8 +30,6 @@
 <entry key="business-term|description|BG-681">Die Liste der IPI-Maßnahmen, die auf dieses Angebot angewandt wurden.</entry>
 <entry key="business-term|description|BG-7">Informationen über alle Ergebnisse des Vergabeverfahrens, bzw. gegebenenfalls der einzelnen, in dieser Bekanntmachung veröffentlichten Lose.</entry>
 <entry key="business-term|description|BG-700">Angaben über die bei diesem Vergabeverfahren zugrunde gelegten Ausschlussgründe und Eignungskriterien.</entry>
-<entry key="business-term|description|BG-701">Kurze Beschreibung der Kriterien in Bezug auf die persönliche Situation der Bieter, die zu einem Ausschluss führen können. Dies umfasst eine Liste aller dieser Kriterien und die Angabe der erforderlichen Informationen (z. B. Eigenerklärung, Dokumentation). Dies kann auch spezifische nationale Ausschlussgründe einschließen.</entry>
-<entry key="business-term|description|BG-702">Angaben zu den Eignungskriterien (bzw. zum Eignungskriterium). Alle Kriterien müssen aufgeführt werden. Diese Angaben können je nach Los unterschiedlich ausfallen.</entry>
 <entry key="business-term|description|BG-703">Informationen zur Organisation. Diese Angaben können je nach Los, Auftrag, Angebot usw. unterschiedlich ausfallen. Im Falle einer nur zu Informationszwecken verwendeten Vorinformation können diese Angaben auch in den verschiedenen Abschnitten einer Bekanntmachung, die ggf. zu einem späteren Zeitpunkt zu einem Los oder einem eigenen Verfahren umgewandelt werden, unterschiedlich ausfallen.</entry>
 <entry key="business-term|description|BG-704">Informationen über die Preise und das Preisgericht bei einem Wettbewerb. Diese Angaben können je nach Los unterschiedlich ausfallen.</entry>
 <entry key="business-term|description|BG-705">Angaben zu etwaigen sonstigen Anforderungen für die Teilnahme am Verfahren und die Bedingungen des künftigen Auftrags. Die Anforderungen müssen eine Beschreibung der Methoden enthalten, nach denen sie überprüft werden. Diese Angaben können je nach Los unterschiedlich ausfallen. Im Falle einer nur zu Informationszwecken verwendeten Vorinformation können diese Angaben auch in den verschiedenen Abschnitten einer Bekanntmachung, die ggf. zu einem späteren Zeitpunkt zu einem Los oder einem eigenen Verfahren umgewandelt werden, unterschiedlich ausfallen.</entry>
@@ -49,7 +46,6 @@
 <entry key="business-term|description|BG-72">Angaben zu einer Zahl im Zusammenhang mit den Eignungskriterien (dem Eignungskriterium), anhand deren (dessen) die Bewerber ausgewählt werden, die zur zweiten Stufe des Verfahrens eingeladen werden sollen.</entry>
 <entry key="business-term|description|BG-77">Informationen über Auftragsänderungen (z. B. zusätzliche Bauleistungen, Dienstleistungen oder Lieferungen). Diese Angaben können je nach Abschnitt der ursprünglichen Bekanntmachung unterschiedlich ausfallen.</entry>
 <entry key="business-term|description|BG-8">Informationen über Felder, die nicht zur sofortigen Veröffentlichung bestimmt sind. Diese Angaben können je nach Feld unterschiedlich ausfallen.</entry>
-<entry key="business-term|description|BG-810">Informationen zur Energieeffizienz der in BT-811 ausgewählten Produkte.</entry>
 <entry key="business-term|description|BG-9">Informationen über Änderungen der Bekanntmachung. Diese Angaben können je nach Abschnitt der ursprünglichen Bekanntmachung unterschiedlich ausfallen.</entry>
 <entry key="business-term|description|BT-01">Die Rechtsgrundlage (z. B. eine Rechtsvorschrift der Union oder eine nationale Rechtsvorschrift), auf die das Vergabeverfahren gestützt ist, oder – im Fall von Vorabinformationen – gestützt sein wird.</entry>
 <entry key="business-term|description|BT-02">Typ der Bekanntmachung gemäß den Vergabevorschriften.</entry>
@@ -268,7 +264,6 @@
 <entry key="business-term|description|BT-748">Die betreffenden Kriterien (bzw. das Kriterium) finden (findet) (keine) Anwendung, bzw. (im Falle einer als Aufruf zum Wettbewerb oder zur Verkürzung der Fristen verwendeten Vorinformation) es liegen noch keine Angaben zur Anwendung vor.</entry>
 <entry key="business-term|description|BT-749">Bezeichnung der Eignungskriterien (des Eignungskriteriums).</entry>
 <entry key="business-term|description|BT-75">Die Beschreibung der finanziellen Sicherheitsleistung, die der Bieter bei der Einreichung seines Angebots vorlegen muss. So kann die Sicherheitsleistung beispielsweise in der Form einer Zahlung an den Beschaffer oder eines von einer Bank ausgestellten Dokuments geleistet werden. In der Regel verfällt die Sicherheitsleistung, wenn ein Bieter den Zuschlag für den Auftrag erhalten hat, es jedoch ablehnt, diesen zu unterzeichnen.</entry>
-<entry key="business-term|description|BT-750">Kurze Beschreibung der Eignungskriterien (des Eignungskriteriums), einschließlich Angaben zu Mindestanforderungen, erforderlichen Informationen (z. B. Eigenerklärung, Dokumentation) und zur Art und Weise, in der die Kriterien bzw. das Kriterium für die Auswahl der Bewerber verwendet werden/wird, die für die zweite Stufe des Verfahrens eingeladen werden sollen (falls eine Höchstzahl von Bewerbern festgelegt wurde).</entry>
 <entry key="business-term|description|BT-751">Eine Sicherheitsleistung ist erforderlich.</entry>
 <entry key="business-term|description|BT-752">Eine Zahl im Zusammenhang mit den Eignungskriterien (dem Eignungskriterium).</entry>
 <entry key="business-term|description|BT-7531">Angabe, ob es sich bei der Zahl im Zusammenhang mit dem Eignungskriterium (den Eignungskriterien) um eine Gewichtung (z. B. einen Prozentsatz) handelt.</entry>
@@ -305,8 +300,6 @@
 <entry key="business-term|description|BT-784">Kennung eines Antrags auf Nachprüfung bzw. einer Nachprüfungsentscheidung. Bei einem Einspruch bei einer höheren Instanz der Nachprüfungsstelle muss dem Antrag auf eine Nachprüfung eine neue Kennung zugeordnet werden.</entry>
 <entry key="business-term|description|BT-785">Eine Kennung des Antrags (der Anträge) auf Nachprüfung, die zu dieser Entscheidung oder einer Nachprüfungsentscheidung geführt hatte, für die im vorliegenden Antrag auf Nachprüfung Einspruch eingelegt wird. Nachprüfungsentscheidungen, die von der Nachprüfungsstelle initiiert werden (‚von Amts wegen‘) erhalten keine Kennung zugeordnet.</entry>
 <entry key="business-term|description|BT-786">Eine Kennung eines oder mehrerer Abschnitte innerhalb dieser Bekanntmachung. Die Angaben im Abschnitt ‚Nachprüfung‘ beziehen sich auf diesen Abschnitt bzw. diese Abschnitte.</entry>
-<entry key="business-term|description|BT-787">Datums- und Uhrzeitangabe zu dem Zeitpunkt, an dem der Antrag auf Nachprüfung eingereicht wurde bzw. an dem die Nachprüfungsentscheidung getroffen wurde.</entry>
-<entry key="business-term|description|BT-788">Die Bezeichnung des Antrags auf Nachprüfung bzw. der Nachprüfungsentscheidung.</entry>
 <entry key="business-term|description|BT-789">Die Beschreibung des Antrags auf Nachprüfung bzw. der Nachprüfungsentscheidung bzw. sonstige zusätzliche Angaben.</entry>
 <entry key="business-term|description|BT-79">Angaben dazu, ob die Namen und beruflichen Qualifikationen des zur Auftragsausführung eingesetzten Personals anzugeben sind.</entry>
 <entry key="business-term|description|BT-790">Die Kategorie der Entscheidung (z. B. zugelassen, abgewiesen da der Kläger nicht klagebefugt war).</entry>
@@ -316,21 +309,14 @@
 <entry key="business-term|description|BT-794">Die URL-Adresse (z. B. die Internetadresse), unter der die Unterlagen mit Bezug zu dem Antrag auf Nachprüfung bzw. zu der Nachprüfungsentscheidung abgerufen werden können.</entry>
 <entry key="business-term|description|BT-795">Die für die Übermittlung des Antrags entrichtete Gebühr.</entry>
 <entry key="business-term|description|BT-796">Der Antrag auf Nachprüfung wurde zurückgezogen.</entry>
-<entry key="business-term|description|BT-797">Datums- und Uhrzeitangabe des Zeitpunkts, an dem der Antrag auf Nachprüfung zurückgezogen wurde.</entry>
 <entry key="business-term|description|BT-798">Die Begründung für das Zurückziehen des Antrags auf Nachprüfung.</entry>
 <entry key="business-term|description|BT-801">Es ist eine Geheimhaltungsvereinbarung erforderlich.</entry>
 <entry key="business-term|description|BT-802">Zusätzliche Angaben zur Geheimhaltungsvereinbarung.</entry>
 <entry key="business-term|description|BT-803">Datum und Uhrzeit der elektronischen Übermittlung der Bekanntmachung durch den eSender an das Amt für Veröffentlichungen der Europäischen Union</entry>
 <entry key="business-term|description|BT-805">Das Vergabeverfahren umfasst die Nutzung etablierter Kriterien für die grüne Beschaffung (Eignungskriterien, technische Spezifikationen, Zuschlagskriterien und Klauseln für die Auftragsausführung) auf nationaler, Unions- oder gegebenenfalls anderer Ebene.</entry>
-<entry key="business-term|description|BT-806">Wo die Ausschlussgründe festgelegt sind (z. B. in Auftragsunterlagen oder in der Einheitlichen Europäischen Eigenerklärung).</entry>
-<entry key="business-term|description|BT-809">Die Kriterien (oder das Kriterium).</entry>
 <entry key="business-term|description|BT-810">Die Energieeffizienz-Richtlinie (EU) 2023/1791 findet auf dieses Vergabeverfahren Anwendung.</entry>
-<entry key="business-term|description|BT-811">Liste der Produkte, Arbeiten und Dienstleistungen, die von der Energiekennzeichnungsrichtlinie, der Ökodesign-Richtlinie, den Kriterien für grüne öffentliche Beschaffung der Union, der Verordnung 2020/740 erfasst sind. Zu Berichtszwecken sind auch Gebäude, die von der Verpflichtung in Artikel 7 EED erfasst sind, enthalten</entry>
 <entry key="business-term|description|BT-812">Energieeffizienzkennzeichnungen der Produkte (A+++, A++, A+, A+, A, B, C, D).</entry>
 <entry key="business-term|description|BT-813">Der Wert des Energieverbrauchs in kWh/Jahr für Produkte, für die kein Label existiert, und Energieeinsparungen in kWh/Jahr für Dienstleistungen, Gebäude oder Arbeiten. Für Produkte bitte den jährlichen Energieverbrauch des Produkts angeben. Für Dienstleistungen, Arbeiten und Gebäude bitte die jährlichen Energieeinsparungen angeben.</entry>
-<entry key="business-term|description|BT-814">Einheit für die Zahl der Energieeffizienz, z. B. kWh/Jahr.</entry>
-<entry key="business-term|description|BT-815">Die bereitgestellte oder geschätzte Menge. Für Produkte bitte die Anzahl der Produkte angeben. Für Gebäude bitte die nutzbare Bodenfläche in m2 angeben. Für Arbeiten oder Dienstleistungen ist kein Wert erforderlich</entry>
-<entry key="business-term|description|BT-821">Wo die Eignungskriterien festgelegt sind (z. B. in Auftragsunterlagen oder in der Einheitlichen Europäischen Eigenerklärung).</entry>
 <entry key="business-term|description|BT-88">Die wichtigsten Merkmale des Verfahrens (z. B. Beschreibung der einzelnen Stufen) und Informationen darüber, wo die vollständigen Vorschriften für das Verfahren zu finden sind. Diese Angaben sind zu machen, wenn das Verfahren nicht zu den in den Vergaberichtlinien genannten Verfahren gehört. Dies kann beispielsweise bei Konzessionen der Fall sein, bzw. wenn es sich um soziale oder andere besondere Dienstleistungen handelt oder im Falle einer freiwilligen Veröffentlichung von Vergabeverfahren mit einem Wert unterhalb der EU-Schwellenwerte für die Auftragsvergabe.</entry>
 <entry key="business-term|description|BT-92">Elektronische Bestellung findet Anwendung.</entry>
 <entry key="business-term|description|BT-93">Elektronische Zahlung findet Anwendung.</entry>
@@ -365,7 +351,6 @@
 <entry key="business-term|name|BG-4">Preisträger/-in</entry>
 <entry key="business-term|name|BG-44">Preis</entry>
 <entry key="business-term|name|BG-541">Zuschlagskriterium — Zahl</entry>
-<entry key="business-term|name|BG-556">Rahmenvereinbarung – Höchstwert</entry>
 <entry key="business-term|name|BG-557">Geschätzter Höchstwert, Gruppe, Rahmenvereinbarung</entry>
 <entry key="business-term|name|BG-6">Verfahren</entry>
 <entry key="business-term|name|BG-61">EU-Mittel</entry>
@@ -581,7 +566,6 @@
 <entry key="business-term|name|BT-67">Beschreibung</entry>
 <entry key="business-term|name|BT-681">Verordnung zu ausländischen Subventionen</entry>
 <entry key="business-term|name|BT-682">Ausländische Subventionsmaßnahmen</entry>
-<entry key="business-term|name|BT-684">Anwendbare IPI-Maßnahmen</entry>
 <entry key="business-term|name|BT-685">Spezifische IPI-Maßnahme</entry>
 <entry key="business-term|name|BT-686">Anzahl der Angebotsanträge, die unter diese IPI-Maßnahme fallen</entry>
 <entry key="business-term|name|BT-687">Ausnahme von der Anwendung der IPI-Maßnahme</entry>
@@ -632,7 +616,6 @@
 <entry key="business-term|name|BT-748">Anwendung dieses Kriteriums</entry>
 <entry key="business-term|name|BT-749">Bezeichnung</entry>
 <entry key="business-term|name|BT-75">Beschreibung der finanziellen Sicherheit</entry>
-<entry key="business-term|name|BT-750">Beschreibung</entry>
 <entry key="business-term|name|BT-751">Eine Sicherheitsleistung ist erforderlich</entry>
 <entry key="business-term|name|BT-752">Eignungskriterien — Einladung zur zweiten Stufe, Zahl</entry>
 <entry key="business-term|name|BT-7531">Bei der Zahl handelt sich um eine Gewichtung</entry>
@@ -684,7 +667,6 @@
 <entry key="business-term|name|BT-794">Nachprüfung – URL</entry>
 <entry key="business-term|name|BT-795">Nachprüfung – Antragsgebühr</entry>
 <entry key="business-term|name|BT-796">Nachprüfung – Antrag zurückgezogen</entry>
-<entry key="business-term|name|BT-797">Nachprüfung – Antrag zurückgezogen, Datum</entry>
 <entry key="business-term|name|BT-798">Nachprüfung – Antrag zurückgezogen, Begründung</entry>
 <entry key="business-term|name|BT-799">Nachprüfungsstelle – Typ</entry>
 <entry key="business-term|name|BT-800">Frist – Eingang der Antworten</entry>
@@ -693,17 +675,14 @@
 <entry key="business-term|name|BT-803">Bekanntmachung — eSender-Übermittlungsdatum</entry>
 <entry key="business-term|name|BT-804">Technischer Identifikator für die Überprüfung</entry>
 <entry key="business-term|name|BT-805">Grüne Auftragsvergabe — Kriterien</entry>
-<entry key="business-term|name|BT-806">Grundlage für den Ausschluss</entry>
 <entry key="business-term|name|BT-807">Identifikator der Prüfstelle</entry>
 <entry key="business-term|name|BT-808">Identifikator des Prüfantragstellers</entry>
-<entry key="business-term|name|BT-809">Eignungskriterien</entry>
 <entry key="business-term|name|BT-810">EED anwendbar</entry>
 <entry key="business-term|name|BT-811">EED Liste</entry>
 <entry key="business-term|name|BT-812">Energieeffizienz-Label</entry>
 <entry key="business-term|name|BT-813">Energieverbrauch in kWh/Jahr</entry>
 <entry key="business-term|name|BT-814">Energieeinsparungen in kWh/Jahr</entry>
 <entry key="business-term|name|BT-815">Energieeffizienz-Menge</entry>
-<entry key="business-term|name|BT-821">Quelle der Eignungskriterien</entry>
 <entry key="business-term|name|BT-88">Zentrale Elemente des Verfahrens</entry>
 <entry key="business-term|name|BT-92">Aufträge werden elektronisch erteilt</entry>
 <entry key="business-term|name|BT-93">Zahlungen werden elektronisch geleistet</entry>

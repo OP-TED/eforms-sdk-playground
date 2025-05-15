@@ -106,7 +106,6 @@
 <entry key="expression|name|202">'Informatie over de termijnen voor beroep' (BT-99-Lot) is niet ingevuld</entry>
 <entry key="expression|name|203">Er zijn geen percelen gegund</entry>
 <entry key="expression|name|204">'ID opdracht inschrijving' (BT-3202-Contract) is niet ingevuld</entry>
-<entry key="expression|name|205">'Type procedure' (BT-105) is niet 'Onderhandelingsprocedure zonder voorafgaande oproep tot mededinging'; 'Rechtsgrondslag' (BT-01) is niet 'Verordening (EU, Euratom) 2018/1046'; ten minste één 'ID opdracht inschrijving' (BT-3202-Contract) is ingevuld</entry>
 <entry key="expression|name|206">'De opdracht wordt gegund in het kader van een raamovereenkomst' (BT-768-Contract) is niet 'ja'</entry>
 <entry key="expression|name|207">'Identificatiecode van de inschrijving' (BT-3201-Tender) is ingevuld</entry>
 <entry key="expression|name|209">'Versie van de eerdere aankondiging die moet worden gewijzigd' (BT-758-notice) is niet ingevuld</entry>
@@ -303,6 +302,7 @@
 <entry key="expression|name|392">'Postadres' (BT-510(b)-Business) is niet ingevuld</entry>
 <entry key="expression|name|394">'Land' (BT-514-Business) is niet ingevuld</entry>
 <entry key="expression|name|395">'Toepasselijk grensoverschrijdend recht' (BT-09(a)-Procedure) is niet ingevuld</entry>
+<entry key="expression|name|396">'Rechtsgrondslag' (BT-01-notice) is 'Verordening (EU, Euratom) 2018/1046'</entry>
 <entry key="expression|name|4">'De procedure wordt versneld' (BT-106-Procedure) is niet 'ja'</entry>
 <entry key="expression|name|40">'Toegang tot bepaalde aanbestedingsstukken is beperkt' (BT-14-Lot) is openbaar</entry>
 <entry key="expression|name|405">Niet alle percelen die tot de groep van percelen behoren, zijn gegund, of er is slechts één perceel in de groep van percelen waarop een raamovereenkomst betrekking heeft</entry>
@@ -414,7 +414,6 @@
 <entry key="expression|name|615">De code voor het selectiecriterium (BT-809) bestaat niet</entry>
 <entry key="expression|name|616">De organisatie is een koper, en het dynamische aankoopsysteem kan ook gebruikt worden door kopers die niet in deze kennisgeving staan, en 'Aankoopcentrale die voor andere kopers bestemde goederen en/of diensten koopt' (OPP-052) is niet ingevuld</entry>
 <entry key="expression|name|617">De organisatie is een koper, en het dynamische aankoopsysteem kan ook gebruikt worden door kopers die niet in deze kennisgeving staan, en 'Aankoopcentrale die voor andere kopers bestemde goederen en/of diensten koopt' (OPP-052) is niet ingevuld</entry>
-<entry key="expression|name|618">'De procedure wordt versneld' (BT-106-Procedure) is 'ja'</entry>
 <entry key="expression|name|619">'De procedure wordt versneld' (BT-106-Procedure) is 'ja'</entry>
 <entry key="expression|name|62">'Selectiestatus winnaar' (BT-142-LotResult) is niet 'Er is geen winnaar gekozen en de mededinging is gesloten.'</entry>
 <entry key="expression|name|620">'De procedure wordt versneld' (BT-106-Procedure) is 'ja'</entry>
@@ -466,6 +465,7 @@
 <entry key="expression|name|662">'Selectiecriteria' (BT-809-Lot) bestaat niet of 'De procedure verloopt in opeenvolgende fasen. In elke fase kunnen deelnemers afvallen' (BT-52-Lot) is niet 'ja' of 'Type procedure' (BT-105) is niet 'Concurrentiegerichte dialoog', 'Innovatiepartnerschap', 'Onderhandelingsprocedure met voorafgaande oproep tot mededinging / mededingingsprocedure met onderhandeling', 'Andere procedure in meerdere fasen' of 'Niet-openbaar'</entry>
 <entry key="expression|name|67">'Onderaanneming' (BT-773-Tender) is niet 'Ja'</entry>
 <entry key="expression|name|671">'Numerieke waarde is van het type gewicht' (BT-5421) is niet 'Volgorde van belang'</entry>
+<entry key="expression|name|679">'Type procedure' (BT-105-Procedure) is niet 'Onderhandelingsprocedure zonder voorafgaande oproep tot mededinging' en 'Rechtsgrondslag' (BT-01-notice) is niet 'Verordening (EU, Euratom) 2024/2509' en er is minstens één 'ID opdracht inschrijving' (BT-3202-Contract)</entry>
 <entry key="expression|name|68">'Waarde onderaanneming is bekend' (BT-730-Tender) is niet 'ja'</entry>
 <entry key="expression|name|69">'Onderaanneming' (BT-773-Tender) is niet 'Ja'</entry>
 <entry key="expression|name|7">'Land' (BT-5141-Part) is ingevuld</entry>
