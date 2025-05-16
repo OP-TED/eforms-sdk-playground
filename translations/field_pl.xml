@@ -1336,11 +1336,11 @@
 <entry key="field|name|BT-1351-Procedure-Language">Uzasadnienie procedury przyspieszonej</entry>
 <entry key="field|name|BT-136-Procedure">Uzasadnienie bezpośredniego udzielenia zamówienia</entry>
 <entry key="field|name|BT-136-Procedure-List">Uzasadnienie bezpośredniego udzielenia zamówienia</entry>
-<entry key="field|name|BT-137-Lot">Techniczny ID partii</entry>
+<entry key="field|name|BT-137-Lot">Część zamówienia</entry>
 <entry key="field|name|BT-137-Lot-Scheme">Część zamówienia</entry>
-<entry key="field|name|BT-137-LotsGroup">Identyfikator techniczny grupy partii</entry>
+<entry key="field|name|BT-137-LotsGroup">Grupa części zamówienia</entry>
 <entry key="field|name|BT-137-LotsGroup-Scheme">Część zamówienia</entry>
-<entry key="field|name|BT-137-Part">Identyfikator techniczny części</entry>
+<entry key="field|name|BT-137-Part">Część</entry>
 <entry key="field|name|BT-137-Part-Scheme">Część zamówienia</entry>
 <entry key="field|name|BT-13713-LotResult">Wyniki – ID części zamówienia</entry>
 <entry key="field|name|BT-13713-LotResult-Scheme">Wyniki – ID części zamówienia</entry>

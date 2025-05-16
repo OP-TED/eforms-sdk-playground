@@ -1336,11 +1336,11 @@
 <entry key="field|name|BT-1351-Procedure-Language">Justificarea procedurii accelerate</entry>
 <entry key="field|name|BT-136-Procedure">Justificarea atribuirii directe</entry>
 <entry key="field|name|BT-136-Procedure-List">Justificarea atribuirii directe</entry>
-<entry key="field|name|BT-137-Lot">Identificator tehnic pentru lot</entry>
+<entry key="field|name|BT-137-Lot">Lot</entry>
 <entry key="field|name|BT-137-Lot-Scheme">Lot</entry>
-<entry key="field|name|BT-137-LotsGroup">Identificator tehnic pentru grup de loturi</entry>
+<entry key="field|name|BT-137-LotsGroup">Grup de loturi</entry>
 <entry key="field|name|BT-137-LotsGroup-Scheme">Lot</entry>
-<entry key="field|name|BT-137-Part">Identificator tehnic pentru piesă</entry>
+<entry key="field|name|BT-137-Part">Parte</entry>
 <entry key="field|name|BT-137-Part-Scheme">Lot</entry>
 <entry key="field|name|BT-13713-LotResult">Rezultate: identificator lot</entry>
 <entry key="field|name|BT-13713-LotResult-Scheme">Rezultate: identificator lot</entry>

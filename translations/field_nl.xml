@@ -1336,11 +1336,11 @@
 <entry key="field|name|BT-1351-Procedure-Language">Rechtvaardiging voor de versnelde procedure</entry>
 <entry key="field|name|BT-136-Procedure">Rechtvaardiging voor onderhandse gunning</entry>
 <entry key="field|name|BT-136-Procedure-List">Rechtvaardiging voor onderhandse gunning</entry>
-<entry key="field|name|BT-137-Lot">Technische ID van het kavel</entry>
+<entry key="field|name|BT-137-Lot">Perceel</entry>
 <entry key="field|name|BT-137-Lot-Scheme">Perceel</entry>
-<entry key="field|name|BT-137-LotsGroup">Technische ID van de kavelgroep</entry>
+<entry key="field|name|BT-137-LotsGroup">Groep percelen</entry>
 <entry key="field|name|BT-137-LotsGroup-Scheme">Perceel</entry>
-<entry key="field|name|BT-137-Part">Technische ID van het onderdeel</entry>
+<entry key="field|name|BT-137-Part">Deel</entry>
 <entry key="field|name|BT-137-Part-Scheme">Perceel</entry>
 <entry key="field|name|BT-13713-LotResult">ID resultaat perceel</entry>
 <entry key="field|name|BT-13713-LotResult-Scheme">ID resultaat perceel</entry>

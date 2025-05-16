@@ -1336,11 +1336,11 @@
 <entry key="field|name|BT-1351-Procedure-Language">Kiirendatud menetluse põhjendus</entry>
 <entry key="field|name|BT-136-Procedure">Otselepingu sõlmimise põhjendus</entry>
 <entry key="field|name|BT-136-Procedure-List">Otselepingu sõlmimise põhjendus</entry>
-<entry key="field|name|BT-137-Lot">Osa tehniline tunnus</entry>
+<entry key="field|name|BT-137-Lot">Osa</entry>
 <entry key="field|name|BT-137-Lot-Scheme">Osa</entry>
-<entry key="field|name|BT-137-LotsGroup">Osade rühma tehniline tunnus</entry>
+<entry key="field|name|BT-137-LotsGroup">Osade rühm</entry>
 <entry key="field|name|BT-137-LotsGroup-Scheme">Osa</entry>
-<entry key="field|name|BT-137-Part">Osa tehniline tunnus</entry>
+<entry key="field|name|BT-137-Part">Osa</entry>
 <entry key="field|name|BT-137-Part-Scheme">Osa</entry>
 <entry key="field|name|BT-13713-LotResult">Tulemus – osa tunnus</entry>
 <entry key="field|name|BT-13713-LotResult-Scheme">Tulemus – osa tunnus</entry>

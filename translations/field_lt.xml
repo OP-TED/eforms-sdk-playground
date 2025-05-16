@@ -1336,11 +1336,11 @@
 <entry key="field|name|BT-1351-Procedure-Language">Pagreitintos procedūros pagrindimas</entry>
 <entry key="field|name|BT-136-Procedure">Tiesioginio skyrimo pagrindimas</entry>
 <entry key="field|name|BT-136-Procedure-List">Tiesioginio skyrimo pagrindimas</entry>
-<entry key="field|name|BT-137-Lot">Techninės ID dalies</entry>
+<entry key="field|name|BT-137-Lot">Pirkimo dalis</entry>
 <entry key="field|name|BT-137-Lot-Scheme">Pirkimo dalis</entry>
-<entry key="field|name|BT-137-LotsGroup">Techninės ID lotų grupės</entry>
+<entry key="field|name|BT-137-LotsGroup">Pirkimo dalių grupė</entry>
 <entry key="field|name|BT-137-LotsGroup-Scheme">Pirkimo dalis</entry>
-<entry key="field|name|BT-137-Part">Techninės ID dalis</entry>
+<entry key="field|name|BT-137-Part">Dalis</entry>
 <entry key="field|name|BT-137-Part-Scheme">Pirkimo dalis</entry>
 <entry key="field|name|BT-13713-LotResult">Rezultatai: pirkimo dalies ID</entry>
 <entry key="field|name|BT-13713-LotResult-Scheme">Rezultatai: pirkimo dalies ID</entry>

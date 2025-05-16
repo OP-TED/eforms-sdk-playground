@@ -1336,11 +1336,11 @@
 <entry key="field|name|BT-1351-Procedure-Language">Paātrinātās procedūras izmantošanas pamatojums</entry>
 <entry key="field|name|BT-136-Procedure">Tiešas piešķiršanas pamatojums</entry>
 <entry key="field|name|BT-136-Procedure-List">Tiešas piešķiršanas pamatojums</entry>
-<entry key="field|name|BT-137-Lot">Tehniskais ID partijai</entry>
+<entry key="field|name|BT-137-Lot">Daļa</entry>
 <entry key="field|name|BT-137-Lot-Scheme">Daļa</entry>
-<entry key="field|name|BT-137-LotsGroup">Tehniskais ID partiju grupai</entry>
+<entry key="field|name|BT-137-LotsGroup">Daļu grupa</entry>
 <entry key="field|name|BT-137-LotsGroup-Scheme">Daļa</entry>
-<entry key="field|name|BT-137-Part">Tehniskais ID daļai</entry>
+<entry key="field|name|BT-137-Part">Iedaļa</entry>
 <entry key="field|name|BT-137-Part-Scheme">Daļa</entry>
 <entry key="field|name|BT-13713-LotResult">Rezultāti – daļas ID</entry>
 <entry key="field|name|BT-13713-LotResult-Scheme">Rezultāti – daļas ID</entry>

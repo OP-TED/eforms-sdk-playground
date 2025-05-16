@@ -1336,11 +1336,11 @@
 <entry key="field|name|BT-1351-Procedure-Language">Αιτιολόγηση για την επιτάχυνση της διαδικασίας</entry>
 <entry key="field|name|BT-136-Procedure">Αιτιολόγηση της απευθείας ανάθεσης</entry>
 <entry key="field|name|BT-136-Procedure-List">Αιτιολόγηση της απευθείας ανάθεσης</entry>
-<entry key="field|name|BT-137-Lot">Τεχνικός Αναγνωριστικός Κωδικός Παρτίδας</entry>
+<entry key="field|name|BT-137-Lot">Παρτίδα</entry>
 <entry key="field|name|BT-137-Lot-Scheme">Παρτίδα</entry>
-<entry key="field|name|BT-137-LotsGroup">Τεχνικός Αναγνωριστικός Κωδικός Ομάδας Παρτίδων</entry>
+<entry key="field|name|BT-137-LotsGroup">Ομάδα παρτίδων</entry>
 <entry key="field|name|BT-137-LotsGroup-Scheme">Παρτίδα</entry>
-<entry key="field|name|BT-137-Part">Τεχνικός Αναγνωριστικός Κωδικός Εξαρτήματος</entry>
+<entry key="field|name|BT-137-Part">Τμήμα</entry>
 <entry key="field|name|BT-137-Part-Scheme">Παρτίδα</entry>
 <entry key="field|name|BT-13713-LotResult">Αποτέλεσμα — αναγνωριστικό παρτίδας</entry>
 <entry key="field|name|BT-13713-LotResult-Scheme">Αποτέλεσμα — αναγνωριστικό παρτίδας</entry>

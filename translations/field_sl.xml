@@ -1336,11 +1336,11 @@
 <entry key="field|name|BT-1351-Procedure-Language">Obrazložitev za pospešen postopek</entry>
 <entry key="field|name|BT-136-Procedure">Obrazložitev neposredne dodelitve</entry>
 <entry key="field|name|BT-136-Procedure-List">Obrazložitev neposredne dodelitve</entry>
-<entry key="field|name|BT-137-Lot">Tehnična identifikacijska številka za serijo</entry>
+<entry key="field|name|BT-137-Lot">Sklop</entry>
 <entry key="field|name|BT-137-Lot-Scheme">Sklop</entry>
-<entry key="field|name|BT-137-LotsGroup">Tehnična identifikacijska številka za skupino serij</entry>
+<entry key="field|name|BT-137-LotsGroup">Skupina sklopov</entry>
 <entry key="field|name|BT-137-LotsGroup-Scheme">Sklop</entry>
-<entry key="field|name|BT-137-Part">Tehnična identifikacijska številka za del</entry>
+<entry key="field|name|BT-137-Part">Del</entry>
 <entry key="field|name|BT-137-Part-Scheme">Sklop</entry>
 <entry key="field|name|BT-13713-LotResult">ID sklopa za rezultat</entry>
 <entry key="field|name|BT-13713-LotResult-Scheme">ID sklopa za rezultat</entry>

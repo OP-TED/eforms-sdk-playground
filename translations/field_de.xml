@@ -1336,11 +1336,11 @@
 <entry key="field|name|BT-1351-Procedure-Language">Begründung des beschleunigten Verfahrens</entry>
 <entry key="field|name|BT-136-Procedure">Begründung der Direktvergabe</entry>
 <entry key="field|name|BT-136-Procedure-List">Begründung der Direktvergabe</entry>
-<entry key="field|name|BT-137-Lot">Technische ID des Loses</entry>
+<entry key="field|name|BT-137-Lot">Los</entry>
 <entry key="field|name|BT-137-Lot-Scheme">Los</entry>
-<entry key="field|name|BT-137-LotsGroup">Technische ID der Losgruppe</entry>
+<entry key="field|name|BT-137-LotsGroup">Gruppe von Losen</entry>
 <entry key="field|name|BT-137-LotsGroup-Scheme">Los</entry>
-<entry key="field|name|BT-137-Part">Technische ID des Teils</entry>
+<entry key="field|name|BT-137-Part">Teil</entry>
 <entry key="field|name|BT-137-Part-Scheme">Los</entry>
 <entry key="field|name|BT-13713-LotResult">Ergebnis, Los-– Kennung</entry>
 <entry key="field|name|BT-13713-LotResult-Scheme">Ergebnis, Los-– Kennung</entry>

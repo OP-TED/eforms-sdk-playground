@@ -1336,11 +1336,11 @@
 <entry key="field|name|BT-1351-Procedure-Language">Justificación del procedimiento acelerado</entry>
 <entry key="field|name|BT-136-Procedure">Justificación de la adjudicación directa</entry>
 <entry key="field|name|BT-136-Procedure-List">Justificación de la adjudicación directa</entry>
-<entry key="field|name|BT-137-Lot">Identificación técnica del lote</entry>
+<entry key="field|name|BT-137-Lot">Lote</entry>
 <entry key="field|name|BT-137-Lot-Scheme">Lote</entry>
-<entry key="field|name|BT-137-LotsGroup">Identificación técnica del grupo de lotes</entry>
+<entry key="field|name|BT-137-LotsGroup">Grupo de lotes</entry>
 <entry key="field|name|BT-137-LotsGroup-Scheme">Lote</entry>
-<entry key="field|name|BT-137-Part">Identificación técnica de la pieza</entry>
+<entry key="field|name|BT-137-Part">Parte</entry>
 <entry key="field|name|BT-137-Part-Scheme">Lote</entry>
 <entry key="field|name|BT-13713-LotResult">Resultados: identificador de lotes</entry>
 <entry key="field|name|BT-13713-LotResult-Scheme">Resultados: identificador de lotes</entry>

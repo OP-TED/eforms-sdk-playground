@@ -1336,11 +1336,11 @@
 <entry key="field|name|BT-1351-Procedure-Language">Perustelu nopeutetun menettelyn käytölle</entry>
 <entry key="field|name|BT-136-Procedure">Perustelu sopimuksen tekemiselle suorahankintana</entry>
 <entry key="field|name|BT-136-Procedure-List">Perustelu sopimuksen tekemiselle suorahankintana</entry>
-<entry key="field|name|BT-137-Lot">Tekninen tunniste osalle</entry>
+<entry key="field|name|BT-137-Lot">Osa</entry>
 <entry key="field|name|BT-137-Lot-Scheme">Osa</entry>
-<entry key="field|name|BT-137-LotsGroup">Osien ryhmän tekninen tunniste</entry>
+<entry key="field|name|BT-137-LotsGroup">Osien ryhmä</entry>
 <entry key="field|name|BT-137-LotsGroup-Scheme">Osa</entry>
-<entry key="field|name|BT-137-Part">Osan tekninen tunniste</entry>
+<entry key="field|name|BT-137-Part">Osa</entry>
 <entry key="field|name|BT-137-Part-Scheme">Osa</entry>
 <entry key="field|name|BT-13713-LotResult">Tulokset – Osan tunniste</entry>
 <entry key="field|name|BT-13713-LotResult-Scheme">Tulokset – Osan tunniste</entry>

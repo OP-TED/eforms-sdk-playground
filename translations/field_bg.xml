@@ -1336,11 +1336,11 @@
 <entry key="field|name|BT-1351-Procedure-Language">Обосновка на ускорената процедура</entry>
 <entry key="field|name|BT-136-Procedure">Обосновка за пряко възлагане</entry>
 <entry key="field|name|BT-136-Procedure-List">Обосновка за пряко възлагане</entry>
-<entry key="field|name|BT-137-Lot">Технически идентификатор на партията</entry>
+<entry key="field|name|BT-137-Lot">Обособена позиция</entry>
 <entry key="field|name|BT-137-Lot-Scheme">Обособена позиция</entry>
-<entry key="field|name|BT-137-LotsGroup">Технически идентификатор на групата от партиди</entry>
+<entry key="field|name|BT-137-LotsGroup">Група обособени позиции</entry>
 <entry key="field|name|BT-137-LotsGroup-Scheme">Обособена позиция</entry>
-<entry key="field|name|BT-137-Part">Технически идентификатор на частта</entry>
+<entry key="field|name|BT-137-Part">Част</entry>
 <entry key="field|name|BT-137-Part-Scheme">Обособена позиция</entry>
 <entry key="field|name|BT-13713-LotResult">Резултат — идентификатор на обособена позиция</entry>
 <entry key="field|name|BT-13713-LotResult-Scheme">Резултат — идентификатор на обособена позиция</entry>

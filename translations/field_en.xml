@@ -1362,11 +1362,11 @@
 <entry key="field|name|BT-1351-Procedure-Language">Justification for the accelerated procedure</entry>
 <entry key="field|name|BT-136-Procedure">Justification for direct award</entry>
 <entry key="field|name|BT-136-Procedure-List">Justification for direct award</entry>
-<entry key="field|name|BT-137-Lot">Lot technical ID</entry>
+<entry key="field|name|BT-137-Lot">Lot</entry>
 <entry key="field|name|BT-137-Lot-Scheme">Lot</entry>
-<entry key="field|name|BT-137-LotsGroup">Group of lots technical ID</entry>
+<entry key="field|name|BT-137-LotsGroup">Group of lots</entry>
 <entry key="field|name|BT-137-LotsGroup-Scheme">Lot</entry>
-<entry key="field|name|BT-137-Part">Part technical ID</entry>
+<entry key="field|name|BT-137-Part">Part</entry>
 <entry key="field|name|BT-137-Part-Scheme">Lot</entry>
 <entry key="field|name|BT-13713-LotResult">Result lot ldentifier</entry>
 <entry key="field|name|BT-13713-LotResult-Scheme">Result lot ldentifier</entry>

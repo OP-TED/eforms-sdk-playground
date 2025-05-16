@@ -1336,11 +1336,11 @@
 <entry key="field|name|BT-1351-Procedure-Language">Begrundelse for hasteproceduren</entry>
 <entry key="field|name|BT-136-Procedure">Begrundelse for direkte tildeling</entry>
 <entry key="field|name|BT-136-Procedure-List">Begrundelse for direkte tildeling</entry>
-<entry key="field|name|BT-137-Lot">Teknisk ID for delkontrakten</entry>
+<entry key="field|name|BT-137-Lot">Delkontrakt</entry>
 <entry key="field|name|BT-137-Lot-Scheme">Delkontrakt</entry>
-<entry key="field|name|BT-137-LotsGroup">Teknisk ID for gruppen af delkontrakter</entry>
+<entry key="field|name|BT-137-LotsGroup">Gruppe af delkontrakter</entry>
 <entry key="field|name|BT-137-LotsGroup-Scheme">Delkontrakt</entry>
-<entry key="field|name|BT-137-Part">Teknisk ID for delen</entry>
+<entry key="field|name|BT-137-Part">Del</entry>
 <entry key="field|name|BT-137-Part-Scheme">Delkontrakt</entry>
 <entry key="field|name|BT-13713-LotResult">Resultat delkontrakt-ID</entry>
 <entry key="field|name|BT-13713-LotResult-Scheme">Resultat delkontrakt-ID</entry>

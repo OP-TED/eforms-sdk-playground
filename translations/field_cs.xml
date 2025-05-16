@@ -1336,11 +1336,11 @@
 <entry key="field|name|BT-1351-Procedure-Language">Odůvodnění zrychleného řízení</entry>
 <entry key="field|name|BT-136-Procedure">Odůvodnění přímého zadání zakázky</entry>
 <entry key="field|name|BT-136-Procedure-List">Odůvodnění přímého zadání zakázky</entry>
-<entry key="field|name|BT-137-Lot">Technické ID šarže</entry>
+<entry key="field|name|BT-137-Lot">Část</entry>
 <entry key="field|name|BT-137-Lot-Scheme">Část</entry>
-<entry key="field|name|BT-137-LotsGroup">Technické ID skupiny šarží</entry>
+<entry key="field|name|BT-137-LotsGroup">Skupina částí</entry>
 <entry key="field|name|BT-137-LotsGroup-Scheme">Část</entry>
-<entry key="field|name|BT-137-Part">Technické ID dílu</entry>
+<entry key="field|name|BT-137-Part">Díl</entry>
 <entry key="field|name|BT-137-Part-Scheme">Část</entry>
 <entry key="field|name|BT-13713-LotResult">Identifikátor části (výsledek)</entry>
 <entry key="field|name|BT-13713-LotResult-Scheme">Identifikátor části (výsledek)</entry>

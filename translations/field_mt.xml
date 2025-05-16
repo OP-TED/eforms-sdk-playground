@@ -1336,11 +1336,11 @@
 <entry key="field|name|BT-1351-Procedure-Language">Ġustifikazzjoni għall-proċedura aċċellerata</entry>
 <entry key="field|name|BT-136-Procedure">Ġustifikazzjoni għall-għoti dirett</entry>
 <entry key="field|name|BT-136-Procedure-List">Ġustifikazzjoni għall-għoti dirett</entry>
-<entry key="field|name|BT-137-Lot">Identifikatur tekniku tal-lott</entry>
+<entry key="field|name|BT-137-Lot">Lott</entry>
 <entry key="field|name|BT-137-Lot-Scheme">Lott</entry>
-<entry key="field|name|BT-137-LotsGroup">Identifikatur tekniku tal-grupp ta’ lottijiet</entry>
+<entry key="field|name|BT-137-LotsGroup">Grupp ta’ lottijiet</entry>
 <entry key="field|name|BT-137-LotsGroup-Scheme">Lott</entry>
-<entry key="field|name|BT-137-Part">Identifikatur tekniku tal-parti</entry>
+<entry key="field|name|BT-137-Part">Parti</entry>
 <entry key="field|name|BT-137-Part-Scheme">Lott</entry>
 <entry key="field|name|BT-13713-LotResult">ID tal-lott tar-riżultati</entry>
 <entry key="field|name|BT-13713-LotResult-Scheme">ID tal-lott tar-riżultati</entry>
