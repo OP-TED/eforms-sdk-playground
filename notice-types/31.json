@@ -2,8 +2,8 @@
   "ublVersion" : "2.3",
   "sdkVersion" : "1.14.0-SNAPSHOT",
   "metadataDatabase" : {
-    "version" : "1.13.127",
-    "createdOn" : "2025-03-18T16:42:39"
+    "version" : "1.13.135",
+    "createdOn" : "2025-05-16T13:58:40"
   },
   "noticeId" : "31",
   "metadata" : [ {
@@ -2058,7 +2058,7 @@
             "id" : "GR-Lot-EED-Asset",
             "contentType" : "group",
             "nodeId" : "ND-EEDProcurementDetailsLot",
-            "displayType" : "SECTION",
+            "displayType" : "GROUP",
             "description" : "EED Asset",
             "_label" : "group|name|GR-Lot-EED-Asset",
             "_repeatable" : true,
@@ -4586,7 +4586,8 @@
                   "displayType" : "COMBOBOX",
                   "description" : "Consumption Metric",
                   "_label" : "field|name|OPT-080-LotResult",
-                  "_presetValue" : "nrg-con-yr"
+                  "_presetValue" : "nrg-con-yr",
+                  "hidden" : true
                 } ]
               }, {
                 "id" : "GR-LotResult-EED-EnergySavings",
@@ -4607,7 +4608,8 @@
                   "displayType" : "COMBOBOX",
                   "description" : "Savings Metric",
                   "_label" : "field|name|OPT-081-LotResult",
-                  "_presetValue" : "nrg-sav-yr"
+                  "_presetValue" : "nrg-sav-yr",
+                  "hidden" : true
                 } ]
               } ]
             } ]
