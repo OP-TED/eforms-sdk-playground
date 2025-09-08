@@ -1,0 +1,16 @@
+name: Test Dispatch Workflow
+
+on:
+  workflow_dispatch: # allows API/manual triggers
+    inputs:
+      message:
+        description: "Message from the caller"
+        required: false
+        default: "Hello from Metadata Manager"
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print message
+        run: echo "Workflow triggered with message: ${{ github.event.inputs.message }}"
