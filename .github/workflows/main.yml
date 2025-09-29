@@ -2,11 +2,6 @@ name: Test Dispatch Workflow
 
 on:
   workflow_dispatch: # allows API/manual triggers
-    inputs:
-      message:
-        description: "Message from the caller"
-        required: false
-        default: "Hello from Metadata Manager"
 
 jobs:
   test:
