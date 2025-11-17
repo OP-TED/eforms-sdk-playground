@@ -20,6 +20,7 @@
 <entry key="business-term|description|BG-4">Kompletterande information om vinnaren, anbudsgivaren eller underentreprenören.</entry>
 <entry key="business-term|description|BG-44">Information om värdet och placeringen av ett pris för en vinnare i en projekttävling, ett innovationspartnerskap eller en konkurrenspräglad dialog (t.ex. ”10 000 EUR – 1:a plats”, ”5 000 EUR – 2:a plats”).</entry>
 <entry key="business-term|description|BG-541">Information om en sifferangivelse som avser ett tilldelningskriterium.</entry>
+<entry key="business-term|description|BG-556">Information om det högsta värde som kan användas i ett ramavtal inom en grupp av delkontrakt. Denna information kan lämnas när det högsta värdet för en grupp av delkontrakt är lägre än summan av värdena för de enskilda delkontrakten grupp (t.ex. när samma budget används för flera delkontrakt). Sådana högsta värden beräknas på grundval av vinnarens eller vinnarnas anbud.</entry>
 <entry key="business-term|description|BG-557">Information om det högsta värde som får användas i ett ramavtal inom en grupp av delkontrakt. Denna information kan lämnas när det högsta värdet för en grupp av delkontrakt är lägre än summan av värdena för de enskilda delkontrakten i denna grupp (t.ex. när samma budget används för flera delkontrakt).</entry>
 <entry key="business-term|description|BG-6">Information om upphandlingsförfarandet.</entry>
 <entry key="business-term|description|BG-61">Information om unionsmedel som används för att finansiera upphandlingen. Denna information kan skilja sig åt för varje delkontrakt.</entry>
@@ -30,6 +31,8 @@
 <entry key="business-term|description|BG-681">Förteckningen över IPI-åtgärder som tillämpades på detta anbud.</entry>
 <entry key="business-term|description|BG-7">Information om samtliga resultat av upphandlingsförfarandet eller, om sådana finns, om enskilda delkontrakt som aviseras i detta meddelande.</entry>
 <entry key="business-term|description|BG-700">Information om de uteslutningsgrunder och urvalskriterier som används i detta upphandlingsförfarande.</entry>
+<entry key="business-term|description|BG-701">En kortfattad beskrivning av de kriterier som rör anbudsgivarnas personliga situation som kan leda till att de utesluts. Detta ska inbegripa en förteckning över alla sådana kriterier och erforderlig information (t.ex. egen försäkran, dokumentation). Detta får även inbegripa särskilda nationella uteslutningsgrunder.</entry>
+<entry key="business-term|description|BG-702">Information om urvalskriterierna (eller urvalskriteriet). Alla krav och kriterier ska anges. Denna information kan skilja sig åt för varje delkontrakt.</entry>
 <entry key="business-term|description|BG-703">Information om organisationen. Denna information kan skilja sig åt för varje delkontrakt, varje kontrakt, varje anbud osv. Om det gäller ett förhandsmeddelande som endast används i informationssyfte, kan denna information skilja sig åt för varje del av meddelandet som därefter kan bli ett delkontrakt eller ett fristående förfarande.</entry>
 <entry key="business-term|description|BG-704">Information om priser och juryn i en projekttävling. Denna information kan skilja sig åt för varje delkontrakt.</entry>
 <entry key="business-term|description|BG-705">Information om eventuella andra krav för deltagande i upphandlingen och villkoren som gäller för det framtida kontraktet. Kraven ska inbegripa en beskrivning av de metoder enligt vilka de ska kontrolleras. Denna information kan skilja sig åt för varje delkontrakt. När det gäller ett förhandsmeddelande som endast används i informationssyfte kan denna information skilja sig åt för varje del av meddelandet som därefter kan bli ett delkontrakt eller ett fristående förfarande.</entry>
@@ -46,6 +49,7 @@
 <entry key="business-term|description|BG-72">Information om en sifferangivelse som är kopplad till urvalskriterierna (eller urvalskriteriet) och som används för att välja ut de anbudssökande som ska inbjudas att delta i det andra steget i förfarandet.</entry>
 <entry key="business-term|description|BG-77">Information om kontraktsändringar (t.ex. ytterligare byggentreprenader, tjänster eller varor). Denna information kan skilja sig åt i de olika avsnitten i föregående meddelande.</entry>
 <entry key="business-term|description|BG-8">Information om fält som inte är avsedda för omedelbar publicering. Denna information kan skilja sig åt för varje fält.</entry>
+<entry key="business-term|description|BG-810">Information om energieffektiviteten för de produkter som valts i BT-811.</entry>
 <entry key="business-term|description|BG-9">Information om ändringar i meddelandet. Denna information kan skilja sig åt i de olika avsnitten i föregående meddelande.</entry>
 <entry key="business-term|description|BT-01">Den rättsliga grunden (t.ex. en unionsrättsakt eller nationell rättsakt) enligt vilken upphandlingsförfarandet äger rum eller, om det rör sig om förhandsmeddelanden, enligt vilken upphandlingsförfarandet kommer att äga rum.</entry>
 <entry key="business-term|description|BT-02">Typ av meddelande i enlighet med upphandlingslagstiftningen.</entry>
@@ -264,6 +268,7 @@
 <entry key="business-term|description|BT-748">De kriterier (eller det kriterium) för en viss typ som används, inte används eller (om ett förhandsmeddelande används som ett meddelande om upphandling eller för att minska tidsfristerna) om användningen ännu inte är känd.</entry>
 <entry key="business-term|description|BT-749">Namn på urvalskriterierna (eller urvalskriteriet).</entry>
 <entry key="business-term|description|BT-75">Beskrivningen av den finansiella garanti som anbudsgivaren är skyldig att ställa när denne lämnar ett anbud. Garantin kan ställas i form av exempelvis en betalning till köparen eller en handling från banken. Garantin är vanligtvis förverkad om en anbudsgivare har fått kontraktet, men därefter vägrar att underteckna det.</entry>
+<entry key="business-term|description|BT-750">En kortfattad beskrivning av urvalskriterierna (eller urvalskriteriet), inklusive minimikrav, erforderlig information (t.ex. egen försäkran, dokumentation) och hur kriterierna eller kriteriet kommer att användas för att välja ut de anbudssökande som ska inbjudas till det andra steget i förfarandet (om ett högsta antal anbudssökande har fastställts).</entry>
 <entry key="business-term|description|BT-751">En garanti krävs.</entry>
 <entry key="business-term|description|BT-752">En sifferangivelse som anger urvalskriterierna (eller urvalskriteriet).</entry>
 <entry key="business-term|description|BT-7531">Här anges om den sifferangivelse som anger ett urvalskriterium (eller urvalskriterier) är en typ av viktning (t.ex. en procentandel).</entry>
@@ -300,6 +305,8 @@
 <entry key="business-term|description|BT-784">Identifierare för en begäran om prövning eller ett prövningsbeslut. Vid överklagan till en högre prövningsinstans ska en begäran om prövning tilldelas en ny identifierare.</entry>
 <entry key="business-term|description|BT-785">Identifierare för den eller de begäranden om prövning som ledde till detta beslut eller ett prövningsbeslut som överklagas genom denna begäran om prövning. Ett prövningsbeslut som fattades på prövningsorganets egna initiativ föregås inte av en begäran om prövning.</entry>
 <entry key="business-term|description|BT-786">En identifierare för ett eller flera avsnitt i detta meddelande. Informationen i avsnittet om prövning avser detta eller dessa avsnitt.</entry>
+<entry key="business-term|description|BT-787">Datum och tidpunkt då begäran om prövning lämnades in eller då prövningsbeslutet fattades.</entry>
+<entry key="business-term|description|BT-788">Titeln på en begäran om prövning eller ett prövningsbeslut.</entry>
 <entry key="business-term|description|BT-789">Beskrivning av en begäran om prövning eller ett prövningsbeslut eller annan kompletterande information.</entry>
 <entry key="business-term|description|BT-79">Huruvida namn på och yrkeskvalifikationer för den personal som ska utföra kontraktet ska anges.</entry>
 <entry key="business-term|description|BT-790">Typ av beslut (t.ex. godkänd, avslag eftersom den klagande saknar talerätt).</entry>
@@ -309,14 +316,21 @@
 <entry key="business-term|description|BT-794">Webbadressen (URL) till de dokument som rör begäran om prövning eller ett prövningsbeslut.</entry>
 <entry key="business-term|description|BT-795">Den avgift som betalas vid inlämning av en begäran om prövning.</entry>
 <entry key="business-term|description|BT-796">Begäran om prövning har återkallats.</entry>
+<entry key="business-term|description|BT-797">Datum och tidpunkt då begäran om prövning återkallades.</entry>
 <entry key="business-term|description|BT-798">Skälen till att begäran om prövning återkallades.</entry>
 <entry key="business-term|description|BT-801">Sekretessavtal krävs.</entry>
 <entry key="business-term|description|BT-802">Kompletterande information om sekretessavtalet.</entry>
 <entry key="business-term|description|BT-803">Datum och tidpunkt då meddelandet överfördes elektroniskt via eSender till Europeiska unionens publikationsbyrå.</entry>
 <entry key="business-term|description|BT-805">Upphandlingsförfarandet omfattar eventuell tillämpning av fastställda kriterier för miljömässigt hållbar upphandling (urvalskriterier, tekniska specifikationer, tilldelningskriterier och villkor för genomförande av kontraktet) på nationell nivå, unionsnivå eller någon annan nivå.</entry>
+<entry key="business-term|description|BT-806">Källa där uteslutningsgrunderna definieras, t.ex. upphandlingsdokument, europeiskt enhetligt upphandlingsdokument.</entry>
+<entry key="business-term|description|BT-809">Urvalskriterierna (eller urvalskriteriet).</entry>
 <entry key="business-term|description|BT-810">Direktiv (EU) 2023/1791 om energieffektivitet (EED) är tillämplig på det här upphandlingsförfarandet.</entry>
+<entry key="business-term|description|BT-811">Lista över produkter, arbeten och tjänster som omfattas av direktivet om energimärkning, direktivet om ekodesign, unionens kriterier för grön offentlig upphandling, förordning 2020/740. För rapporteringsändamål ingår också byggnader som omfattas av skyldigheten i artikel 7 i EED</entry>
 <entry key="business-term|description|BT-812">Energieffektivitetsmärkning som tillhandahålls för produkter (A+++, A++, A+, A, B, C, D).</entry>
 <entry key="business-term|description|BT-813">Värdet på energiförbrukningen i kWh/år för produkter som inte har någon märkning, och energibesparing i kWh/år för tjänster, byggnader eller arbeten. För produkter, vänligen rapportera produktens årliga energiförbrukning. För tjänster, arbeten och byggnader, vänligen rapportera den årliga energibesparingen.</entry>
+<entry key="business-term|description|BT-814">Enheten för angivelse av energieffektivitet, t.ex. kWh/år.</entry>
+<entry key="business-term|description|BT-815">Den levererade eller uppskattade mängden. För produkter, vänligen rapportera antalet produkter. För byggnader, vänligen rapportera den användbara golvytan i m2. För arbeten eller tjänster behövs inget värde</entry>
+<entry key="business-term|description|BT-821">Källa där urvalskriterierna definieras, t.ex. upphandlingsdokument, europeiskt enhetligt upphandlingsdokument.</entry>
 <entry key="business-term|description|BT-88">De viktigaste kännetecknen för förfarandet (t.ex. beskrivning av det enskilda steget eller de enskilda stegen) och information om var de fullständiga reglerna för förfarandet kan hittas. Denna information ska lämnas när förfarandet inte är ett av de förfaranden som anges i upphandlingsdirektiven. Detta kan vara fallet exempelvis för koncessioner, för sociala tjänster och andra särskilda tjänster och vid frivilligt offentliggörande av upphandlingsförfaranden som ligger under EU:s tröskelvärden för upphandling.</entry>
 <entry key="business-term|description|BT-92">Elektronisk beställning kommer att användas.</entry>
 <entry key="business-term|description|BT-93">Elektronisk betalning kommer att användas.</entry>
@@ -351,6 +365,7 @@
 <entry key="business-term|name|BG-4">Vinnare</entry>
 <entry key="business-term|name|BG-44">Pris</entry>
 <entry key="business-term|name|BG-541">Sifferangivelse för tilldelningskriterium</entry>
+<entry key="business-term|name|BG-556">Högsta värde för ett ramavtal inom en grupp</entry>
 <entry key="business-term|name|BG-557">Beräknat högsta värde för ett ramavtal inom en grupp</entry>
 <entry key="business-term|name|BG-6">Förfarande</entry>
 <entry key="business-term|name|BG-61">EU-medel</entry>
@@ -566,6 +581,7 @@
 <entry key="business-term|name|BT-67">Beskrivning</entry>
 <entry key="business-term|name|BT-681">Förordningen om utländska bidrag</entry>
 <entry key="business-term|name|BT-682">Utländska subventionsåtgärder</entry>
+<entry key="business-term|name|BT-684">Tillämpliga IPI-åtgärder</entry>
 <entry key="business-term|name|BT-685">Specifik IPI-åtgärd</entry>
 <entry key="business-term|name|BT-686">Antal anbudsansökningar som faller under denna IPI-åtgärd</entry>
 <entry key="business-term|name|BT-687">Undantag från tillämpningen av IPI-åtgärden</entry>
@@ -616,6 +632,7 @@
 <entry key="business-term|name|BT-748">Användning av det här kriteriet</entry>
 <entry key="business-term|name|BT-749">Namn</entry>
 <entry key="business-term|name|BT-75">Beskrivning av den finansiella garantin</entry>
+<entry key="business-term|name|BT-750">Beskrivning</entry>
 <entry key="business-term|name|BT-751">En garanti krävs</entry>
 <entry key="business-term|name|BT-752">Sifferangivelse för urvalskriterier för andra steget i anbudsansökan</entry>
 <entry key="business-term|name|BT-7531">Sifferangivelsen är en typ av viktning</entry>
@@ -667,6 +684,7 @@
 <entry key="business-term|name|BT-794">Prövningens URL</entry>
 <entry key="business-term|name|BT-795">Avgift för prövningsansökan</entry>
 <entry key="business-term|name|BT-796">Ansökan om prövning återkallad</entry>
+<entry key="business-term|name|BT-797">Återkallandedatum för ansökan om prövning</entry>
 <entry key="business-term|name|BT-798">Skäl för att återkalla ansökan om prövning</entry>
 <entry key="business-term|name|BT-799">Typ av prövningsorgan</entry>
 <entry key="business-term|name|BT-800">Tidsfrist för mottagande av svar</entry>
@@ -675,14 +693,17 @@
 <entry key="business-term|name|BT-803">Datum för avsändning av meddelandet (eSender)</entry>
 <entry key="business-term|name|BT-804">Granska teknisk identifierare</entry>
 <entry key="business-term|name|BT-805">Kriterier för grön upphandling</entry>
+<entry key="business-term|name|BT-806">Källa till uteslutningsgrunder</entry>
 <entry key="business-term|name|BT-807">Identifierare för granskningsorganet</entry>
 <entry key="business-term|name|BT-808">Identifierare för granskningsansökaren</entry>
+<entry key="business-term|name|BT-809">Urvalskriterier</entry>
 <entry key="business-term|name|BT-810">EED tillämplig</entry>
 <entry key="business-term|name|BT-811">EED lista</entry>
 <entry key="business-term|name|BT-812">Energieffektivitetsmärkning</entry>
 <entry key="business-term|name|BT-813">Energianvändning i kWh/år</entry>
 <entry key="business-term|name|BT-814">Energibesparing i kWh/år</entry>
 <entry key="business-term|name|BT-815">Mängd energieffektivitet</entry>
+<entry key="business-term|name|BT-821">Källa till urvalskriterier</entry>
 <entry key="business-term|name|BT-88">Förfarandets viktigaste kännetecken</entry>
 <entry key="business-term|name|BT-92">Elektronisk beställning kommer att användas</entry>
 <entry key="business-term|name|BT-93">Elektronisk betalning kommer att användas</entry>

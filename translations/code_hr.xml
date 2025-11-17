@@ -189,7 +189,7 @@
 <entry key="code|name|corporate-body.FAO">Organizacija za prehranu i poljoprivredu</entry>
 <entry key="code|name|corporate-body.FRA">Agencija Europske unije za temeljna prava</entry>
 <entry key="code|name|corporate-body.FRONTEX">Frontex</entry>
-<entry key="code|name|corporate-body.FUSEN">Europsko zajedničko poduzeće za ITER i razvoj energije fuzije</entry>
+<entry key="code|name|corporate-body.FUSEN">Zajedničko poduzeće „Fusion for Energy”</entry>
 <entry key="code|name|corporate-body.HERA">Tijelo za pripravnost i odgovor na zdravstvene krize</entry>
 <entry key="code|name|corporate-body.IEA">Međunarodna agencija za energiju</entry>
 <entry key="code|name|corporate-body.IHIJU">Zajedničko poduzeće za inicijativu za inovativno zdravlje</entry>
@@ -2888,7 +2888,7 @@
 <entry key="code|name|cpv.31712350">Tranzistori</entry>
 <entry key="code|name|cpv.31712351">Fotoosjetljivi tranzistori</entry>
 <entry key="code|name|cpv.31712352">Tranzistori s područnim djelovanjem (FET)</entry>
-<entry key="code|name|cpv.31712353">Metal oksidni tiristori s područnim djelovanjem (MOSFET)</entry>
+<entry key="code|name|cpv.31712353">Metal oksidni tiristori s područnim djelovanjem  (MOSFET)</entry>
 <entry key="code|name|cpv.31712354">Čipovi tranzistora</entry>
 <entry key="code|name|cpv.31712355">Bipolarni darlington ili radiofrekvencijski (RF) tranzistori</entry>
 <entry key="code|name|cpv.31712356">Jednospojni tranzisori</entry>
@@ -4365,7 +4365,7 @@
 <entry key="code|name|cpv.35512000">Podmornice</entry>
 <entry key="code|name|cpv.35512100">Strateške podmornice na nuklearni pogon</entry>
 <entry key="code|name|cpv.35512200">Jurišne podmornice na nuklearni pogon</entry>
-<entry key="code|name|cpv.35512300">Jurišne podmornice na dizel pogon</entry>
+<entry key="code|name|cpv.35512300">Jurišne podmornice  na dizel pogon</entry>
 <entry key="code|name|cpv.35512400">Podvodna vozila bez posade</entry>
 <entry key="code|name|cpv.35513000">Minski bojni i pomoćni brodovi</entry>
 <entry key="code|name|cpv.35513100">Minolovac/minočistač</entry>
@@ -5629,7 +5629,7 @@
 <entry key="code|name|cpv.42122210">Hidraulični agregati</entry>
 <entry key="code|name|cpv.42122220">Crpke za fekalne vode</entry>
 <entry key="code|name|cpv.42122230">Crpke za doziranje</entry>
-<entry key="code|name|cpv.42122300">Pojačivači tlaka za tekućine</entry>
+<entry key="code|name|cpv.42122300">Pojačivači  tlaka za tekućine</entry>
 <entry key="code|name|cpv.42122400">Centrifugalne crpke i dizala tekućine</entry>
 <entry key="code|name|cpv.42122410">Crpke za uporabu u medicini</entry>
 <entry key="code|name|cpv.42122411">Crpke za umjetno hranjenje</entry>
@@ -6568,7 +6568,7 @@
 <entry key="code|name|cpv.44423300">Oprema za rukovanje robom</entry>
 <entry key="code|name|cpv.44423330">Postolja za rukovanje robom</entry>
 <entry key="code|name|cpv.44423340">Pribor od žičane užadi za rukovanje robom</entry>
-<entry key="code|name|cpv.44423400">Znakovi i srodni artikli</entry>
+<entry key="code|name|cpv.44423400">Znakovi i srodni  artikli</entry>
 <entry key="code|name|cpv.44423450">Natpisne pločice</entry>
 <entry key="code|name|cpv.44423460">Pločice s adresom</entry>
 <entry key="code|name|cpv.44423700">Elementi revizijskih šahtova</entry>
@@ -7382,7 +7382,7 @@
 <entry key="code|name|cpv.45255210">Građevinski radovi na naftnom terminalu</entry>
 <entry key="code|name|cpv.45255300">Građevinski radovi na plinskom terminalu</entry>
 <entry key="code|name|cpv.45255400">Radovi na montaži</entry>
-<entry key="code|name|cpv.45255410">Montaža na moru</entry>
+<entry key="code|name|cpv.45255410">Montaža  na moru</entry>
 <entry key="code|name|cpv.45255420">Montaža na kopnu</entry>
 <entry key="code|name|cpv.45255430">Rušenje naftnih platformi</entry>
 <entry key="code|name|cpv.45255500">Radovi bušenja i istraživanja</entry>
@@ -8595,7 +8595,7 @@
 <entry key="code|name|cpv.71321400">Savjetodavne usluge za ventilaciju</entry>
 <entry key="code|name|cpv.71322000">Usluge tehničkog projektiranja u građevinarstvu za objekte niskogradnje</entry>
 <entry key="code|name|cpv.71322100">Usluge izračuna količine za objekte niskogradnje</entry>
-<entry key="code|name|cpv.71322200">Usluge projektiranja cjevovoda</entry>
+<entry key="code|name|cpv.71322200">Usluge  projektiranja cjevovoda</entry>
 <entry key="code|name|cpv.71322300">Usluge projektiranja mosta</entry>
 <entry key="code|name|cpv.71322400">Usluge projektiranja brane</entry>
 <entry key="code|name|cpv.71322500">Usluge tehničkog projektiranja za prometne naprave</entry>
@@ -8994,7 +8994,7 @@
 <entry key="code|name|cpv.75111000">Usluge izvršnih i zakonodavnih službi</entry>
 <entry key="code|name|cpv.75111100">Usluge izvršnih službi</entry>
 <entry key="code|name|cpv.75111200">Usluge zakonodavnih službi</entry>
-<entry key="code|name|cpv.75112000">Administrativne usluge vezane za poslovanje poduzeća</entry>
+<entry key="code|name|cpv.75112000">Administrativne usluge vezane za poslovanje  poduzeća</entry>
 <entry key="code|name|cpv.75112100">Administrativne usluge vezane za razvojne projeke</entry>
 <entry key="code|name|cpv.75120000">Administrativne usluge agencija</entry>
 <entry key="code|name|cpv.75121000">Administrativne usluge u obrazovanju</entry>
@@ -10240,16 +10240,16 @@
 <entry key="code|name|energy-efficiency-item.was-ma-dry">Perilice i perilice-sušilice rublja</entry>
 <entry key="code|name|energy-efficiency-item.weld-eq">Oprema za zavarivanje</entry>
 <entry key="code|name|energy-efficiency-item.works">Radovi</entry>
-<entry key="code|name|energy-efficiency-label.ENERA">A</entry>
-<entry key="code|name|energy-efficiency-label.ENERA1">A+</entry>
-<entry key="code|name|energy-efficiency-label.ENERA2">A++</entry>
-<entry key="code|name|energy-efficiency-label.ENERA3">A+++</entry>
-<entry key="code|name|energy-efficiency-label.ENERB">B</entry>
-<entry key="code|name|energy-efficiency-label.ENERC">C</entry>
-<entry key="code|name|energy-efficiency-label.ENERD">D</entry>
-<entry key="code|name|energy-efficiency-label.ENERE">E</entry>
-<entry key="code|name|energy-efficiency-label.ENERF">F</entry>
-<entry key="code|name|energy-efficiency-label.ENERG">G</entry>
+<entry key="code|name|energy-efficiency-label.ENERA">Energetska oznaka 'A'</entry>
+<entry key="code|name|energy-efficiency-label.ENERA1">Energetska oznaka 'A+'</entry>
+<entry key="code|name|energy-efficiency-label.ENERA2">Energetska oznaka 'A++'</entry>
+<entry key="code|name|energy-efficiency-label.ENERA3">Energetska oznaka 'A+++'</entry>
+<entry key="code|name|energy-efficiency-label.ENERB">Energetska oznaka 'B'</entry>
+<entry key="code|name|energy-efficiency-label.ENERC">Energetska oznaka 'C'</entry>
+<entry key="code|name|energy-efficiency-label.ENERD">Energetska oznaka 'D'</entry>
+<entry key="code|name|energy-efficiency-label.ENERE">Energetska oznaka 'E'</entry>
+<entry key="code|name|energy-efficiency-label.ENERF">Energetska oznaka 'F'</entry>
+<entry key="code|name|energy-efficiency-label.ENERG">Energetska oznaka 'G'</entry>
 <entry key="code|name|entity-activity.airport">Aktivnosti povezane sa zračnim lukama</entry>
 <entry key="code|name|entity-activity.electricity">Aktivnosti povezane s električnom energijom</entry>
 <entry key="code|name|entity-activity.gas-heat">Proizvodnja, prijenos ili distribucija plina ili toplinske energije</entry>
@@ -10465,7 +10465,6 @@
 <entry key="code|name|eu-programme.TCC_2021">Potpora turskoj zajednici na Cipru (2021/2027)</entry>
 <entry key="code|name|eu-programme.TERRCOOP">Europska teritorijalna suradnja (2014/2020)</entry>
 <entry key="code|name|eu-programme.TRANSREG">Tranzicijske regije (2014/2020)</entry>
-<entry key="code|name|eu-programme.UKF_2024">Instrument za Ukrajinu (2024/2027)</entry>
 <entry key="code|name|eu-programme.VIS2020">Vizni informacijski sustav (VIS) (2014/2020)</entry>
 <entry key="code|name|eu-programme.YEI">Inicijativa za zapošljavanje mladih (posebna dodatno dodijeljena sredstva) (2014/2020)</entry>
 <entry key="code|name|exclusion-ground.exg-crim">Osnove povezane s kaznenim presudama</entry>
@@ -10719,7 +10718,6 @@
 <entry key="code|name|lawful-country.AUT">Austrija</entry>
 <entry key="code|name|lawful-country.BEL">Belgija</entry>
 <entry key="code|name|lawful-country.BGR">Bugarska</entry>
-<entry key="code|name|lawful-country.BIH">Bosna i Hercegovina</entry>
 <entry key="code|name|lawful-country.BLM">Sveti Bartolomej</entry>
 <entry key="code|name|lawful-country.CHE">Švicarska</entry>
 <entry key="code|name|lawful-country.CPT">Clipperton</entry>
@@ -10731,7 +10729,6 @@
 <entry key="code|name|lawful-country.EST">Estonija</entry>
 <entry key="code|name|lawful-country.FIN">Finska</entry>
 <entry key="code|name|lawful-country.FRA">Francuska</entry>
-<entry key="code|name|lawful-country.GEO">Gruzija</entry>
 <entry key="code|name|lawful-country.GRC">Grčka</entry>
 <entry key="code|name|lawful-country.HRV">Hrvatska</entry>
 <entry key="code|name|lawful-country.HUN">Mađarska</entry>
@@ -16275,8 +16272,8 @@
 <entry key="code|name|review-decision-type.rej-other">Odbijeno jer podnositelj nije imao pravo podnijeti pritužbu iz razloga koji nije taj da je istekao rok za podnošenje zahtjeva za pravnu zaštitu (preispitivanje)</entry>
 <entry key="code|name|review-decision-type.rej-resolv">Odbijeno jer je problem već riješen</entry>
 <entry key="code|name|review-decision-type.rej-signed">Odbijeno jer je ugovor već potpisan</entry>
-<entry key="code|name|review-information-type.dec">Odluka</entry>
-<entry key="code|name|review-information-type.req">Zahtjev</entry>
+<entry key="code|name|review-information-type.dec">odluka </entry>
+<entry key="code|name|review-information-type.req">zahtjev </entry>
 <entry key="code|name|review-requester-type.rev-req">Organizacija (ili osoba) koja traži pravnu zaštitu (preispitivanje), koja ima ili je imala interes za dobivanje ugovora i koja je pretrpjela ili bi mogla pretrpjeti štetu zbog navodnog kršenja</entry>
 <entry key="code|name|review-type.complainants">Podnositelji pritužbi</entry>
 <entry key="code|name|rewards-penalties.rew-pen">Podaci o nagradama i kaznama</entry>

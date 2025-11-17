@@ -189,7 +189,7 @@
 <entry key="code|name|corporate-body.FAO">Organização para a Alimentação e a Agricultura</entry>
 <entry key="code|name|corporate-body.FRA">Agência dos Direitos Fundamentais da União Europeia</entry>
 <entry key="code|name|corporate-body.FRONTEX">Frontex</entry>
-<entry key="code|name|corporate-body.FUSEN">Empresa Comum Europeia para o ITER e o Desenvolvimento da Energia de Fusão</entry>
+<entry key="code|name|corporate-body.FUSEN">Empresa Comum Fusion for Energy</entry>
 <entry key="code|name|corporate-body.HERA">Autoridade de Preparação e Resposta a Emergências Sanitárias</entry>
 <entry key="code|name|corporate-body.IEA">Agência Internacional de Energia</entry>
 <entry key="code|name|corporate-body.IHIJU">Empresa Comum da Iniciativa Saúde Inovadora</entry>
@@ -1807,7 +1807,7 @@
 <entry key="code|name|cpv.22610000">Tinta para impressão</entry>
 <entry key="code|name|cpv.22611000">Tinta para impressão em baixo relevo</entry>
 <entry key="code|name|cpv.22612000">Tinta da China</entry>
-<entry key="code|name|cpv.22800000">Livros de registo e de contabilidade, capas, formulários e outros artigos de papelaria impressos, de papel ou cartão</entry>
+<entry key="code|name|cpv.22800000">Livros de registo e de contabilidade, capas, formulários e outros artigos de papelaria impressos, de papel ou cartão</entry>
 <entry key="code|name|cpv.22810000">Livros de registo, de papel ou cartão</entry>
 <entry key="code|name|cpv.22813000">Livros de contabilidade</entry>
 <entry key="code|name|cpv.22814000">Livros de recibos</entry>
@@ -6132,7 +6132,7 @@
 <entry key="code|name|cpv.42999400">Peças para enceradeiras industriais</entry>
 <entry key="code|name|cpv.43000000">Maquinaria para extracção mineira e pedreiras, equipamento de construção</entry>
 <entry key="code|name|cpv.43100000">Equipamento para mineração</entry>
-<entry key="code|name|cpv.43120000">Cortadores de carvão ou de rochas, máquinas para perfurar túneis e máquinas para brocar ou sondar</entry>
+<entry key="code|name|cpv.43120000">Cortadores de carvão ou de rochas, máquinas para perfurar túneis e máquinas para brocar ou sondar</entry>
 <entry key="code|name|cpv.43121000">Máquinas para perfurar poços</entry>
 <entry key="code|name|cpv.43121100">Ferramentas para exploração de cabeças de poço</entry>
 <entry key="code|name|cpv.43121200">Aparelhos de ligação para tubagem ascendente</entry>
@@ -7888,7 +7888,7 @@
 <entry key="code|name|cpv.50232100">Serviços de manutenção de iluminação rodoviária</entry>
 <entry key="code|name|cpv.50232110">Activação de instalações de iluminação pública</entry>
 <entry key="code|name|cpv.50232200">Serviços de manutenção de sinais de trânsito</entry>
-<entry key="code|name|cpv.50240000">Serviços de reparação e manutenção e serviços conexos relacionados com equipamento marinho e outro</entry>
+<entry key="code|name|cpv.50240000">Serviços de reparação e manutenção e serviços conexos relacionados com equipamento marinho e outro</entry>
 <entry key="code|name|cpv.50241000">Serviços de reparação e manutenção de navios</entry>
 <entry key="code|name|cpv.50241100">Serviços de reparação de embarcações</entry>
 <entry key="code|name|cpv.50241200">Serviços de reparação de barcos de passagem (ferries)</entry>
@@ -8861,7 +8861,7 @@
 <entry key="code|name|cpv.72212991">Serviços de desenvolvimento de software para folhas de cálculo</entry>
 <entry key="code|name|cpv.72220000">Serviços de consultoria técnica e em matéria de sistemas</entry>
 <entry key="code|name|cpv.72221000">Serviços de consultoria em matéria de análise de gestão</entry>
-<entry key="code|name|cpv.72222000">Serviços de planeamento e de análise estratégica em matéria de sistemas ou de tecnologias da informação</entry>
+<entry key="code|name|cpv.72222000">Serviços de planeamento e de análise estratégica em matéria de sistemas ou de tecnologias da informação</entry>
 <entry key="code|name|cpv.72222100">Serviços de análise estratégica em matéria de sistemas ou de tecnologias da informação</entry>
 <entry key="code|name|cpv.72222200">Serviços de planeamento em matéria de sistemas ou de tecnologias da informação</entry>
 <entry key="code|name|cpv.72222300">Serviços relacionados com as tecnologias da informação</entry>
@@ -10240,16 +10240,16 @@
 <entry key="code|name|energy-efficiency-item.was-ma-dry">Máquinas de lavar e máquinas de lavar e secar roupa</entry>
 <entry key="code|name|energy-efficiency-item.weld-eq">Equipamento de soldadura</entry>
 <entry key="code|name|energy-efficiency-item.works">Obras</entry>
-<entry key="code|name|energy-efficiency-label.ENERA">A</entry>
-<entry key="code|name|energy-efficiency-label.ENERA1">A+</entry>
-<entry key="code|name|energy-efficiency-label.ENERA2">A++</entry>
-<entry key="code|name|energy-efficiency-label.ENERA3">A+++</entry>
-<entry key="code|name|energy-efficiency-label.ENERB">B</entry>
-<entry key="code|name|energy-efficiency-label.ENERC">C</entry>
-<entry key="code|name|energy-efficiency-label.ENERD">D</entry>
-<entry key="code|name|energy-efficiency-label.ENERE">E</entry>
-<entry key="code|name|energy-efficiency-label.ENERF">F</entry>
-<entry key="code|name|energy-efficiency-label.ENERG">G</entry>
+<entry key="code|name|energy-efficiency-label.ENERA">Etiqueta de eficiência energética 'A'</entry>
+<entry key="code|name|energy-efficiency-label.ENERA1">Etiqueta de eficiência energética 'A+'</entry>
+<entry key="code|name|energy-efficiency-label.ENERA2">Etiqueta de eficiência energética 'A++'</entry>
+<entry key="code|name|energy-efficiency-label.ENERA3">Etiqueta de eficiência energética 'A+++'</entry>
+<entry key="code|name|energy-efficiency-label.ENERB">Etiqueta de eficiência energética 'B'</entry>
+<entry key="code|name|energy-efficiency-label.ENERC">Etiqueta de eficiência energética 'C'</entry>
+<entry key="code|name|energy-efficiency-label.ENERD">Etiqueta de eficiência energética 'D'</entry>
+<entry key="code|name|energy-efficiency-label.ENERE">Etiqueta de eficiência energética 'E'</entry>
+<entry key="code|name|energy-efficiency-label.ENERF">Etiqueta de eficiência energética 'F'</entry>
+<entry key="code|name|energy-efficiency-label.ENERG">Etiqueta de eficiência energética 'G'</entry>
 <entry key="code|name|entity-activity.airport">Atividades aeroportuárias</entry>
 <entry key="code|name|entity-activity.electricity">Atividades relacionadas com a eletricidade</entry>
 <entry key="code|name|entity-activity.gas-heat">Produção, transporte ou distribuição de gás ou de calor</entry>
@@ -10465,7 +10465,6 @@
 <entry key="code|name|eu-programme.TCC_2021">Apoio à comunidade cipriota turca (2021/2027)</entry>
 <entry key="code|name|eu-programme.TERRCOOP">Cooperação territorial europeia (2014/2020)</entry>
 <entry key="code|name|eu-programme.TRANSREG">Regiões em transição (2014/2020)</entry>
-<entry key="code|name|eu-programme.UKF_2024">Mecanismo para a Ucrânia (2024/2027)</entry>
 <entry key="code|name|eu-programme.VIS2020">Sistema de Informação sobre Vistos (VIS) (2014/2020)</entry>
 <entry key="code|name|eu-programme.YEI">Iniciativa para o Emprego dos Jovens (dotação equivalente específica) (2014/2020)</entry>
 <entry key="code|name|exclusion-ground.exg-crim">Motivos relacionados com condenações penais</entry>
@@ -10719,7 +10718,6 @@
 <entry key="code|name|lawful-country.AUT">Áustria</entry>
 <entry key="code|name|lawful-country.BEL">Bélgica</entry>
 <entry key="code|name|lawful-country.BGR">Bulgária</entry>
-<entry key="code|name|lawful-country.BIH">Bósnia-Herzegovina</entry>
 <entry key="code|name|lawful-country.BLM">São Bartolomeu</entry>
 <entry key="code|name|lawful-country.CHE">Suíça</entry>
 <entry key="code|name|lawful-country.CPT">Clipperton</entry>
@@ -10731,7 +10729,6 @@
 <entry key="code|name|lawful-country.EST">Estónia</entry>
 <entry key="code|name|lawful-country.FIN">Finlândia</entry>
 <entry key="code|name|lawful-country.FRA">França</entry>
-<entry key="code|name|lawful-country.GEO">Geórgia</entry>
 <entry key="code|name|lawful-country.GRC">Grécia</entry>
 <entry key="code|name|lawful-country.HRV">Croácia</entry>
 <entry key="code|name|lawful-country.HUN">Hungria</entry>
@@ -16275,8 +16272,8 @@
 <entry key="code|name|review-decision-type.rej-other">Rejeitada, porque o queixoso não tem legitimidade processual, por outras razões que não o fim do prazo para a interposição de um recurso</entry>
 <entry key="code|name|review-decision-type.rej-resolv">Rejeitada, porque o problema já foi resolvido</entry>
 <entry key="code|name|review-decision-type.rej-signed">Rejeitada, porque o contrato já foi assinado</entry>
-<entry key="code|name|review-information-type.dec">Decisão</entry>
-<entry key="code|name|review-information-type.req">Pedido</entry>
+<entry key="code|name|review-information-type.dec">Decisão </entry>
+<entry key="code|name|review-information-type.req">Pedido </entry>
 <entry key="code|name|review-requester-type.rev-req">Organização (ou pessoa) que interpõe um recurso, que esteja ou tenha estado interessada num contrato e que tenha sido ou possa vir a ser lesada por uma alegada violação</entry>
 <entry key="code|name|review-type.complainants">Requerentes de recurso</entry>
 <entry key="code|name|rewards-penalties.rew-pen">Informação sobre recompensas e penalizações</entry>

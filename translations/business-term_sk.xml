@@ -20,6 +20,7 @@
 <entry key="business-term|description|BG-4">Doplňujúce informácie o víťazovi, uchádzačovi alebo subdodávateľovi.</entry>
 <entry key="business-term|description|BG-44">Informácie o hodnote a poradí ceny pre víťaza v rámci súťaže návrhov, inovatívneho partnerstva alebo súťažného dialógu (napr. „10 000 EUR – 1. miesto“, „5 000 EUR – 2. miesto“).</entry>
 <entry key="business-term|description|BG-541">Informácie o čísle spojenom s kritériom na vyhodnotenie ponúk.</entry>
+<entry key="business-term|description|BG-556">Informácie o maximálnej hodnote, ktorú možno na základe rámcovej dohody vynaložiť v rámci skupiny častí. Tieto informácie možno uviesť, keď je maximálna hodnota skupiny častí nižšia než súčet hodnôt jednotlivých častí (napr. keď má viacero častí spoločný rozpočet). Ide o maximálne hodnoty vypočítané na základe víťaznej ponuky alebo víťazných ponúk.</entry>
 <entry key="business-term|description|BG-557">Informácie o maximálnej hodnote, ktorú možno na základe rámcovej dohody vynaložiť v rámci skupiny častí. Tieto informácie možno uviesť, keď je maximálna hodnota skupiny častí nižšia než súčet predpokladaných hodnôt jednotlivých častí tejto skupiny (napr. keď má viacero častí spoločný rozpočet).</entry>
 <entry key="business-term|description|BG-6">Informácie o postupe verejného obstarávania.</entry>
 <entry key="business-term|description|BG-61">Informácie o finančných prostriedkoch Únie použitých na financovanie obstarávania. Tieto informácie sa môžu líšiť v závislosti od časti.</entry>
@@ -30,6 +31,8 @@
 <entry key="business-term|description|BG-681">Zoznam opatrení v súvislosti s NMO, ktoré sa uplatnili na túto ponuku.</entry>
 <entry key="business-term|description|BG-7">Informácie o všetkých výsledkoch postupu verejného obstarávania alebo prípadných jednotlivých častí uvedených v tomto oznámení.</entry>
 <entry key="business-term|description|BG-700">Informácie o dôvodoch na vylúčenie a podmienkach účasti použitých pri postupe verejného obstarávania.</entry>
+<entry key="business-term|description|BG-701">Stručný opis kritérií týkajúcich sa osobného postavenia uchádzačov, ktoré môžu viesť k ich vylúčeniu. Uvedie sa zoznam všetkých takýchto kritérií a požadované informácie (napr. vlastné vyhlásenie, podklady). Takisto sa môžu uviesť aj osobitné vnútroštátne dôvody na vylúčenie.</entry>
+<entry key="business-term|description|BG-702">Informácie o podmienkach (alebo podmienke) účasti. Musia sa uviesť všetky podmienky. Tieto informácie sa môžu líšiť v závislosti od časti.</entry>
 <entry key="business-term|description|BG-703">Informácie o organizácii. Tieto informácie sa môžu líšiť podľa časti, zmluvy, ponuky atď. Ak sa predbežné oznámenie používa len na informačné účely, tieto informácie sa môžu líšiť aj v jednotlivých častiach oznámenia, z ktorých môže neskôr vzniknúť časť postupu alebo samostatný postup.</entry>
 <entry key="business-term|description|BG-704">Informácie o odmenách a porote v súťaži návrhov. Tieto informácie sa môžu líšiť v závislosti od časti.</entry>
 <entry key="business-term|description|BG-705">Informácie o akýchkoľvek iných požiadavkách na účasť na postupe a podmienkach budúcej zmluvy. Požiadavky musia zahŕňať opis metód, na základe ktorých sa budú overovať. Tieto informácie sa môžu líšiť v závislosti od časti. Ak sa predbežné oznámenie použije len na informačné účely, tieto informácie sa môžu líšiť aj v jednotlivých častiach oznámenia, z ktorých môže neskôr vzniknúť časť postupu alebo samostatný postup.</entry>
@@ -46,6 +49,7 @@
 <entry key="business-term|description|BG-72">Informácie o čísle spojenom s podmienkami (alebo podmienkou) účasti použitými(-ou) na výber záujemcov, ktorí budú pozvaní do druhej fázy postupu.</entry>
 <entry key="business-term|description|BG-77">Informácie o zmenách zmluvy (napr. dodatočné stavebné práce, služby alebo tovary). Tieto informácie sa môžu líšiť v závislosti od oddielu predchádzajúceho oznámenia.</entry>
 <entry key="business-term|description|BG-8">Informácie o poliach, ktoré nie sú určené na okamžité zverejnenie. Tieto informácie sa môžu líšiť v závislosti od poľa.</entry>
+<entry key="business-term|description|BG-810">Informácie o energetickej efektívnosti výrobkov vybratých v bode BT-811.</entry>
 <entry key="business-term|description|BG-9">Informácie o opravách/úpravách v oznámení. Tieto informácie sa môžu líšiť v závislosti od oddielu predchádzajúceho oznámenia.</entry>
 <entry key="business-term|description|BT-01">Právny rámec (napr. únijný alebo vnútroštátny právny akt), podľa ktorého sa uskutočňuje postup verejného obstarávania alebo, v prípade predbežných oznámení, podľa ktorého sa uskutoční postup (postupy) verejného obstarávania.</entry>
 <entry key="business-term|description|BT-02">Typ oznámenia podľa právnych predpisov o verejnom obstarávaní.</entry>
@@ -264,6 +268,7 @@
 <entry key="business-term|description|BT-748">Podmienky (alebo podmienka) daného typu sa použijú(-e), nepoužijú(-e) alebo (v prípade predbežného oznámenia použitého ako výzva na vyhlásenie verejného obstarávania alebo na skrátenie lehôt) ich použitie nie je zatiaľ známe.</entry>
 <entry key="business-term|description|BT-749">Názov podmienok (alebo podmienky) účasti.</entry>
 <entry key="business-term|description|BT-75">Opis finančnej zábezpeky, ktorá sa od uchádzača požaduje pri predložení ponuky. Zábezpeka môže mať napríklad formu platby kupujúcemu alebo bankového dokladu. Ak uchádzač získa zákazku, ale potom odmietne podpísať zmluvu, zábezpeka zvyčajne prepadne.</entry>
+<entry key="business-term|description|BT-750">Stručný opis podmienok (alebo podmienky) účasti vrátane minimálnych požiadaviek, požadovaných informácií (napr. vlastného vyhlásenia, podkladov) a spôsobu uplatnenia týchto podmienok alebo tejto podmienky pri výbere záujemcov, ktorí budú pozvaní do druhej fázy postupu (ak bol stanovený maximálny počet záujemcov).</entry>
 <entry key="business-term|description|BT-751">Informácia, či sa požaduje zábezpeka.</entry>
 <entry key="business-term|description|BT-752">Číslo spojené s podmienkami (alebo podmienkou) účasti.</entry>
 <entry key="business-term|description|BT-7531">Informácia, či je číslo spojené s podmienkou (alebo podmienkami) účasti typom váhy (napr. percentuálny podiel).</entry>
@@ -300,6 +305,8 @@
 <entry key="business-term|description|BT-784">Identifikátor žiadosti o preskúmanie alebo rozhodnutia o preskúmaní. Keď sa podáva odvolanie na orgán zodpovedný za preskúmanie vyššieho stupňa, žiadostiam o preskúmanie sa musí prideliť nový identifikátor.</entry>
 <entry key="business-term|description|BT-785">Identifikátor žiadosti(-í) o preskúmanie, ktorého výsledkom bolo toto rozhodnutie alebo rozhodnutie o preskúmaní, voči ktorému sa touto žiadosťou o preskúmanie podáva odvolanie. Rozhodnutiam o preskúmaní, ktoré boli iniciované orgánom zodpovedným za preskúmanie (ex officio), nepredchádza žiadosť o preskúmanie.</entry>
 <entry key="business-term|description|BT-786">Identifikátor jedného alebo viacerých oddielov v rámci tohto oznámenia. Informácie v oddiele o preskúmanie odkazujú na daný oddiel alebo dané oddiely.</entry>
+<entry key="business-term|description|BT-787">Dátum a čas, keď bola podaná žiadosť o preskúmanie alebo keď bolo prijaté rozhodnutie o preskúmaní.</entry>
+<entry key="business-term|description|BT-788">Názov žiadosti o preskúmanie alebo rozhodnutia o preskúmaní.</entry>
 <entry key="business-term|description|BT-789">Opis žiadosti o preskúmanie alebo rozhodnutia o preskúmaní alebo akékoľvek ďalšie doplňujúce informácie.</entry>
 <entry key="business-term|description|BT-79">Informácia, či je povinné uviesť mená a odbornú kvalifikáciu zamestnancov určených na plnenie zmluvy.</entry>
 <entry key="business-term|description|BT-790">Typ rozhodnutia (napr. prijaté, zamietnuté pretože sťažovateľ nemal aktívnu legitimáciu).</entry>
@@ -309,14 +316,21 @@
 <entry key="business-term|description|BT-794">Adresa URL (napr. webová adresa) dokumentov týkajúcich sa žiadosti o preskúmanie alebo rozhodnutia o preskúmaní.</entry>
 <entry key="business-term|description|BT-795">Poplatok, ktorý sa platí pri podaní žiadosti o preskúmanie.</entry>
 <entry key="business-term|description|BT-796">Žiadosť o preskúmanie bola stiahnutá.</entry>
+<entry key="business-term|description|BT-797">Dátum a čas, keď bola žiadosť o preskúmanie stiahnutá.</entry>
 <entry key="business-term|description|BT-798">Dôvody stiahnutia žiadosti o preskúmanie.</entry>
 <entry key="business-term|description|BT-801">Vyžaduje sa dohoda o nezverejňovaní informácií.</entry>
 <entry key="business-term|description|BT-802">Doplňujúce informácie o dohode o nezverejňovaní informácií.</entry>
 <entry key="business-term|description|BT-803">Dátum a čas zaslania oznámenia elektronicky cez eSender pre Úrad pre vydávanie publikácií Európskej únie</entry>
 <entry key="business-term|description|BT-805">Postup verejného obstarávania zahŕňa používanie stanovených kritérií zeleného verejného obstarávania (kritériá výberu, technické špecifikácie, kritériá na vyhodnotenie ponúk a doložky o plnení zákazky) na vnútroštátnej úrovni, úrovni Únie alebo prípadne na inej úrovni.</entry>
+<entry key="business-term|description|BT-806">V ktorom sú vymedzené dôvody na vylúčenie, napríklad súťažné podklady alebo jednotný európsky dokument pre obstarávanie (ESPD).</entry>
+<entry key="business-term|description|BT-809">Podmienky (alebo podmienka).</entry>
 <entry key="business-term|description|BT-810">Smernica (EÚ) 2023/1791 o energetickej efektívnosti sa uplatňuje na tento postup verejného obstarávania.</entry>
+<entry key="business-term|description|BT-811">Zoznam výrobkov, prác a služieb, ktoré sú pokryté Smernicou o označovaní energetickými štítkami, Smernicou o ekodizajne, kritériami Únie pre zelené verejné obstarávanie, Nariadením 2020/740. Pre účely správ sú zahrnuté aj budovy, ktoré sú pokryté povinnosťou podľa článku 7 EED</entry>
 <entry key="business-term|description|BT-812">Štítky s údajmi o energetickej efektívnosti, ktoré sú uvedené pre výrobky (A+++, A++, A+, A, B, C, D).</entry>
 <entry key="business-term|description|BT-813">Hodnota spotreby energie v kWh/rok pre výrobky, ktoré nemajú štítok, a úspora energie v kWh/rok pre služby, budovy alebo práce. Pre výrobky prosím uveďte ročnú spotrebu energie výrobku. Pre služby, práce a budovy prosím uveďte ročnú úsporu energie.</entry>
+<entry key="business-term|description|BT-814">Jednotka pri údajoch o energetickej efektívnosti, napr. kWh/rok.</entry>
+<entry key="business-term|description|BT-815">Poskytnuté alebo odhadované množstvo. Pre výrobky prosím uveďte počet výrobkov. Pre budovy prosím uveďte úžitkovú podlahovú plochu v m2. Pre práce alebo služby nie je potrebná hodnota</entry>
+<entry key="business-term|description|BT-821">V ktorom sú vymedzené podmienky účasti, napríklad súťažné podklady alebo jednotný európsky dokument pre obstarávanie (ESPD).</entry>
 <entry key="business-term|description|BT-88">Hlavné charakteristiky postupu (napr. opis jednotlivých fáz) a informácie o tom, kde sú k dispozícii úplné pravidlá pre daný postup. Tieto informácie sa uvedú, keď ide o druh postupu, ktorý nie je jedným z postupov uvedených v smerniciach o verejnom obstarávaní. Môže to byť napríklad v prípade koncesií, sociálnych a iných osobitných služieb, a v prípade dobrovoľného uverejnenia postupov verejného obstarávania s hodnotou nepresahujúcou finančné limity EÚ v oblasti verejného obstarávania.</entry>
 <entry key="business-term|description|BT-92">Bude sa používať elektronické objednávanie.</entry>
 <entry key="business-term|description|BT-93">Bude sa používať elektronická platba.</entry>
@@ -351,6 +365,7 @@
 <entry key="business-term|name|BG-4">Víťaz</entry>
 <entry key="business-term|name|BG-44">Ceny a odmeny</entry>
 <entry key="business-term|name|BG-541">Číslo kritéria na vyhodnotenie ponúk</entry>
+<entry key="business-term|name|BG-556">Maximálna hodnota skupiny na základe rámcovej dohody</entry>
 <entry key="business-term|name|BG-557">Predpokladaná hodnota skupiny na základe rámcovej dohody</entry>
 <entry key="business-term|name|BG-6">Postup</entry>
 <entry key="business-term|name|BG-61">Finančné prostriedky EÚ</entry>
@@ -566,6 +581,7 @@
 <entry key="business-term|name|BT-67">Opis</entry>
 <entry key="business-term|name|BT-681">Nariadenie o zahraničných dotáciách</entry>
 <entry key="business-term|name|BT-682">Zahraničné dotácie</entry>
+<entry key="business-term|name|BT-684">Uplatňované opatrenia IPI</entry>
 <entry key="business-term|name|BT-685">Špecifické opatrenie IPI</entry>
 <entry key="business-term|name|BT-686">Počet ponúk, ktoré spadajú pod toto opatrenie IPI</entry>
 <entry key="business-term|name|BT-687">Výnimka z uplatnenia opatrenia IPI</entry>
@@ -616,6 +632,7 @@
 <entry key="business-term|name|BT-748">Použitie tohto kritéria</entry>
 <entry key="business-term|name|BT-749">Názov</entry>
 <entry key="business-term|name|BT-75">Opis finančnej zábezpeky</entry>
+<entry key="business-term|name|BT-750">Opis</entry>
 <entry key="business-term|name|BT-751">Informácia, či sa požaduje zábezpeka</entry>
 <entry key="business-term|name|BT-752">Číslo výzvy spojenej s podmienkami účasti druhej fázy</entry>
 <entry key="business-term|name|BT-7531">Číslo je typom váhy</entry>
@@ -667,6 +684,7 @@
 <entry key="business-term|name|BT-794">Preskúmanie (URL)</entry>
 <entry key="business-term|name|BT-795">Poplatok za žiadosť o preskúmanie</entry>
 <entry key="business-term|name|BT-796">Stiahnutie žiadosti o preskúmanie</entry>
+<entry key="business-term|name|BT-797">Dátum stiahnutia žiadosti o preskúmanie</entry>
 <entry key="business-term|name|BT-798">Dôvody stiahnutia žiadosti o preskúmanie</entry>
 <entry key="business-term|name|BT-799">Typ orgánu zodpovedného za preskúmanie</entry>
 <entry key="business-term|name|BT-800">Lehota na doručenie odpovedí</entry>
@@ -675,14 +693,17 @@
 <entry key="business-term|name|BT-803">Dátum odoslania oznámenia (eSender)</entry>
 <entry key="business-term|name|BT-804">Preskúmať technický identifikátor</entry>
 <entry key="business-term|name|BT-805">Kritériá zeleného verejného obstarávania</entry>
+<entry key="business-term|name|BT-806">Zdroj dôvodov na vylúčenie</entry>
 <entry key="business-term|name|BT-807">Identifikátor orgánu preskúmania</entry>
 <entry key="business-term|name|BT-808">Identifikátor žiadateľa o preskúmanie</entry>
+<entry key="business-term|name|BT-809">Podmienky účasti</entry>
 <entry key="business-term|name|BT-810">EED je aplikovateľná</entry>
 <entry key="business-term|name|BT-811">Zoznam EED</entry>
 <entry key="business-term|name|BT-812">Štítok energetickej efektívnosti</entry>
 <entry key="business-term|name|BT-813">Spotreba energie v kWh/rok</entry>
 <entry key="business-term|name|BT-814">Úspora energie v kWh/roku</entry>
 <entry key="business-term|name|BT-815">Množstvo energetickej efektívnosti</entry>
+<entry key="business-term|name|BT-821">Zdroj výberových kritérií</entry>
 <entry key="business-term|name|BT-88">Hlavné prvky postupu</entry>
 <entry key="business-term|name|BT-92">Bude sa využívať elektronické objednávanie</entry>
 <entry key="business-term|name|BT-93">Bude sa využívať elektronická platba</entry>

@@ -20,6 +20,7 @@
 <entry key="business-term|description|BG-4">Dodatne informacije o pobjedniku, ponuditelju ili podugovaratelju.</entry>
 <entry key="business-term|description|BG-44">Informacije o vrijednosti i rangiranju nagrade za pobjednika u projektnom natječaju, partnerstvu za inovacije ili natjecateljskom dijalogu (npr. „1. mjesto – 10 000 EUR”, „2. mjesto – 5 000 EUR”).</entry>
 <entry key="business-term|description|BG-541">Informacije o broju koji je povezan s kriterijem za dodjelu.</entry>
+<entry key="business-term|description|BG-556">Informacije o maksimalnoj vrijednosti koja se može potrošiti u okvirnom sporazumu unutar skupine grupa. Te se informacije mogu navesti ako je maksimalna vrijednost skupine grupa manja od zbroja vrijednosti pojedinačnih grupa (npr. kad nekoliko grupa dijeli ista proračunska sredstva). Riječ je o maksimalnim vrijednostima izračunanima na temelju ponuda pobjednika.</entry>
 <entry key="business-term|description|BG-557">Informacije o maksimalnoj vrijednosti koja se može potrošiti u okvirnom sporazumu unutar skupine grupa. Te se informacije mogu navesti ako je maksimalna vrijednost skupine grupa manja od zbroja vrijednosti pojedinačnih grupa u toj skupini (npr. kad nekoliko grupa dijeli ista proračunska sredstva).</entry>
 <entry key="business-term|description|BG-6">Informacije o postupku javne nabave.</entry>
 <entry key="business-term|description|BG-61">Informacije o sredstvima Unije upotrijebljenima za financiranje nabave. Te se informacije mogu razlikovati po grupi.</entry>
@@ -30,6 +31,8 @@
 <entry key="business-term|description|BG-681">Popis mjera IMN-a koje su primijenjene na ovu ponudu.</entry>
 <entry key="business-term|description|BG-7">Informacije o svim rezultatima postupka javne nabave ili, ako postoje, pojedinačnih grupa objavljenih u toj obavijesti.</entry>
 <entry key="business-term|description|BG-700">Informacije o osnovama za isključenje i kriterijima za odabir primijenjenima za ovaj postupak javne nabave.</entry>
+<entry key="business-term|description|BG-701">Kratki opis kriterija u pogledu osobne situacije ponuditelja zbog koje bi moglo doći do isključenja. U opisu mora biti popis svih takvih kriterija te se moraju navesti potrebne informacije (npr. osobna izjava, dokumentacija). To može uključivati i posebne nacionalne osnove za isključenje.</entry>
+<entry key="business-term|description|BG-702">Informacije o kriterijima za odabir (ili kriteriju). Svi se kriteriji moraju navesti. Te se informacije mogu razlikovati po grupi.</entry>
 <entry key="business-term|description|BG-703">Informacije o organizaciji. Te se informacije mogu razlikovati po grupi, po ugovoru, po ponudi itd. U slučaju prethodne informacijske obavijesti upotrijebljene samo u informativne svrhe, te se informacije mogu razlikovati u onim dijelovima obavijesti koji se kasnije mogu pretvoriti u grupu ili samostalni postupak.</entry>
 <entry key="business-term|description|BG-704">Informacije o nagradama i ocjenjivačkom sudu u projektnom natječaju. Te se informacije mogu razlikovati po grupi.</entry>
 <entry key="business-term|description|BG-705">Informacije o svim ostalim zahtjevima u pogledu sudjelovanja u postupku i uvjetima budućeg ugovora. Zahtjevi moraju sadržavati opis metoda prema kojima će se provjeravati. Te se informacije mogu razlikovati po grupi. U slučaju prethodne informacijske obavijesti upotrijebljene samo u informativne svrhe, te se informacije mogu razlikovati u onim dijelovima obavijesti koji se kasnije mogu pretvoriti u grupu ili samostalni postupak.</entry>
@@ -46,6 +49,7 @@
 <entry key="business-term|description|BG-72">Informacije o broju koji je povezan s kriterijima za odabir natjecatelja koji će biti pozvani u drugu fazu postupka.</entry>
 <entry key="business-term|description|BG-77">Informacije o izmjenama ugovora (npr. dodatni radovi, usluge ili roba). Te se informacije mogu razlikovati ovisno o odjeljcima prethodne obavijesti.</entry>
 <entry key="business-term|description|BG-8">Informacije o poljima koja nisu namijenjena za neposrednu objavu. Ove se informacije mogu razlikovati po polju.</entry>
+<entry key="business-term|description|BG-810">Informacije o energetskoj učinkovitosti proizvoda odabranih pod BT-811.</entry>
 <entry key="business-term|description|BG-9">Informacije o promjenama u obavijesti. Te se informacije mogu razlikovati ovisno o odjeljcima prethodne obavijesti.</entry>
 <entry key="business-term|description|BT-01">Pravna osnova (npr. Unijin ili nacionalni pravni akt) na temelju koje se provodi postupak javne nabave ili, u slučaju prethodnih informacijskih obavijesti, na temelju kojih će se provesti postupak ili postupci javne nabave.</entry>
 <entry key="business-term|description|BT-02">Vrsta obavijesti prema zakonodavstvu o nabavi.</entry>
@@ -264,6 +268,7 @@
 <entry key="business-term|description|BT-748">Kriteriji (ili kriterij) određene vrste upotrebljavaju se ili se ne upotrebljavaju, ili (u slučaju prethodne informacijske obavijesti upotrijebljene kao poziv na nadmetanje ili za smanjenje rokova) upotreba još nije poznata.</entry>
 <entry key="business-term|description|BT-749">Naziv kriterija za odabir.</entry>
 <entry key="business-term|description|BT-75">Opis financijskog jamstva koje se traži od ponuditelja prilikom podnošenja ponude. Jamstvo može biti u obliku, npr., isplate kupcu ili dokument iz banke. Pravo na jamstvo obično se gubi ako ponuditelj dobije ugovor, ali ga potom odbije potpisati.</entry>
+<entry key="business-term|description|BT-750">Kratki opis jednog ili više kriterija za odabir, uključujući minimalne zahtjeve, potrebne informacije (npr. osobna izjava, dokumentacija) te kako će se kriterij ili kriteriji koristiti za odabir natjecatelja koji će biti pozvani u drugu fazu postupka (ako je određen maksimalni broj natjecatelja).</entry>
 <entry key="business-term|description|BT-751">Jamstvo je potrebno.</entry>
 <entry key="business-term|description|BT-752">Broj povezan s kriterijima za odabir (ili kriterijem).</entry>
 <entry key="business-term|description|BT-7531">Navesti je li broj povezan s kriterijem za odabir (ili kriterijima za odabir) vrsta pondera (npr. postotak).</entry>
@@ -300,6 +305,8 @@
 <entry key="business-term|description|BT-784">Identifikacijska oznaka zahtjeva za pravnu zaštitu (preispitivanje) ili odluke o pravnoj zaštiti (preispitivanju). Zahtjevu za pravnu zaštitu (preispitivanje) pridaje se nova identifikacijska oznaka ako se upućuje tijelu za pravnu zaštitu (preispitivanje) višeg stupnja.</entry>
 <entry key="business-term|description|BT-785">Identifikacijska oznaka zahtjeva za pravnu zaštitu (preispitivanje) na temelju kojeg je donesena ova odluka ili odluka o pravnoj zaštiti (preispitivanju) koja je predmet tog zahtjeva za pravnu zaštitu (preispitivanje). Odluci o pravnoj zaštiti (preispitivanju) koju je pokrenulo tijelo za pravnu zaštitu ne prethodi zahtjev za pravnu zaštitu (preispitivanje).</entry>
 <entry key="business-term|description|BT-786">Identifikator jednog ili više odjeljaka u toj obavijesti. Informacije u odjeljku o pravnoj zaštiti (preispitivanju) odnose se na taj odjeljak ili odjeljke.</entry>
+<entry key="business-term|description|BT-787">Datum i vrijeme podnošenja zahtjeva za pravnu zaštitu (preispitivanje) ili donošenja odluke o pravnoj zaštiti (preispitivanju).</entry>
+<entry key="business-term|description|BT-788">Naslov zahtjeva za pravnu zaštitu (preispitivanje) odnosno odluke o pravnoj zaštiti (preispitivanju).</entry>
 <entry key="business-term|description|BT-789">Opis zahtjeva za pravnu zaštitu (preispitivanje) ili odluke o pravnoj zaštiti (preispitivanju) ili druge dodatne informacije.</entry>
 <entry key="business-term|description|BT-79">Moraju li se navesti imena i stručne kvalifikacije osoblja koje je zaduženo za izvršenje ugovora.</entry>
 <entry key="business-term|description|BT-790">Status odluke (npr. prihvaćeno, odbijeno jer podnositelj nije imao pravo podnijeti pritužbu).</entry>
@@ -309,14 +316,21 @@
 <entry key="business-term|description|BT-794">URL (npr. internetska adresa) dokumenata povezanih sa zahtjevom za pravnu zaštitu (preispitivanje) ili odlukom o pravnoj zaštiti (preispitivanju).</entry>
 <entry key="business-term|description|BT-795">Naknada za podnošenje zahtjeva za pravnu zaštitu (preispitivanje).</entry>
 <entry key="business-term|description|BT-796">Povlačenje zahtjeva za pravnu zaštitu (preispitivanje).</entry>
+<entry key="business-term|description|BT-797">Datum i vrijeme povlačenja zahtjeva za pravnu zaštitu (preispitivanje).</entry>
 <entry key="business-term|description|BT-798">Razlozi povlačenja zahtjeva za pravnu zaštitu (preispitivanje).</entry>
 <entry key="business-term|description|BT-801">Potreban je sporazum o povjerljivosti podataka</entry>
 <entry key="business-term|description|BT-802">Dodatne informacije o sporazumu o povjerljivosti podataka.</entry>
 <entry key="business-term|description|BT-803">Datum i vrijeme e-pošiljateljeva elektroničkog slanja obavijesti Uredu za publikacije Europske unije</entry>
 <entry key="business-term|description|BT-805">Postupak javne nabave uključuje primjenu uspostavljenih kriterija za zelenu javnu nabavu (kriteriji za odabir, tehničke specifikacije, kriteriji za dodjelu, stavke o izvršavanju ugovora) na razini Unije, nacionalnoj ili drugoj razini, ako je primjenjivo.</entry>
+<entry key="business-term|description|BT-806">Ako su osnove za isključenje definirane, na primjer, u dokumentaciji o nabavi ili u europskoj jedinstvenoj dokumentaciji o nabavi.</entry>
+<entry key="business-term|description|BT-809">Jedan ili više kriterija.</entry>
 <entry key="business-term|description|BT-810">Direktiva o energetskoj učinkovitosti (EED) (EU) 2023/1791 primjenjuje se na ovaj postupak javne nabave.</entry>
+<entry key="business-term|description|BT-811">Popis proizvoda, radova i usluga obuhvaćenih Direktivom o energetskom označavanju, Direktivom o eko-dizajnu, kriterijima Unije za zeleno javno nabavljanje, Uredbom 2023/740. U svrhu izvještavanja, uključene su i zgrade obuhvaćene obvezom iz članka 7. EED</entry>
 <entry key="business-term|description|BT-812">Oznake energetske učinkovitosti koje su dostavljene za proizvode (A+++, A++, A+, A, B, C, D).</entry>
 <entry key="business-term|description|BT-813">Vrijednost potrošnje energije u kWh/godini za proizvode za koje ne postoji oznaka, i ušteda energije u kWh/godini za usluge, zgrade ili radove. Za proizvode molimo prijavite godišnju potrošnju energije proizvoda. Za usluge, radove i zgrade molimo prijavite godišnje uštede energije.</entry>
+<entry key="business-term|description|BT-814">Jedinica brojčane vrijednosti energetske učinkovitosti, na primjer kWh/godišnje.</entry>
+<entry key="business-term|description|BT-815">Pružena ili procijenjena količina. Za proizvode molimo prijavite broj proizvoda. Za zgrade molimo prijavite korisnu površinu u m2. Za radove ili usluge nije potrebna vrijednost</entry>
+<entry key="business-term|description|BT-821">Ako su kriteriji za odabir definirani, na primjer, u dokumentaciji o nabavi ili u europskoj jedinstvenoj dokumentaciji o nabavi.</entry>
 <entry key="business-term|description|BT-88">Glavne značajke postupka (npr. opis pojedinačnih faza) i informacije o tome gdje se mogu pronaći sva pravila za postupak. Te se informacije moraju navesti kad je riječ o postupku koji se ne spominje u direktivama o javnoj nabavi. To može biti slučaj, npr. s koncesijama, društvenim i drugim posebnim uslugama te dobrovoljnim objavljivanjem postupaka javne nabave čija je vrijednost ispod pragova EU-a za javnu nabavu.</entry>
 <entry key="business-term|description|BT-92">Koristit će se elektroničko naručivanje.</entry>
 <entry key="business-term|description|BT-93">Koristit će se elektroničko plaćanje.</entry>
@@ -351,6 +365,7 @@
 <entry key="business-term|name|BG-4">Pobjednik</entry>
 <entry key="business-term|name|BG-44">Nagrada</entry>
 <entry key="business-term|name|BG-541">Broj kriterija za dodjelu</entry>
+<entry key="business-term|name|BG-556">Maksimalna vrijednost za skupinu u okvirnom sporazumu</entry>
 <entry key="business-term|name|BG-557">Maksimalna procijenjena vrijednost za skupinu u okvirnom sporazumu</entry>
 <entry key="business-term|name|BG-6">Postupak</entry>
 <entry key="business-term|name|BG-61">Financijska sredstva EU-a</entry>
@@ -566,6 +581,7 @@
 <entry key="business-term|name|BT-67">Opis</entry>
 <entry key="business-term|name|BT-681">Uredba o stranim subvencijama</entry>
 <entry key="business-term|name|BT-682">Mjere stranih subvencija</entry>
+<entry key="business-term|name|BT-684">Primjenjive mjere IPI</entry>
 <entry key="business-term|name|BT-685">Specifična mjera IPI</entry>
 <entry key="business-term|name|BT-686">Broj prijava za natječaj koje spadaju pod ovu mjeru IPI</entry>
 <entry key="business-term|name|BT-687">Izuzetak od primjene mjere IPI</entry>
@@ -616,6 +632,7 @@
 <entry key="business-term|name|BT-748">Primjena ovog kriterija</entry>
 <entry key="business-term|name|BT-749">Naziv</entry>
 <entry key="business-term|name|BT-75">Opis financijskog jamstva</entry>
+<entry key="business-term|name|BT-750">Opis</entry>
 <entry key="business-term|name|BT-751">Jamstvo je potrebno</entry>
 <entry key="business-term|name|BT-752">Kriteriji za odabir – poziv u drugu fazu, broj</entry>
 <entry key="business-term|name|BT-7531">Broj je ponder</entry>
@@ -667,6 +684,7 @@
 <entry key="business-term|name|BT-794">URL postupka pravne zaštite (preispitivanja)</entry>
 <entry key="business-term|name|BT-795">Naknada za podnošenje zahtjeva za pravnu zaštitu (preispitivanje)</entry>
 <entry key="business-term|name|BT-796">Povlačenje zahtjeva za pravnu zaštitu (preispitivanje)</entry>
+<entry key="business-term|name|BT-797">Datum povlačenja zahtjeva za pravnu zaštitu (preispitivanje)</entry>
 <entry key="business-term|name|BT-798">Razlozi povlačenja zahtjeva za pravnu zaštitu (preispitivanje)</entry>
 <entry key="business-term|name|BT-799">Vrsta tijela za pravnu zaštitu (preispitivanje)</entry>
 <entry key="business-term|name|BT-800">Rok za zaprimanje odgovora</entry>
@@ -675,14 +693,17 @@
 <entry key="business-term|name|BT-803">Datum e-pošiljateljeva slanja obavijesti</entry>
 <entry key="business-term|name|BT-804">Tehnički identifikator pregleda</entry>
 <entry key="business-term|name|BT-805">Kriteriji za zelenu javnu nabavu</entry>
+<entry key="business-term|name|BT-806">Isključujući razlozi</entry>
 <entry key="business-term|name|BT-807">Identifikator tijela za pregled</entry>
 <entry key="business-term|name|BT-808">Identifikator podnositelja zahtjeva za pregled</entry>
+<entry key="business-term|name|BT-809">Kriteriji za odabir</entry>
 <entry key="business-term|name|BT-810">EED primjenjivo</entry>
 <entry key="business-term|name|BT-811">EED popis</entry>
 <entry key="business-term|name|BT-812">Oznaka energetske učinkovitosti</entry>
 <entry key="business-term|name|BT-813">Potrošnja energije u kWh/godini</entry>
 <entry key="business-term|name|BT-814">Ušteda energije u kWh/godini</entry>
 <entry key="business-term|name|BT-815">Količina energetske učinkovitosti</entry>
+<entry key="business-term|name|BT-821">Izvor kriterija odabira</entry>
 <entry key="business-term|name|BT-88">Glavna obilježja postupka</entry>
 <entry key="business-term|name|BT-92">Naručivanje će biti elektroničko</entry>
 <entry key="business-term|name|BT-93">Plaćanje će biti elektroničko</entry>

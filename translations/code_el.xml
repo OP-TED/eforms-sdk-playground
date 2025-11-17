@@ -107,7 +107,7 @@
 <entry key="code|name|contract-detail.publ-ser-obl">Υποχρεώσεις παροχής δημόσιας υπηρεσίας</entry>
 <entry key="code|name|contract-detail.soc-stand">Κοινωνικά πρότυπα</entry>
 <entry key="code|name|contract-nature.services">Υπηρεσίες</entry>
-<entry key="code|name|contract-nature.supplies">Αγαθά</entry>
+<entry key="code|name|contract-nature.supplies">Προμήθειες</entry>
 <entry key="code|name|contract-nature.works">Έργα</entry>
 <entry key="code|name|contract-term.cost-comp">Παράμετροι κόστους για πληρωμές αποζημιώσεων</entry>
 <entry key="code|name|contract-term.exc-right">Χορηγούνται αποκλειστικά δικαιώματα</entry>
@@ -189,7 +189,7 @@
 <entry key="code|name|corporate-body.FAO">Οργάνωση Τροφίμων και Γεωργίας των Ηνωμένων Εθνών</entry>
 <entry key="code|name|corporate-body.FRA">Οργανισμός Θεμελιωδών Δικαιωμάτων της Ευρωπαϊκής Ένωσης</entry>
 <entry key="code|name|corporate-body.FRONTEX">Frontex</entry>
-<entry key="code|name|corporate-body.FUSEN">Ευρωπαϊκή κοινή επιχείρηση για τον ITER και την ανάπτυξη της ενέργειας από σύντηξη</entry>
+<entry key="code|name|corporate-body.FUSEN">Κοινή Επιχείρηση Fusion for Energy</entry>
 <entry key="code|name|corporate-body.HERA">Αρχή Ετοιμότητας και Αντιμετώπισης Καταστάσεων Έκτακτης Υγειονομικής Ανάγκης</entry>
 <entry key="code|name|corporate-body.IEA">Διεθνής Οργανισμός Ενέργειας</entry>
 <entry key="code|name|corporate-body.IHIJU">Κοινή επιχείρηση «Πρωτοβουλία για την Καινοτομία στην Υγεία»</entry>
@@ -816,13 +816,13 @@
 <entry key="code|name|cpv.14430000">Αλάτι προερχόμενο από εξάτμιση και καθαρό χλωριούχο νάτριο</entry>
 <entry key="code|name|cpv.14450000">Άλμη</entry>
 <entry key="code|name|cpv.14500000">Προϊόντα ορυχείων και λατομείων</entry>
-<entry key="code|name|cpv.14520000">Πολύτιμοι και ημιπολύτιμοι λίθοι· κισηρόλιθοι· σμύριδα· φυσικά λειαντικά· άλλα ορυκτά και πολύτιμα μέταλλα</entry>
+<entry key="code|name|cpv.14520000">Πολύτιμοι και ημιπολύτιμοι λίθοι· κισηρόλιθοι· σμύριδα· φυσικά λειαντικά· άλλα ορυκτά και πολύτιμα μέταλλα</entry>
 <entry key="code|name|cpv.14521000">Πολύτιμοι και ημιπολύτιμοι λίθοι</entry>
 <entry key="code|name|cpv.14521100">Πολύτιμοι λίθοι</entry>
 <entry key="code|name|cpv.14521140">Κονιοποιημένοι πολύτιμοι λίθοι</entry>
 <entry key="code|name|cpv.14521200">Ημιπολύτιμοι λίθοι</entry>
 <entry key="code|name|cpv.14521210">Κονιοποιημένοι ημιπολύτιμοι λίθοι</entry>
-<entry key="code|name|cpv.14522000">Βιομηχανικά διαμάντια· κισηρόλιθοι· σμύριδα· άλλα φυσικά λειαντικά</entry>
+<entry key="code|name|cpv.14522000">Βιομηχανικά διαμάντια· κισηρόλιθοι· σμύριδα· άλλα φυσικά λειαντικά</entry>
 <entry key="code|name|cpv.14522100">Κισηρόλιθος</entry>
 <entry key="code|name|cpv.14522200">Βιομηχανικά διαμάντια</entry>
 <entry key="code|name|cpv.14522300">Σμύριδα</entry>
@@ -987,7 +987,7 @@
 <entry key="code|name|cpv.15220000">Κατεψυγμένα ψάρια, φιλέτα ψαριών και άλλα κρέατα ψαριών</entry>
 <entry key="code|name|cpv.15221000">Κατεψυγμένα ψάρια</entry>
 <entry key="code|name|cpv.15229000">Κατεψυγμένα προϊόντα ψαριού</entry>
-<entry key="code|name|cpv.15230000">Αποξηραμένα ή παστά ψάρια· ψάρια σε άλμη· καπνιστά ψάρια</entry>
+<entry key="code|name|cpv.15230000">Αποξηραμένα ή παστά ψάρια· ψάρια σε άλμη· καπνιστά ψάρια</entry>
 <entry key="code|name|cpv.15231000">Αποξηραμένα ψάρια</entry>
 <entry key="code|name|cpv.15232000">Παστά ψάρια</entry>
 <entry key="code|name|cpv.15233000">Ψάρια σε άλμη</entry>
@@ -1082,7 +1082,7 @@
 <entry key="code|name|cpv.15332160">Επεξεργασμένες μπανάνες</entry>
 <entry key="code|name|cpv.15332170">Ρήο</entry>
 <entry key="code|name|cpv.15332180">Πεπόνια</entry>
-<entry key="code|name|cpv.15332200">Μαρμελάδες· ζελέδες φρούτων· πουρέδες και πολτοί φρούτων ή ξηρών καρπών</entry>
+<entry key="code|name|cpv.15332200">Μαρμελάδες· ζελέδες φρούτων· πουρέδες και πολτοί φρούτων ή ξηρών καρπών</entry>
 <entry key="code|name|cpv.15332230">Μαρμελάδες από εσπεριδοειδή</entry>
 <entry key="code|name|cpv.15332231">Μαρμελάδα πορτοκάλι</entry>
 <entry key="code|name|cpv.15332232">Μαρμελάδα λεμόνι</entry>
@@ -1206,7 +1206,7 @@
 <entry key="code|name|cpv.15615000">Πίτουρο</entry>
 <entry key="code|name|cpv.15620000">Άμυλα και αμυλώδη προϊόντα</entry>
 <entry key="code|name|cpv.15621000">Αραβοσιτέλαιο</entry>
-<entry key="code|name|cpv.15622000">Γλυκόζη και προϊόντα γλυκόζης· φρουκτόζη και προϊόντα φρουκτόζης</entry>
+<entry key="code|name|cpv.15622000">Γλυκόζη και προϊόντα γλυκόζης· φρουκτόζη και προϊόντα φρουκτόζης</entry>
 <entry key="code|name|cpv.15622100">Γλυκόζη και προϊόντα γλυκόζης</entry>
 <entry key="code|name|cpv.15622110">Γλυκόζη</entry>
 <entry key="code|name|cpv.15622120">Σιρόπι γλυκόζης</entry>
@@ -1241,7 +1241,7 @@
 <entry key="code|name|cpv.15812122">Γλυκές πίτες</entry>
 <entry key="code|name|cpv.15812200">Γλυκά</entry>
 <entry key="code|name|cpv.15813000">Εδέσματα προγεύματος</entry>
-<entry key="code|name|cpv.15820000">Παξιμάδια και μπισκότα· διατηρημένα είδη ζαχαροπλαστικής και γλυκίσματα</entry>
+<entry key="code|name|cpv.15820000">Παξιμάδια και μπισκότα· διατηρημένα είδη ζαχαροπλαστικής και γλυκίσματα</entry>
 <entry key="code|name|cpv.15821000">Φρυγανισμένα προϊόντα άρτου και είδη ζαχαροπλαστικής</entry>
 <entry key="code|name|cpv.15821100">Φρυγανισμένα προϊόντα άρτου</entry>
 <entry key="code|name|cpv.15821110">Φρυγανιές</entry>
@@ -1259,7 +1259,7 @@
 <entry key="code|name|cpv.15833000">Ζαχαρώδη προϊόντα</entry>
 <entry key="code|name|cpv.15833100">Επιδόρπια</entry>
 <entry key="code|name|cpv.15833110">Τάρτες</entry>
-<entry key="code|name|cpv.15840000">Κακάο· προϊόντα σοκολατοποιίας και ζαχαροπλαστικής</entry>
+<entry key="code|name|cpv.15840000">Κακάο· προϊόντα σοκολατοποιίας και ζαχαροπλαστικής</entry>
 <entry key="code|name|cpv.15841000">Κακάο</entry>
 <entry key="code|name|cpv.15841100">Πολτός κακάου</entry>
 <entry key="code|name|cpv.15841200">Βούτυρο, λίπος ή έλαιο κακάου</entry>
@@ -1295,7 +1295,7 @@
 <entry key="code|name|cpv.15864100">Τσάι σε φακελάκια</entry>
 <entry key="code|name|cpv.15865000">Αφεψήματα βοτάνων</entry>
 <entry key="code|name|cpv.15870000">Καρυκεύματα και αρτύματα</entry>
-<entry key="code|name|cpv.15871000">Ξίδι· σάλτσες· ανάμεικτα καρυκεύματα· άλευρο και χονδράλευρο σιναπιού· παρασκευασμένη μουστάρδα</entry>
+<entry key="code|name|cpv.15871000">Ξίδι· σάλτσες· ανάμεικτα καρυκεύματα· άλευρο και χονδράλευρο σιναπιού· παρασκευασμένη μουστάρδα</entry>
 <entry key="code|name|cpv.15871100">Ξίδι και υποκατάστατα του ξιδιού</entry>
 <entry key="code|name|cpv.15871110">Ξίδι ή ισοδύναμο</entry>
 <entry key="code|name|cpv.15871200">Σάλτσες, ανάμεικτα καρυκεύματα και αρτύματα</entry>
@@ -1468,7 +1468,7 @@
 <entry key="code|name|cpv.18221200">Άνορακ</entry>
 <entry key="code|name|cpv.18221300">Αδιάβροχα παλτά</entry>
 <entry key="code|name|cpv.18222000">Συλλογικός ρουχισμός</entry>
-<entry key="code|name|cpv.18222100">Κουστούμια (ανδρικά)· ταγιέρ (γυναικεία)</entry>
+<entry key="code|name|cpv.18222100">Κουστούμια (ανδρικά)· ταγιέρ (γυναικεία)</entry>
 <entry key="code|name|cpv.18222200">Σύνολα ρουχισμού</entry>
 <entry key="code|name|cpv.18223000">Επενδύτες και σακάκια τύπου μπλέιζερ</entry>
 <entry key="code|name|cpv.18223100">Σακάκια τύπου μπλέιζερ</entry>
@@ -1866,7 +1866,7 @@
 <entry key="code|name|cpv.24113200">Πεπιεσμένος αέρας</entry>
 <entry key="code|name|cpv.24200000">Χρώματα και χρωστικές ουσίες</entry>
 <entry key="code|name|cpv.24210000">Οξείδια, υπεροξείδια και υδροξείδια</entry>
-<entry key="code|name|cpv.24211000">Οξείδιο και υπεροξείδιο του ψευδαργύρου· οξείδιο του τιτανίου, χρώματα και χρωστικές ουσίες</entry>
+<entry key="code|name|cpv.24211000">Οξείδιο και υπεροξείδιο του ψευδαργύρου· οξείδιο του τιτανίου, χρώματα και χρωστικές ουσίες</entry>
 <entry key="code|name|cpv.24211100">Οξείδιο του ψευδαργύρου</entry>
 <entry key="code|name|cpv.24211200">Υπεροξείδιο του ψευδαργύρου</entry>
 <entry key="code|name|cpv.24211300">Οξείδιο του τιτανίου</entry>
@@ -1923,7 +1923,7 @@
 <entry key="code|name|cpv.24311700">Θείο</entry>
 <entry key="code|name|cpv.24311800">Άνθρακας</entry>
 <entry key="code|name|cpv.24311900">Χλώριο</entry>
-<entry key="code|name|cpv.24312000">Αλογονούχα άλατα μετάλλων· υποχλωριώδη, χλωρικά και υπερχλωρικά</entry>
+<entry key="code|name|cpv.24312000">Αλογονούχα άλατα μετάλλων· υποχλωριώδη, χλωρικά και υπερχλωρικά</entry>
 <entry key="code|name|cpv.24312100">Αλογονούχα άλατα μετάλλων</entry>
 <entry key="code|name|cpv.24312110">Εξαφθοροπυριτικό νάτριο</entry>
 <entry key="code|name|cpv.24312120">Χλωρίδια</entry>
@@ -1934,7 +1934,7 @@
 <entry key="code|name|cpv.24312200">Υποχλωριώδη και χλωρικά άλατα</entry>
 <entry key="code|name|cpv.24312210">Χλωριώδες νάτριο</entry>
 <entry key="code|name|cpv.24312220">Υποχλωριώδες νάτριο</entry>
-<entry key="code|name|cpv.24313000">Θειούχα και θειικά άλατα· νιτρικά, φωσφορικά και ανθρακικά άλατα</entry>
+<entry key="code|name|cpv.24313000">Θειούχα και θειικά άλατα· νιτρικά, φωσφορικά και ανθρακικά άλατα</entry>
 <entry key="code|name|cpv.24313100">Θειούχα, θειώδη και θειικά άλατα</entry>
 <entry key="code|name|cpv.24313110">Διάφορα θειούχα άλατα</entry>
 <entry key="code|name|cpv.24313111">Υδρόθειο</entry>
@@ -1995,7 +1995,7 @@
 <entry key="code|name|cpv.24321300">Χλωριωμένα παράγωγα άκυκλων υδρογονανθράκων</entry>
 <entry key="code|name|cpv.24321310">Τετραχλωραιθυλένιο</entry>
 <entry key="code|name|cpv.24321320">Τετραχλωράνθρακας</entry>
-<entry key="code|name|cpv.24322000">Αλκοόλες, φαινόλες, φαινολαλκοόλες και τα αλογονωμένα, θειωμένα, νιτρωμένα, ή νιτριδωμένα παράγωγά τους· βιομηχανικές λιπαρές αλκοόλες</entry>
+<entry key="code|name|cpv.24322000">Αλκοόλες, φαινόλες, φαινολαλκοόλες και τα αλογονωμένα, θειωμένα, νιτρωμένα, ή νιτριδωμένα παράγωγά τους· βιομηχανικές λιπαρές αλκοόλες</entry>
 <entry key="code|name|cpv.24322100">Βιομηχανικές λιπαρές αλκοόλες</entry>
 <entry key="code|name|cpv.24322200">Μονοσθενείς αλκοόλες</entry>
 <entry key="code|name|cpv.24322210">Μεθανόλη</entry>
@@ -2003,7 +2003,7 @@
 <entry key="code|name|cpv.24322300">Διόλες, πολυαλκοόλες, κυκλικές αλκοόλες και παράγωγά τους</entry>
 <entry key="code|name|cpv.24322310">Αιθυλενογλυκόλη</entry>
 <entry key="code|name|cpv.24322320">Παράγωγα αλκοόλης</entry>
-<entry key="code|name|cpv.24322400">Φαινόλες· φαινολαλκοόλες και παράγωγα φαινολών</entry>
+<entry key="code|name|cpv.24322400">Φαινόλες· φαινολαλκοόλες και παράγωγα φαινολών</entry>
 <entry key="code|name|cpv.24322500">Οινόπνευμα</entry>
 <entry key="code|name|cpv.24322510">Αιθυλική αλκοόλη</entry>
 <entry key="code|name|cpv.24323000">Βιομηχανικά μονοκαρβοξυλικά λιπαρά οξέα</entry>
@@ -2537,7 +2537,7 @@
 <entry key="code|name|cpv.30237475">Ηλεκτρικοί αισθητήρες</entry>
 <entry key="code|name|cpv.30237480">Μονάδες εισόδου</entry>
 <entry key="code|name|cpv.30238000">Εξοπλισμός ηλεκτρονικής βιβλιοθήκης</entry>
-<entry key="code|name|cpv.31000000">Ηλεκτρικές μηχανές, συσκευές, εξοπλισμός και αναλώσιμα· φωτισμός</entry>
+<entry key="code|name|cpv.31000000">Ηλεκτρικές μηχανές, συσκευές, εξοπλισμός και αναλώσιμα· φωτισμός</entry>
 <entry key="code|name|cpv.31100000">Ηλεκτροκινητήρες, ηλεκτρογεννήτριες και ηλεκτρικοί μετασχηματιστές</entry>
 <entry key="code|name|cpv.31110000">Ηλεκτρικοί κινητήρες</entry>
 <entry key="code|name|cpv.31111000">Προσαρμογείς</entry>
@@ -3235,7 +3235,7 @@
 <entry key="code|name|cpv.33138100">Οδοντοστοιχίες</entry>
 <entry key="code|name|cpv.33140000">Ιατρικά αναλώσιμα</entry>
 <entry key="code|name|cpv.33141000">Μη χημικά ιατρικά αναλώσιμα υλικά μιας χρήσεως και αιματολογικά αναλώσιμα υλικά</entry>
-<entry key="code|name|cpv.33141100">Επίδεσμοι· αγκτήρες, ράμματα, υλικά απολίνωσης</entry>
+<entry key="code|name|cpv.33141100">Επίδεσμοι· αγκτήρες, ράμματα, υλικά απολίνωσης</entry>
 <entry key="code|name|cpv.33141110">Επίδεσμοι</entry>
 <entry key="code|name|cpv.33141111">Αυτοκόλλητοι επίδεσμοι</entry>
 <entry key="code|name|cpv.33141112">Λευκοπλάστης με γάζα</entry>
@@ -3272,7 +3272,7 @@
 <entry key="code|name|cpv.33141327">Σύριγγες με οπή εξαερισμού</entry>
 <entry key="code|name|cpv.33141328">Βελόνες επισκληριδίου αναισθησίας</entry>
 <entry key="code|name|cpv.33141329">Βελόνες αμνιοπαρακέντησης</entry>
-<entry key="code|name|cpv.33141400">Κόφτες συρμάτων και νυστέρια· χειρουργικά γάντια</entry>
+<entry key="code|name|cpv.33141400">Κόφτες συρμάτων και νυστέρια· χειρουργικά γάντια</entry>
 <entry key="code|name|cpv.33141410">Κόφτες συρμάτων και νυστέρια</entry>
 <entry key="code|name|cpv.33141411">Ξέστρα και λάμες</entry>
 <entry key="code|name|cpv.33141420">Χειρουργικά γάντια</entry>
@@ -4022,7 +4022,7 @@
 <entry key="code|name|cpv.34622300">Τρόλεϊ</entry>
 <entry key="code|name|cpv.34622400">Σιδηροδρομικά βαγόνια</entry>
 <entry key="code|name|cpv.34622500">Σκευοφόροι και οχήματα ειδικής χρήσης</entry>
-<entry key="code|name|cpv.34630000">Μέρη σιδηροδρομικών ή τροχιοδρομικών μηχανών έλξης ή τροχαίου υλικού· εξοπλισμός ελέγχου της κυκλοφορίας για σιδηροδρόμους</entry>
+<entry key="code|name|cpv.34630000">Μέρη σιδηροδρομικών ή τροχιοδρομικών μηχανών έλξης ή τροχαίου υλικού· εξοπλισμός ελέγχου της κυκλοφορίας για σιδηροδρόμους</entry>
 <entry key="code|name|cpv.34631000">Μέρη σιδηροδρομικών ή τροχιοδρομικών μηχανών έλξης ή τροχαίου υλικού</entry>
 <entry key="code|name|cpv.34631100">Τροχοί ενός τεμαχίου</entry>
 <entry key="code|name|cpv.34631200">Προφυλακτήρες και συστήματα έλξης</entry>
@@ -4716,7 +4716,7 @@
 <entry key="code|name|cpv.37480000">Μηχανές ή συσκευές για εξοπλισμό δρατηριοτήτων ελεύθερου χρόνου</entry>
 <entry key="code|name|cpv.37481000">Μηχανές διατήρησης πάγου</entry>
 <entry key="code|name|cpv.37482000">Πίνακες ανακοινώσεων με πληροφορίες σχετικά με αθλήματα</entry>
-<entry key="code|name|cpv.37500000">Επιτραπέζια και παιδικά παιχνίδια· μέσα διασκέδασης για υπαίθριους χώρους πανηγυριών</entry>
+<entry key="code|name|cpv.37500000">Επιτραπέζια και παιδικά παιχνίδια· μέσα διασκέδασης για υπαίθριους χώρους πανηγυριών</entry>
 <entry key="code|name|cpv.37510000">Κούκλες</entry>
 <entry key="code|name|cpv.37511000">Κουκλόσπιτα</entry>
 <entry key="code|name|cpv.37512000">Μέρη ή εξαρτήματα για κούκλες</entry>
@@ -5071,7 +5071,7 @@
 <entry key="code|name|cpv.38654210">Αναγνώστες μικροφωτοδελτίων</entry>
 <entry key="code|name|cpv.38654300">Εξοπλισμός μικροφορμών</entry>
 <entry key="code|name|cpv.38654310">Αναγνώστες μικροφορμών</entry>
-<entry key="code|name|cpv.38700000">Συσκευές καταγραφής χρόνου και παρόμοιες συσκευές· παρκόμετρα</entry>
+<entry key="code|name|cpv.38700000">Συσκευές καταγραφής χρόνου και παρόμοιες συσκευές· παρκόμετρα</entry>
 <entry key="code|name|cpv.38710000">Συσκευές καταγραφής χρόνου</entry>
 <entry key="code|name|cpv.38720000">Όργανα αποτύπωσης χρόνου</entry>
 <entry key="code|name|cpv.38730000">Παρκόμετρα</entry>
@@ -5121,7 +5121,7 @@
 <entry key="code|name|cpv.39113300">Πάγκοι-καθίσματα</entry>
 <entry key="code|name|cpv.39113400">Ξαπλώστρες</entry>
 <entry key="code|name|cpv.39113500">Σκαμνιά</entry>
-<entry key="code|name|cpv.39113600">Πάγκοι· στασίδια</entry>
+<entry key="code|name|cpv.39113600">Πάγκοι· στασίδια</entry>
 <entry key="code|name|cpv.39113700">Υποπόδια</entry>
 <entry key="code|name|cpv.39114000">Μέρη καθισμάτων</entry>
 <entry key="code|name|cpv.39114100">Είδη ταπετσαρίας</entry>
@@ -5219,7 +5219,7 @@
 <entry key="code|name|cpv.39221123">Ποτήρια</entry>
 <entry key="code|name|cpv.39221130">Κυτία φαγητού</entry>
 <entry key="code|name|cpv.39221140">Παγούρια</entry>
-<entry key="code|name|cpv.39221150">Φιάλες εν κενώ· θερμό</entry>
+<entry key="code|name|cpv.39221150">Φιάλες εν κενώ· θερμό</entry>
 <entry key="code|name|cpv.39221160">Δίσκοι σερβιρίσματος</entry>
 <entry key="code|name|cpv.39221170">Σχάρες στεγνώματος</entry>
 <entry key="code|name|cpv.39221180">Μαγειρικά σκεύη</entry>
@@ -5274,7 +5274,7 @@
 <entry key="code|name|cpv.39230000">Προϊόντα ειδικών χρήσεων</entry>
 <entry key="code|name|cpv.39234000">Κυτία σήψης φυτικών απορριμμάτων για την παραγωγή λιπάσματος</entry>
 <entry key="code|name|cpv.39235000">Κέρματα αυτόματων μηχανών</entry>
-<entry key="code|name|cpv.39236000">Θάλαμοι ψεκασμού· φούρνοι βαφής</entry>
+<entry key="code|name|cpv.39236000">Θάλαμοι ψεκασμού· φούρνοι βαφής</entry>
 <entry key="code|name|cpv.39237000">Πάσσαλοι ένδειξης ορίων χιονισμένου δρόμου</entry>
 <entry key="code|name|cpv.39240000">Μαχαιροπίρουνα</entry>
 <entry key="code|name|cpv.39241000">Μαχαίρια και ψαλίδια</entry>
@@ -5312,7 +5312,7 @@
 <entry key="code|name|cpv.39293500">Απομιμήσεις κοσμημάτων</entry>
 <entry key="code|name|cpv.39294000">Συσκευές και εξοπλισμός για επίδειξη</entry>
 <entry key="code|name|cpv.39294100">Προϊόντα πληροφόρησης και προβολής</entry>
-<entry key="code|name|cpv.39295000">Ομπρέλες βροχής και ηλίου· μπαστούνια περιπάτου και μπαστούνια-καθίσματα</entry>
+<entry key="code|name|cpv.39295000">Ομπρέλες βροχής και ηλίου· μπαστούνια περιπάτου και μπαστούνια-καθίσματα</entry>
 <entry key="code|name|cpv.39295100">Ομπρέλες ηλίου</entry>
 <entry key="code|name|cpv.39295200">Ομπρέλες βροχής</entry>
 <entry key="code|name|cpv.39295300">Μπαστούνια-καθίσματα</entry>
@@ -5321,7 +5321,7 @@
 <entry key="code|name|cpv.39296000">Είδη κηδειών</entry>
 <entry key="code|name|cpv.39296100">Φέρετρα</entry>
 <entry key="code|name|cpv.39297000">Προμήθειες στρατοπέδων</entry>
-<entry key="code|name|cpv.39298000">Αγαλματίδια και άλλα είδη διακόσμησης· κορνίζες για φωτογραφίες ή πίνακες και καθρέπτες</entry>
+<entry key="code|name|cpv.39298000">Αγαλματίδια και άλλα είδη διακόσμησης· κορνίζες για φωτογραφίες ή πίνακες και καθρέπτες</entry>
 <entry key="code|name|cpv.39298100">Κορνίζες για φωτογραφίες</entry>
 <entry key="code|name|cpv.39298200">Κορνίζες για πίνακες</entry>
 <entry key="code|name|cpv.39298300">Ανθοδοχεία</entry>
@@ -5496,7 +5496,7 @@
 <entry key="code|name|cpv.39712200">Συσκευές κομμωτηρίου</entry>
 <entry key="code|name|cpv.39712210">Στεγνωτήρες μαλλιών</entry>
 <entry key="code|name|cpv.39712300">Συσκευές στεγνώματος χεριών</entry>
-<entry key="code|name|cpv.39713000">Οικιακές ηλεκτρικές συσκευές καθαρισμού· σίδερα σιδερώματος</entry>
+<entry key="code|name|cpv.39713000">Οικιακές ηλεκτρικές συσκευές καθαρισμού· σίδερα σιδερώματος</entry>
 <entry key="code|name|cpv.39713100">Πλυντήρια πιάτων</entry>
 <entry key="code|name|cpv.39713200">Πλυντήρια και στεγνωτήρια ρούχων</entry>
 <entry key="code|name|cpv.39713210">Πλυντήρια/στεγνωτήρια</entry>
@@ -5512,7 +5512,7 @@
 <entry key="code|name|cpv.39714000">Ανεμιστήρες και αεριοσυλλέκτες ανακύκλωσης του αέρα</entry>
 <entry key="code|name|cpv.39714100">Εξαεριστήρες</entry>
 <entry key="code|name|cpv.39714110">Απορροφητήρες</entry>
-<entry key="code|name|cpv.39715000">Θερμαντήρες νερού και θέρμανση κτιρίων· εξοπλισμός εγκαταστάσεων υγιεινής</entry>
+<entry key="code|name|cpv.39715000">Θερμαντήρες νερού και θέρμανση κτιρίων· εξοπλισμός εγκαταστάσεων υγιεινής</entry>
 <entry key="code|name|cpv.39715100">Ηλεκτρικοί θερμαντήρες νερού, στιγμιαίας θέρμανσης ή θερμοσυσσώρευσης, και θερμαντήρες εμβάπτισης</entry>
 <entry key="code|name|cpv.39715200">Εξοπλισμός θέρμανσης</entry>
 <entry key="code|name|cpv.39715210">Εξοπλισμός κεντρικής θέρμανσης</entry>
@@ -6257,7 +6257,7 @@
 <entry key="code|name|cpv.43820000">Εξοπλισμός υποδηματοποιίας</entry>
 <entry key="code|name|cpv.43830000">Ηλεκτροκίνητα εργαλεία</entry>
 <entry key="code|name|cpv.43840000">Εξοπλισμός σιδηρουργού</entry>
-<entry key="code|name|cpv.44000000">Δομές και υλικά κατασκευαστικών έργων· βοηθήματα κατασκευαστικών έργων (εκτός από ηλεκτρικές συσκευές)</entry>
+<entry key="code|name|cpv.44000000">Δομές και υλικά κατασκευαστικών έργων· βοηθήματα κατασκευαστικών έργων (εκτός από ηλεκτρικές συσκευές)</entry>
 <entry key="code|name|cpv.44100000">Κατασκευαστικά υλικά και παρόμοια είδη</entry>
 <entry key="code|name|cpv.44110000">Κατασκευαστικά υλικά</entry>
 <entry key="code|name|cpv.44111000">Οικοδομικά υλικά</entry>
@@ -6689,7 +6689,7 @@
 <entry key="code|name|cpv.44541000">Αρθρωτές αλυσίδες</entry>
 <entry key="code|name|cpv.44542000">Μέρη αλυσίδας</entry>
 <entry key="code|name|cpv.44550000">Ελατήρια</entry>
-<entry key="code|name|cpv.44600000">Δεξαμενές, ταμιευτήρες και δοχεία· σώματα καλοριφέρ και λέβητες</entry>
+<entry key="code|name|cpv.44600000">Δεξαμενές, ταμιευτήρες και δοχεία· σώματα καλοριφέρ και λέβητες</entry>
 <entry key="code|name|cpv.44610000">Δεξαμενές, ταμιευτήρες, δοχεία και δοχεία υπό πίεση</entry>
 <entry key="code|name|cpv.44611000">Δεξαμενές</entry>
 <entry key="code|name|cpv.44611100">Κυλινδροειδή δοχεία αέρος</entry>
@@ -7097,7 +7097,7 @@
 <entry key="code|name|cpv.45223820">Προκατασκευασμένες μονάδες και στοιχεία</entry>
 <entry key="code|name|cpv.45223821">Προκατασκευασμένες μονάδες</entry>
 <entry key="code|name|cpv.45223822">Προκατασκευασμένα στοιχεία</entry>
-<entry key="code|name|cpv.45230000">Κατασκευαστικές εργασίες για αγωγούς μεγάλων αποστάσεων, καλώδια επικοινωνιών και μεταφοράς ενέργειας, αυτοκινητόδρομους, οδούς, αεροδρόμια και σιδηρόδρομους· εργασίες διάστρωσης</entry>
+<entry key="code|name|cpv.45230000">Κατασκευαστικές εργασίες για αγωγούς μεγάλων αποστάσεων, καλώδια επικοινωνιών και μεταφοράς ενέργειας, αυτοκινητόδρομους, οδούς, αεροδρόμια και σιδηρόδρομους· εργασίες διάστρωσης</entry>
 <entry key="code|name|cpv.45231000">Κατασκευαστικές εργασίες για αγωγούς μεγάλων αποστάσεων, καλώδια επικοινωνιών και μεταφοράς ενέργειας</entry>
 <entry key="code|name|cpv.45231100">Γενικές κατασκευαστικές εργασίες για αγωγούς μεγάλων αποστάσεων</entry>
 <entry key="code|name|cpv.45231110">Κατασκευαστικές εργασίες για τοποθέτηση αγωγών</entry>
@@ -8244,7 +8244,7 @@
 <entry key="code|name|cpv.60651500">Υπηρεσίες εφεδρικών πλοίων</entry>
 <entry key="code|name|cpv.60651600">Υπηρεσίες πλοίων για τον ανεφοδιασμό ανοιχτής θαλάσσης</entry>
 <entry key="code|name|cpv.60653000">Ενοικίαση πλοίων με πλήρωμα</entry>
-<entry key="code|name|cpv.63000000">Βοηθητικές και επικουρικές υπηρεσίες μεταφορών· υπηρεσίες ταξιδιωτικών πρακτορείων</entry>
+<entry key="code|name|cpv.63000000">Βοηθητικές και επικουρικές υπηρεσίες μεταφορών· υπηρεσίες ταξιδιωτικών πρακτορείων</entry>
 <entry key="code|name|cpv.63100000">Υπηρεσίες διακίνησης και αποθήκευσης εμπορευμάτων</entry>
 <entry key="code|name|cpv.63110000">Υπηρεσίες διακίνησης εμπορευμάτων</entry>
 <entry key="code|name|cpv.63111000">Υπηρεσίες διακίνησης εμπορευματοκιβωτίων</entry>
@@ -10216,7 +10216,7 @@
 <entry key="code|name|energy-efficiency-item.dishwas">Πλυντήρια πιάτων</entry>
 <entry key="code|name|energy-efficiency-item.el-mo-vsd">Ηλεκτρικοί κινητήρες και συστήματα μετάδοσης μεταβλητής ταχύτητας</entry>
 <entry key="code|name|energy-efficiency-item.fuel-boil">Λέβητες στερεού καυσίμου</entry>
-<entry key="code|name|energy-efficiency-item.hea-cool">Προϊόντα για θέρμανση αέρα / ψυκτικά προϊόντα</entry>
+<entry key="code|name|energy-efficiency-item.hea-cool">Προϊόντα για θέρμανση αέρα / ψυκτικά προϊόντα</entry>
 <entry key="code|name|energy-efficiency-item.hous-freez">Οικιακά ψυγεία και καταψύκτες</entry>
 <entry key="code|name|energy-efficiency-item.indus-fan">Βιομηχανικοί ανεμιστήρες</entry>
 <entry key="code|name|energy-efficiency-item.ligh-gea">Φωτεινές πηγές και διατάξεις χειρισμού</entry>
@@ -10240,16 +10240,16 @@
 <entry key="code|name|energy-efficiency-item.was-ma-dry">Πλυντήρια ρούχων και πλυντήρια-στεγνωτήρια</entry>
 <entry key="code|name|energy-efficiency-item.weld-eq">Εξοπλισμός συγκόλλησης</entry>
 <entry key="code|name|energy-efficiency-item.works">Έργα</entry>
-<entry key="code|name|energy-efficiency-label.ENERA">A</entry>
-<entry key="code|name|energy-efficiency-label.ENERA1">A+</entry>
-<entry key="code|name|energy-efficiency-label.ENERA2">A++</entry>
-<entry key="code|name|energy-efficiency-label.ENERA3">A+++</entry>
-<entry key="code|name|energy-efficiency-label.ENERB">B</entry>
-<entry key="code|name|energy-efficiency-label.ENERC">C</entry>
-<entry key="code|name|energy-efficiency-label.ENERD">D</entry>
-<entry key="code|name|energy-efficiency-label.ENERE">E</entry>
-<entry key="code|name|energy-efficiency-label.ENERF">F</entry>
-<entry key="code|name|energy-efficiency-label.ENERG">G</entry>
+<entry key="code|name|energy-efficiency-label.ENERA">Ετικέτα ενεργειακής απόδοσης 'A'</entry>
+<entry key="code|name|energy-efficiency-label.ENERA1">Ετικέτα ενεργειακής απόδοσης 'A+'</entry>
+<entry key="code|name|energy-efficiency-label.ENERA2">Ετικέτα ενεργειακής απόδοσης 'A++'</entry>
+<entry key="code|name|energy-efficiency-label.ENERA3">Ετικέτα ενεργειακής απόδοσης 'A+++'</entry>
+<entry key="code|name|energy-efficiency-label.ENERB">Ετικέτα ενεργειακής απόδοσης 'B'</entry>
+<entry key="code|name|energy-efficiency-label.ENERC">Ετικέτα ενεργειακής απόδοσης 'C'</entry>
+<entry key="code|name|energy-efficiency-label.ENERD">Ετικέτα ενεργειακής απόδοσης 'D'</entry>
+<entry key="code|name|energy-efficiency-label.ENERE">Ετικέτα ενεργειακής απόδοσης 'E'</entry>
+<entry key="code|name|energy-efficiency-label.ENERF">Ετικέτα ενεργειακής απόδοσης 'F'</entry>
+<entry key="code|name|energy-efficiency-label.ENERG">Ετικέτα ενεργειακής απόδοσης 'G'</entry>
 <entry key="code|name|entity-activity.airport">Δραστηριότητες που αφορούν τους αερολιμένες</entry>
 <entry key="code|name|entity-activity.electricity">Δραστηριότητες που αφορούν την ηλεκτροδότηση</entry>
 <entry key="code|name|entity-activity.gas-heat">Παραγωγή, μεταφορά ή διανομή αερίου ή θερμότητας</entry>
@@ -10465,7 +10465,6 @@
 <entry key="code|name|eu-programme.TCC_2021">Στήριξη της τουρκοκυπριακής κοινότητας (2021/2027)</entry>
 <entry key="code|name|eu-programme.TERRCOOP">Ευρωπαϊκή εδαφική συνεργασία (2014/2020)</entry>
 <entry key="code|name|eu-programme.TRANSREG">Περιφέρειες μετάβασης (2014/2020)</entry>
-<entry key="code|name|eu-programme.UKF_2024">Διευκόλυνσης για την Ουκρανία (2024/2027)</entry>
 <entry key="code|name|eu-programme.VIS2020">Σύστημα Πληροφοριών για τις Θεωρήσεις (VIS) (2014/2020)</entry>
 <entry key="code|name|eu-programme.YEI">Πρωτοβουλία για την απασχόληση των νέων (ειδική χορήγηση ανεφοδιασμού) (2014/2020)</entry>
 <entry key="code|name|exclusion-ground.exg-crim">Λόγοι που σχετίζονται με ποινικές καταδίκες</entry>
@@ -10719,7 +10718,6 @@
 <entry key="code|name|lawful-country.AUT">Αυστρία</entry>
 <entry key="code|name|lawful-country.BEL">Βέλγιο</entry>
 <entry key="code|name|lawful-country.BGR">Βουλγαρία</entry>
-<entry key="code|name|lawful-country.BIH">Βοσνία και Ερζεγοβίνη</entry>
 <entry key="code|name|lawful-country.BLM">Άγιος Βαρθολομαίος</entry>
 <entry key="code|name|lawful-country.CHE">Ελβετία</entry>
 <entry key="code|name|lawful-country.CPT">Κλίπερτον</entry>
@@ -10731,7 +10729,6 @@
 <entry key="code|name|lawful-country.EST">Εσθονία</entry>
 <entry key="code|name|lawful-country.FIN">Φινλανδία</entry>
 <entry key="code|name|lawful-country.FRA">Γαλλία</entry>
-<entry key="code|name|lawful-country.GEO">Γεωργία</entry>
 <entry key="code|name|lawful-country.GRC">Ελλάδα</entry>
 <entry key="code|name|lawful-country.HRV">Κροατία</entry>
 <entry key="code|name|lawful-country.HUN">Ουγγαρία</entry>
@@ -16275,8 +16272,8 @@
 <entry key="code|name|review-decision-type.rej-other">Απορρίφθηκε επειδή ο καταγγέλλων δεν νομιμοποιείται, για άλλους λόγους πέραν της παρέλευσης της προθεσμίας υποβολής αιτήματος προσφυγής</entry>
 <entry key="code|name|review-decision-type.rej-resolv">Απορρίφθηκε επειδή το πρόβλημα έχει ήδη επιλυθεί</entry>
 <entry key="code|name|review-decision-type.rej-signed">Απορρίφθηκε επειδή η σύμβαση έχει ήδη υπογραφεί</entry>
-<entry key="code|name|review-information-type.dec">Απόφαση</entry>
-<entry key="code|name|review-information-type.req">Αίτηση</entry>
+<entry key="code|name|review-information-type.dec">Απόφαση </entry>
+<entry key="code|name|review-information-type.req">Αίτηση </entry>
 <entry key="code|name|review-requester-type.rev-req">Οργανισμός (ή πρόσωπο) που ασκεί προσφυγή και έχει ή είχε συμφέρον σε μια σύμβαση και που υπέστη ή κινδυνεύει να υποστεί ζημία από κατ’ ισχυρισμόν παράβαση</entry>
 <entry key="code|name|review-type.complainants">Καταγγέλλοντες</entry>
 <entry key="code|name|rewards-penalties.rew-pen">Πληροφορίες σχετικά με τις ανταμοιβές και τις κυρώσεις</entry>

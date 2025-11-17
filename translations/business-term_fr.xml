@@ -20,6 +20,7 @@
 <entry key="business-term|description|BG-4">Informations complémentaires sur le lauréat, le soumissionnaire ou le sous-traitant.</entry>
 <entry key="business-term|description|BG-44">Informations sur le montant et le rang des primes pour le lauréat du concours, du partenariat d’innovation ou du dialogue compétitif («première place – 10 000 EUR», «deuxième place – 5 000 EUR», etc.).</entry>
 <entry key="business-term|description|BG-541">Informations sur le nombre lié à un critère d’attribution.</entry>
+<entry key="business-term|description|BG-556">Informations sur la valeur maximale qui peut être dépensée pour un groupe de lots dans le cas d’un accord-cadre. Ces informations peuvent être fournies lorsque la valeur maximale d’un groupe de lots est inférieure à la somme des valeurs des lots individuels (lorsque le même budget est partagé pour plusieurs lots, par exemple). Ces valeurs maximales sont calculées sur la base de l’offre du lauréat ou des offres des lauréats.</entry>
 <entry key="business-term|description|BG-557">Informations sur la valeur maximale qui peut être dépensée pour un groupe de lots dans le cas d’un accord-cadre. Ces informations peuvent être fournies lorsque la valeur maximale d’un groupe de lots est inférieure à la somme des valeurs des lots individuels de ce groupe (lorsque le même budget est partagé pour plusieurs lots, par exemple).</entry>
 <entry key="business-term|description|BG-6">Informations sur la procédure de passation de marché</entry>
 <entry key="business-term|description|BG-61">Informations sur les Fonds de l’Union européenne utilisés pour financer le marché. Ces informations peuvent varier selon le lot.</entry>
@@ -30,6 +31,8 @@
 <entry key="business-term|description|BG-681">La liste des mesures relevant de l’IMPI appliquées à cette offre.</entry>
 <entry key="business-term|description|BG-7">Informations sur tous les résultats de la procédure de passation de marché ou, le cas échéant, des lots individuels annoncés dans le présent avis.</entry>
 <entry key="business-term|description|BG-700">Informations sur les motifs d’exclusion et les critères de sélection utilisés pour cette procédure de passation de marché.</entry>
+<entry key="business-term|description|BG-701">Description succincte des critères relatifs à la situation personnelle des soumissionnaires susceptibles d’entraîner leur exclusion. Elle doit inclure une liste de tous ces critères et préciser les informations requises (déclaration sur l’honneur, justificatifs, etc.). Elle peut également inclure des motifs spécifiques d’exclusion à l’échelon national.</entry>
+<entry key="business-term|description|BG-702">Informations sur le(s) critère(s) de sélection. Tous les critères doivent être énumérés. Ces informations peuvent varier selon le lot.</entry>
 <entry key="business-term|description|BG-703">Informations sur l’organisation. Ces informations peuvent varier selon le lot, le marché, l’offre, etc. Dans le cas d’un avis de préinformation utilisé uniquement à titre d’information, ces informations peuvent varier selon la partie de l’avis qui peut devenir ultérieurement un lot ou une procédure autonome.</entry>
 <entry key="business-term|description|BG-704">Informations sur les récompenses et le jury d’un concours. Ces informations peuvent varier selon le lot.</entry>
 <entry key="business-term|description|BG-705">Informations sur toute autre exigence de participation à la procédure et sur les conditions régissant le futur marché. Les exigences doivent comprendre une description des méthodes de contrôle de leur respect. Ces informations peuvent varier selon le lot. Dans le cas d’un avis de préinformation utilisé uniquement à titre d’information, ces informations peuvent varier selon la partie de l’avis qui peut devenir ultérieurement un lot ou une procédure autonome.</entry>
@@ -46,6 +49,7 @@
 <entry key="business-term|description|BG-72">Informations sur le nombre lié au(x) critère(s) de sélection appliqué(s) pour sélectionner les candidats à convoquer pour la seconde étape de la procédure.</entry>
 <entry key="business-term|description|BG-77">Informations sur les modifications apportées au marché (travaux, services ou fournitures supplémentaires, par exemple). Ces informations peuvent varier d’une section à l’autre par rapport à l’avis antérieur.</entry>
 <entry key="business-term|description|BG-8">Informations sur les champs non destinés à une publication immédiate. Ces informations peuvent varier selon le champ.</entry>
+<entry key="business-term|description|BG-810">Informations sur l’efficacité énergétique des produits mentionnés dans BT-811.</entry>
 <entry key="business-term|description|BG-9">Informations sur les changements apportés à l’avis. Ces informations peuvent varier d’une section à l’autre par rapport à l’avis antérieur.</entry>
 <entry key="business-term|description|BT-01">La base juridique (par exemple, un acte juridique de l’Union ou national) en vertu duquel la procédure de passation de marché a lieu ou, en cas d’avis de préinformation, en vertu duquel la ou les procédures de passation des marchés ont lieu.</entry>
 <entry key="business-term|description|BT-02">Type d’avis selon la législation sur les marchés publics.</entry>
@@ -264,6 +268,7 @@
 <entry key="business-term|description|BT-748">Le(s) critère(s) d’un type donné est (sont) utilisé(s), inutilisé(s) ou, dans le cas d’un avis de préinformation utilisé pour lancer un appel à la concurrence ou pour raccourcir les délais, leur utilisation n’est pas encore connue.</entry>
 <entry key="business-term|description|BT-749">Nom du (des) critère(s) de sélection.</entry>
 <entry key="business-term|description|BT-75">Description de la garantie financière requise du soumissionnaire lors de la présentation d’une offre. La garantie peut prendre la forme, par exemple, d’un paiement à l’acheteur ou d’un document bancaire. En règle générale, la garantie est perdue lorsqu’un soumissionnaire qui a remporté le marché refuse de le signer.</entry>
+<entry key="business-term|description|BT-750">Description succincte du (des) critère(s) de sélection, y compris les exigences minimales, les informations requises (déclaration sur l’honneur, justificatifs, etc.) et la manière dont le(s) critère(s) sera (seront) appliqué(s) pour sélectionner les candidats à convoquer pour la seconde étape de la procédure (si un nombre maximal de candidats a été fixé).</entry>
 <entry key="business-term|description|BT-751">Une garantie est requise.</entry>
 <entry key="business-term|description|BT-752">Nombre lié au(x) critère(s) de sélection</entry>
 <entry key="business-term|description|BT-7531">Informations indiquant si le nombre lié au(x) critère(s) de sélection est une pondération (pourcentage, par exemple).</entry>
@@ -300,6 +305,8 @@
 <entry key="business-term|description|BT-784">Identifiant d’une demande de réexamen ou d’une décision de réexamen. En cas d’appel devant une instance de recours d’un degré supérieur, un nouvel identifiant doit être attribué à la demande de réexamen.</entry>
 <entry key="business-term|description|BT-785">Identifiant de la ou des demandes de réexamen ayant débouché sur cette décision ou une décision de réexamen qui fait l’objet d’un appel intenté au moyen de cette demande de réexamen. Une décision de réexamen prise sur l’initiative de l’instance de recours (agissant d’office) n’est pas précédée d’une demande de réexamen.</entry>
 <entry key="business-term|description|BT-786">Identifiant d’une ou de plusieurs sections dans le présent avis. Les informations contenues dans la section “Recours” se rapportent à cette ou ces sections.</entry>
+<entry key="business-term|description|BT-787">La date et l’heure auxquelles la demande de réexamen a été introduite ou auxquelles la décision de réexamen a été prise.</entry>
+<entry key="business-term|description|BT-788">Intitulé de la demande de réexamen ou de la décision de réexamen.</entry>
 <entry key="business-term|description|BT-789">Description de la demande de réexamen ou de la décision de réexamen, ou toute autre information complémentaire.</entry>
 <entry key="business-term|description|BT-79">Informations indiquant si les noms et les qualifications professionnelles du personnel chargé de l’exécution du marché doivent être mentionnés.</entry>
 <entry key="business-term|description|BT-790">Type de décision (p.ex. acceptée ou rejetée faute de qualité pour agir de la part du plaignant).</entry>
@@ -309,14 +316,21 @@
 <entry key="business-term|description|BT-794">L’adresse URL (p. ex. adresse du site web) permettant d’accéder aux documents concernant la demande ou la décision de réexamen.</entry>
 <entry key="business-term|description|BT-795">La redevance payée pour introduire la demande de réexamen.</entry>
 <entry key="business-term|description|BT-796">La demande de réexamen a été retirée.</entry>
+<entry key="business-term|description|BT-797">La date et l’heure auxquelles la demande de réexamen a été retirée.</entry>
 <entry key="business-term|description|BT-798">Les raisons du retrait de la demande de réexamen.</entry>
 <entry key="business-term|description|BT-801">Un accord de confidentialité est requis.</entry>
 <entry key="business-term|description|BT-802">Informations complémentaires sur l’accord de confidentialité.</entry>
 <entry key="business-term|description|BT-803">La date et l’heure de l’avis ont été transmises électroniquement par l’eSender à l’Office des publications de l’Union européenne.</entry>
 <entry key="business-term|description|BT-805">La procédure de passation de marchés comprend l’utilisation du critère établi de marché public écologique (critères de sélection, spécifications techniques, critères d’attribution et clauses d’exécution du contrat), au niveau national, de l’Union ou autre, le cas échéant.</entry>
+<entry key="business-term|description|BT-806">Lorsque les motifs d’exclusion sont définis, par exemple dans les documents de marché ou dans le DUME.</entry>
+<entry key="business-term|description|BT-809">Les critères (ou le critère)</entry>
 <entry key="business-term|description|BT-810">La directive (UE) 2023/1791 relative à l’efficacité énergétique (DEE) est applicable à cette procédure de passation de marché.</entry>
+<entry key="business-term|description|BT-811">Liste des produits, travaux et services couverts par la Directive sur l'étiquetage énergétique, par la Directive sur l'écoconception, par les critères d'achat public vert de l'Union, par le Règlement 2020/740. À des fins de rapport, les bâtiments couverts par l'obligation de l'article 7 de l'EED sont également inclus</entry>
 <entry key="business-term|description|BT-812">Les étiquettes énergétiques accompagnant les produits (A+++, A++, A+, A, B, C, D).</entry>
 <entry key="business-term|description|BT-813">La valeur de la consommation d'énergie en kWh/an pour les produits pour lesquels il n'existe pas d'étiquette, et les économies d'énergie en kWh/an pour les services, les bâtiments ou les travaux. Pour les produits, veuillez indiquer la consommation d'énergie annuelle du produit. Pour les services, les travaux et les bâtiments, veuillez indiquer les économies d'énergie annuelles.</entry>
+<entry key="business-term|description|BT-814">L’unité utilisée pour calculer l’efficacité énergétique, p.ex. kWh/an.</entry>
+<entry key="business-term|description|BT-815">La quantité fournie ou estimée. Pour les produits, veuillez indiquer le nombre de produits. Pour les bâtiments, veuillez indiquer la superficie utile en m2. Pour les travaux ou services, aucune valeur n'est nécessaire</entry>
+<entry key="business-term|description|BT-821">Lorsque les critères de sélection sont définis, par exemple dans les documents de marché ou dans le DUME.</entry>
 <entry key="business-term|description|BT-88">Principales caractéristiques de la procédure (description de chacune des étapes, par exemple) et informations sur l’endroit où obtenir les règles complètes applicables à la procédure. Ces informations doivent être fournies lorsque la procédure ne fait pas partie de celles mentionnées dans les directives relatives aux marchés publics. Il peut s’agir, par exemple, des concessions, des services sociaux et autres services spécifiques, et de la publication volontaire de procédures de passation de marchés portant sur des montants inférieurs aux seuils prévus pour les marchés publics de l’Union européenne.</entry>
 <entry key="business-term|description|BT-92">La commande en ligne sera utilisée.</entry>
 <entry key="business-term|description|BT-93">Le paiement en ligne sera utilisé.</entry>
@@ -351,6 +365,7 @@
 <entry key="business-term|name|BG-4">Lauréat</entry>
 <entry key="business-term|name|BG-44">Prix</entry>
 <entry key="business-term|name|BG-541">Nombre critère d’attribution</entry>
+<entry key="business-term|name|BG-556">Valeur maximale d’un groupe de lots dans le cas d’un accord-cadre</entry>
 <entry key="business-term|name|BG-557">Valeur maximale estimée d’un groupe de lots dans le cas d’un accord-cadre</entry>
 <entry key="business-term|name|BG-6">Procédure</entry>
 <entry key="business-term|name|BG-61">Fonds de l’UE</entry>
@@ -566,6 +581,7 @@
 <entry key="business-term|name|BT-67">Description</entry>
 <entry key="business-term|name|BT-681">Règlement sur les subventions étrangères</entry>
 <entry key="business-term|name|BT-682">Mesures de subventions étrangères</entry>
+<entry key="business-term|name|BT-684">Mesures IPI applicables</entry>
 <entry key="business-term|name|BT-685">Mesure spécifique de l'IPI</entry>
 <entry key="business-term|name|BT-686">Nombre de demandes d'offre qui relèvent de cette mesure IPI</entry>
 <entry key="business-term|name|BT-687">Exception à l'application de la mesure IPI</entry>
@@ -616,6 +632,7 @@
 <entry key="business-term|name|BT-748">Utilisation de ce critère</entry>
 <entry key="business-term|name|BT-749">Nom</entry>
 <entry key="business-term|name|BT-75">Description de la garantie financière</entry>
+<entry key="business-term|name|BT-750">Description</entry>
 <entry key="business-term|name|BT-751">Une garantie est requise</entry>
 <entry key="business-term|name|BT-752">Nombre critères sélection seconde étape</entry>
 <entry key="business-term|name|BT-7531">Le nombre est une pondération</entry>
@@ -667,6 +684,7 @@
 <entry key="business-term|name|BT-794">URL du réexamen</entry>
 <entry key="business-term|name|BT-795">Redevance pour la demande de réexamen</entry>
 <entry key="business-term|name|BT-796">Demande de réexamen retirée</entry>
+<entry key="business-term|name|BT-797">Date de retrait de la demande de réexamen</entry>
 <entry key="business-term|name|BT-798">Motifs du retrait de la demande de réexamen</entry>
 <entry key="business-term|name|BT-799">Type d’instance chargée des procédures de recours</entry>
 <entry key="business-term|name|BT-800">Date limite de réception des réponses</entry>
@@ -675,14 +693,17 @@
 <entry key="business-term|name|BT-803">Date d’envoi de l’avis (eSender)</entry>
 <entry key="business-term|name|BT-804">Identifiant technique de l'examen</entry>
 <entry key="business-term|name|BT-805">Critères marchés publics écologiques</entry>
+<entry key="business-term|name|BT-806">Source des motifs d'exclusion</entry>
 <entry key="business-term|name|BT-807">Identifiant de l'organe d'examen</entry>
 <entry key="business-term|name|BT-808">Identifiant du demandeur d'examen</entry>
+<entry key="business-term|name|BT-809">Critères de sélection</entry>
 <entry key="business-term|name|BT-810">EED applicable</entry>
 <entry key="business-term|name|BT-811">Liste EED</entry>
 <entry key="business-term|name|BT-812">Étiquette d'efficacité énergétique</entry>
 <entry key="business-term|name|BT-813">Consommation d'énergie en kWh/an</entry>
 <entry key="business-term|name|BT-814">Économies d'énergie en kWh/an</entry>
 <entry key="business-term|name|BT-815">Quantité d'efficacité énergétique</entry>
+<entry key="business-term|name|BT-821">Source des critères de sélection</entry>
 <entry key="business-term|name|BT-88">Principales caractéristiques de la procédure</entry>
 <entry key="business-term|name|BT-92">La commande en ligne sera utilisée</entry>
 <entry key="business-term|name|BT-93">Le paiement en ligne sera utilisé</entry>

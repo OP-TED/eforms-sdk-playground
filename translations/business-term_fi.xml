@@ -20,6 +20,7 @@
 <entry key="business-term|description|BG-4">Lisätietoja voittajasta, tarjoajasta tai alihankkijasta.</entry>
 <entry key="business-term|description|BG-44">Tiedot suunnittelukilpailun, innovaatiokumppanuuden tai kilpailullisen neuvottelumenettelyn voittajien palkintojen arvosta ja sijoituksesta (esim. ”10 000 euroa – 1. sija”, ”5 000 euroa – 2. sija”).</entry>
 <entry key="business-term|description|BG-541">Tiedot myöntämisperusteeseen liittyvästä luvusta.</entry>
+<entry key="business-term|description|BG-556">Tiedot enimmäisarvosta, joka voidaan käyttää puitejärjestelyyn kuuluvassa erien ryhmässä. Nämä tiedot voidaan antaa, jos erien ryhmän enimmäisarvo on pienempi kuin yksittäisten erien arvojen summa (esim. kun sama talousarvio on jaettu useille erille). Enimmäisarvot lasketaan voittavan tarjouksen/tarjouksien perusteella.</entry>
 <entry key="business-term|description|BG-557">Tiedot enimmäisarvosta, joka voidaan käyttää puitejärjestelyyn kuuluvassa erien ryhmässä. Nämä tiedot voidaan antaa, jos erien ryhmän enimmäisarvo on pienempi kuin ryhmän yksittäisten erien arvojen summa (esim. kun sama talousarvio on jaettu useille erille).</entry>
 <entry key="business-term|description|BG-6">Hankintamenettelyä koskevat tiedot.</entry>
 <entry key="business-term|description|BG-61">Tiedot hankinnan rahoitukseen käytetyistä unionin varoista. Nämä tiedot voivat vaihdella erän mukaan.</entry>
@@ -30,6 +31,8 @@
 <entry key="business-term|description|BG-681">Luettelo tähän tarjoukseen sovelletuista IPI-menettelyistä</entry>
 <entry key="business-term|description|BG-7">Tiedot kaikista hankintamenettelyn tuloksista tai soveltuvin osin tässä ilmoituksessa ilmoitetuista yksittäisistä eristä.</entry>
 <entry key="business-term|description|BG-700">Tiedot tässä hankintamenettelyssä käytetyistä poissulkemis- ja valintaperusteista.</entry>
+<entry key="business-term|description|BG-701">Lyhyt kuvaus tarjoajien henkilökohtaista tilannetta koskevista perusteista, jotka voivat johtaa tarjoajien poissulkemiseen. Tässä on mainittava kaikki tällaiset perusteet ja ilmoitettava vaaditut tiedot (esim. oma ilmoitus, dokumentaatio). Tähän voi sisältyä myös erityisiä kansallisia poissulkemisperusteita.</entry>
+<entry key="business-term|description|BG-702">Tiedot valintaperusteista (tai -perusteesta). Kaikki kriteerit on mainittava. Nämä tiedot voivat vaihdella erän mukaan.</entry>
 <entry key="business-term|description|BG-703">Organisaatiota koskevat tiedot. Nämä tiedot voivat vaihdella erän, hankintasopimuksen, tarjouksen jne. mukaan. Jos kyseessä on ennakkoilmoitus vain tietotarkoituksiin, nämä tiedot voivat vaihdella ilmoituksen osien mukaan, jotka voidaan myöhemmin erotella omiksi erikseen tai menettelyikseen.</entry>
 <entry key="business-term|description|BG-704">Tiedot palkinnoista ja valintalautakunnasta suunnittelukilpailussa. Nämä tiedot voivat vaihdella erän mukaan.</entry>
 <entry key="business-term|description|BG-705">Tiedot muista vaatimuksista, jotka koskevat osallistumista menettelyyn ja tulevan hankintasopimuksen ehtoja. Vaatimuksiin on sisällyttävä kuvaus menetelmistä, joiden mukaisesti niiden noudattaminen tarkistetaan. Nämä tiedot voivat vaihdella erän mukaan. Jos kyseessä on ennakkoilmoitus vain tietotarkoituksiin, nämä tiedot voivat vaihdella ilmoituksen osien mukaan, jotka voidaan myöhemmin erotella omiksi erikseen tai menettelyikseen.</entry>
@@ -46,6 +49,7 @@
 <entry key="business-term|description|BG-72">Tiedot menettelyn jälkimmäiseen vaiheeseen kutsuttavien ehdokkaiden valintaperusteisiin (tai -perusteeseen) liittyvästä luvusta.</entry>
 <entry key="business-term|description|BG-77">Tiedot hankintasopimuksen muutoksista (esim. lisäurakat, -palvelut tai -toimitukset). Nämä tiedot voivat vaihdella edellisen ilmoituksen kohtien mukaan.</entry>
 <entry key="business-term|description|BG-8">Tiedot kentistä, joita ei ole tarkoitettu julkaistavaksi välittömästi. Nämä tiedot voivat vaihdella kentittäin.</entry>
+<entry key="business-term|description|BG-810">Tiedot kohdassa BT-811 mainittujen tuotteiden energiatehokkuudesta.</entry>
 <entry key="business-term|description|BG-9">Tiedot ilmoituksen muutoksista. Nämä tiedot voivat vaihdella edellisen ilmoituksen kohtien mukaan.</entry>
 <entry key="business-term|description|BT-01">Oikeusperusta (esim. unionin tai kansallinen säädös), jonka nojalla hankintamenettely toteutetaan tai ennakkoilmoitusten tapauksessa tullaan toteuttamaan.</entry>
 <entry key="business-term|description|BT-02">Hankintoja koskevan lainsäädännön mukainen ilmoituksen tyyppi.</entry>
@@ -264,6 +268,7 @@
 <entry key="business-term|description|BT-748">Tietyn tyyppisiä perusteita (tai perustetta) käytetään, ei käytetä tai (jos kyseessä on ennakkoilmoitus kutsuna tarjouskilpailuun tai määräaikojen lyhentämiseksi) käyttö ei ole vielä tiedossa.</entry>
 <entry key="business-term|description|BT-749">Valintaperusteiden (tai -perusteen) nimi.</entry>
 <entry key="business-term|description|BT-75">Tarjoajalta tarjouksen jättämisen yhteydessä vaadittavan rahallisen vakuuden kuvaus. Vakuus voi olla esimerkiksi ostajalle suoritettava maksu tai pankin antama asiakirja. Yleensä vakuus menetetään, jos tarjoaja on voittanut sopimuksen mutta kieltäytyy allekirjoittamasta sitä.</entry>
+<entry key="business-term|description|BT-750">Lyhyt kuvaus valintaperusteista (tai -perusteesta), mukaan lukien vähimmäisvaatimukset, vaaditut tiedot (esim. oma ilmoitus, dokumentaatio) ja siitä, miten perusteita (tai perustetta) käytetään valittaessa menettelyn jälkimmäiseen vaiheeseen kutsuttavia ehdokkaita (jos ehdokkaille on asetettu enimmäismäärä).</entry>
 <entry key="business-term|description|BT-751">Vakuus vaaditaan.</entry>
 <entry key="business-term|description|BT-752">Valintaperusteisiin (tai -perusteeseen) liittyvä luku.</entry>
 <entry key="business-term|description|BT-7531">Onko valintaperusteeseen (tai valintaperusteisiin) liittyvä luku tyypiltään painotus (esim. prosenttiosuus).</entry>
@@ -300,6 +305,8 @@
 <entry key="business-term|description|BT-784">Muutoksenhakupyynnön tai muutoksenhaun ratkaisun tunniste. Jos muutosta haetaan korkeammalta muutoksenhakuelimeltä, muutoksenhakupyynnöille on annettava uusi tunniste.</entry>
 <entry key="business-term|description|BT-785">Sen päätöksen tai ratkaisun perustana olevien muutoksenhakupyyntöjen tunnisteet, johon tällä pyynnöllä haetaan muutosta. Muutoksenhakuelimen viran puolesta tekemä ratkaisu ei edellytä muutoksenhakupyyntöä.</entry>
 <entry key="business-term|description|BT-786">Tämän ilmoituksen yhden tai useamman kohdan tunniste. Kohdassa ”Muutoksenhaku” olevat tiedot viittaavat tähän kohtaan tai näihin kohtiin.</entry>
+<entry key="business-term|description|BT-787">Päivämäärä ja kellonaika, jolloin muutoksenhakupyyntö esitettiin tai ratkaisu tehtiin.</entry>
+<entry key="business-term|description|BT-788">Muutoksenhakupyynnön tai muutoksenhaun ratkaisun nimi.</entry>
 <entry key="business-term|description|BT-789">Muutoksenhakupyynnön tai muutoksenhaun ratkaisun kuvaus tai mahdolliset muut lisätiedot.</entry>
 <entry key="business-term|description|BT-79">Onko hankintasopimuksen toteuttamiseen osoitetun henkilöstön nimet ja ammatillinen pätevyys ilmoitettava.</entry>
 <entry key="business-term|description|BT-790">Päätöksen tyyppi (esim. hyväksytty, hylätty muutoksenhakijan asiavaltuuden puuttumisen vuoksi).</entry>
@@ -309,14 +316,21 @@
 <entry key="business-term|description|BT-794">Muutoksenhakupyyntöön tai ratkaisuun liittyvien asiakirjojen URL-osoite (verkko-osoite).</entry>
 <entry key="business-term|description|BT-795">Muutoksenhakupyynnön jättämisestä maksettu maksu.</entry>
 <entry key="business-term|description|BT-796">Muutoksenhakupyyntö peruttiin.</entry>
+<entry key="business-term|description|BT-797">Päivämäärä ja kellonaika, jolloin muutoksenhakupyyntö peruttiin.</entry>
 <entry key="business-term|description|BT-798">Syyt muutoksenhakupyynnön perumiseen.</entry>
 <entry key="business-term|description|BT-801">Salassapitosopimus vaaditaan.</entry>
 <entry key="business-term|description|BT-802">Lisätietoja salassapitosopimuksesta.</entry>
 <entry key="business-term|description|BT-803">Päivämäärä ja kellonaika, jona eSender-käyttäjä lähetti ilmoituksen sähköisesti Euroopan unionin julkaisutoimistolle.</entry>
 <entry key="business-term|description|BT-805">Hankintamenettelyssä käytettävät kansallisella tai unionin tasolla taikka muulla tasolla vahvistetut ympäristöä säästäviä julkisia hankintoja koskevat kriteerit (valintakriteerit, tekniset eritelmät, myöntämisperusteet ja sopimuksen toteuttamista koskevat lausekkeet), mikäli sellaisia sovelletaan.</entry>
+<entry key="business-term|description|BT-806">Paikka, jossa poissulkemisperusteet on määritelty, esimerkiksi hankinta-asiakirjat tai yhteinen eurooppalainen hankinta-asiakirja (ESPD).</entry>
+<entry key="business-term|description|BT-809">Perusteet (tai peruste).</entry>
 <entry key="business-term|description|BT-810">Tähän hankintamenettelyyn sovelletaan energiatehokkuusdirektiiviä (EU) 2023/1791.</entry>
+<entry key="business-term|description|BT-811">Luettelo tuotteista, töistä ja palveluista, jotka kuuluvat energiamerkintädirektiivin, ekosuunnitteluohjeen, unionin vihreän julkisen hankinnan kriteerien ja asetuksen 2020/740 piiriin. Raportointitarkoituksia varten myös EED:n 7 artiklan velvoitteen piiriin kuuluvat rakennukset sisältyvät</entry>
 <entry key="business-term|description|BT-812">Tuotteille annetut energiatehokkuusmerkinnät (A+++, A++, A+, A, B, C, D).</entry>
 <entry key="business-term|description|BT-813">Energiankulutuksen arvo kWh/vuosi tuotteille, joille ei ole merkintää, ja energiansäästöt kWh/vuosi palveluille, rakennuksille tai töille. Ilmoita tuotteiden vuotuinen energiankulutus tuotteille. Ilmoita palvelujen, töiden ja rakennusten vuotuiset energiansäästöt.</entry>
+<entry key="business-term|description|BT-814">Yksikkö, jona energiatehokuutta ilmaiseva luku on esitetty, esim. kWh/vuosi.</entry>
+<entry key="business-term|description|BT-815">Tarjottu tai arvioitu määrä. Ilmoita tuotteiden määrä tuotteille. Ilmoita rakennuksille hyödyllinen lattiapinta-ala m2. Töitä tai palveluita varten arvoa ei tarvita</entry>
+<entry key="business-term|description|BT-821">Paikka, jossa valintaperusteet on määritelty, esimerkiksi hankinta-asiakirjat tai yhteinen eurooppalainen hankinta-asiakirja (ESPD).</entry>
 <entry key="business-term|description|BT-88">Menettelyn tärkeimmät piirteet (esim. kuvaus yksittäisistä vaiheista) ja tiedot siitä, missä menettelyn kaikki säännöt ovat saatavilla. Nämä tiedot on annettava silloin, kun menettely ei ole yksi hankintadirektiivissä mainituista. Tämä voi koskea esimerkiksi käyttöoikeussopimuksia, sosiaalipalveluja ja muita erityisiä palveluja sekä tapauksia, joissa hankintamenettelyt julkaistaan vapaaehtoispohjalta alle EU:n hankintojen kynnysarvojen.</entry>
 <entry key="business-term|description|BT-92">Tilaukset tehdään sähköisesti.</entry>
 <entry key="business-term|description|BT-93">Käytetäänkö sähköisiä maksuja.</entry>
@@ -351,6 +365,7 @@
 <entry key="business-term|name|BG-4">Voittaja</entry>
 <entry key="business-term|name|BG-44">Palkinto</entry>
 <entry key="business-term|name|BG-541">Vertailuperusteeseen liittyvä luku</entry>
+<entry key="business-term|name|BG-556">Osien ryhmän enimmäisarvo puitejärjestelyssä</entry>
 <entry key="business-term|name|BG-557">Osien ryhmän arvioitu enimmäisarvo puitejärjestelyssä</entry>
 <entry key="business-term|name|BG-6">Menettely</entry>
 <entry key="business-term|name|BG-61">EU:n rahoitus</entry>
@@ -566,6 +581,7 @@
 <entry key="business-term|name|BT-67">Kuvaus</entry>
 <entry key="business-term|name|BT-681">Ulkomaisten tukien asetus (FSR)</entry>
 <entry key="business-term|name|BT-682">Ulkomaisten tukien toimenpiteet</entry>
+<entry key="business-term|name|BT-684">Sovellettavat IPI-toimenpiteet</entry>
 <entry key="business-term|name|BT-685">Erityinen IPI-toimenpide</entry>
 <entry key="business-term|name|BT-686">Tarjoushakemusten määrä, jotka kuuluvat tämän IPI-toimenpiteen piiriin</entry>
 <entry key="business-term|name|BT-687">Poikkeus IPI-toimenpiteen soveltamisesta</entry>
@@ -616,6 +632,7 @@
 <entry key="business-term|name|BT-748">Tämän perusteen käyttö</entry>
 <entry key="business-term|name|BT-749">Nimi</entry>
 <entry key="business-term|name|BT-75">Vakuuden kuvaus</entry>
+<entry key="business-term|name|BT-750">Kuvaus</entry>
 <entry key="business-term|name|BT-751">Vakuus vaaditaan</entry>
 <entry key="business-term|name|BT-752">Valintaperusteen luku</entry>
 <entry key="business-term|name|BT-7531">Luku on tyypiltään painotus</entry>
@@ -667,6 +684,7 @@
 <entry key="business-term|name|BT-794">Muutoksenhaun URL</entry>
 <entry key="business-term|name|BT-795">Muutoksenhakupyynnön maksu</entry>
 <entry key="business-term|name|BT-796">Muutoksenhakupyynnön peruminen</entry>
+<entry key="business-term|name|BT-797">Muutoksenhakupyynnön perumispäivä</entry>
 <entry key="business-term|name|BT-798">Muutoksenhakupyynnön perumissyyt</entry>
 <entry key="business-term|name|BT-799">Muutoksenhakuelimen tyyppi</entry>
 <entry key="business-term|name|BT-800">Vastausten määräaika</entry>
@@ -675,14 +693,17 @@
 <entry key="business-term|name|BT-803">Ilmoituksen lähetyspäivä (eSender)</entry>
 <entry key="business-term|name|BT-804">Teknisen tarkastuksen tunniste</entry>
 <entry key="business-term|name|BT-805">Ympäristöä säästävien hankintojen kriteerit</entry>
+<entry key="business-term|name|BT-806">Poissulkemisperusteiden ilmoittamispaikka</entry>
 <entry key="business-term|name|BT-807">Tarkastuselimen tunniste</entry>
 <entry key="business-term|name|BT-808">Tarkastushakemuksen tekijän tunniste</entry>
+<entry key="business-term|name|BT-809">Valintaperusteet</entry>
 <entry key="business-term|name|BT-810">EED sovellettavissa</entry>
 <entry key="business-term|name|BT-811">EED luettelo</entry>
 <entry key="business-term|name|BT-812">Energiatehokkuusmerkintä</entry>
 <entry key="business-term|name|BT-813">Energiankulutus kWh/vuosi</entry>
 <entry key="business-term|name|BT-814">Energiansäästöt kWh/vuodessa</entry>
 <entry key="business-term|name|BT-815">Energiatehokkuusmäärä</entry>
+<entry key="business-term|name|BT-821">Valintaperusteiden ilmoittamispaikka</entry>
 <entry key="business-term|name|BT-88">Menettelyn tärkeimmät piirteet</entry>
 <entry key="business-term|name|BT-92">Tilaukset tehdään sähköisesti</entry>
 <entry key="business-term|name|BT-93">Maksut tehdään sähköisesti</entry>

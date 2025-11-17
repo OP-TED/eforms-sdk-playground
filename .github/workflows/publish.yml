@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - 'develop'
+      - 'efx-2'
 
   release:
     types: [created]
@@ -29,7 +30,7 @@ jobs:
         with:
           java-version: '11'
           distribution: 'adopt'
-          server-id: ossrh
+          server-id: central
           server-username: MAVEN_USERNAME
           server-password: MAVEN_PASSWORD
       - name: Publish to the Maven Central Repository
