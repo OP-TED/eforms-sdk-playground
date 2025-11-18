@@ -8,7 +8,6 @@
 		<assert id="ND-OperationType-38" role="ERROR" diagnostics="ND-OperationType" test="count(efac:NoticePurpose) = 0">rule|text|ND-OperationType-38</assert>
 		<assert id="ND-Part-38" role="ERROR" diagnostics="ND-Part" test="count(cac:ProcurementProjectLot[cbc:ID/@schemeName='Part']) = 0">rule|text|ND-Part-38</assert>
 		<assert id="ND-ProcedureProcurementScope-38" role="ERROR" diagnostics="ND-ProcedureProcurementScope" test="count(cac:ProcurementProject) &gt; 0">rule|text|ND-ProcedureProcurementScope-38</assert>
-		<assert id="ND-ProcedureTenderingProcess-38" role="ERROR" diagnostics="ND-ProcedureTenderingProcess" test="count(cac:TenderingProcess) = 0">rule|text|ND-ProcedureTenderingProcess-38</assert>
 		<assert id="ND-RootExtension-38" role="ERROR" diagnostics="ND-RootExtension" test="count(ext:UBLExtensions/ext:UBLExtension/ext:ExtensionContent/efext:EformsExtension) &gt; 0">rule|text|ND-RootExtension-38</assert>
 		<assert id="ND-SenderContact-38" role="ERROR" diagnostics="ND-SenderContact" test="count(cac:SenderParty/cac:Contact) = 0">rule|text|ND-SenderContact-38</assert>
 	</rule>
@@ -29,7 +28,6 @@
 		<assert id="ND-AuctionTerms-38" role="ERROR" diagnostics="ND-AuctionTerms" test="count(cac:AuctionTerms) = 0">rule|text|ND-AuctionTerms-38</assert>
 		<assert id="ND-LotPreviousPlanning-38" role="ERROR" diagnostics="ND-LotPreviousPlanning" test="count(cac:NoticeDocumentReference) = 0">rule|text|ND-LotPreviousPlanning-38</assert>
 		<assert id="ND-LotTenderingProcessExtension-38" role="ERROR" diagnostics="ND-LotTenderingProcessExtension" test="count(ext:UBLExtensions/ext:UBLExtension/ext:ExtensionContent/efext:EformsExtension) = 0">rule|text|ND-LotTenderingProcessExtension-38</assert>
-		<assert id="ND-SecondStage-38" role="ERROR" diagnostics="ND-SecondStage" test="count(cac:EconomicOperatorShortList) = 0">rule|text|ND-SecondStage-38</assert>
 	</rule>
 	<rule context="/*/cac:ProcurementProjectLot[cbc:ID/@schemeName='Lot']/cac:TenderingTerms[$noticeSubType = '38']">
 		<assert id="ND-AwardingTerms-38" role="ERROR" diagnostics="ND-AwardingTerms" test="count(cac:AwardingTerms) = 0">rule|text|ND-AwardingTerms-38</assert>
@@ -45,10 +43,15 @@
 	</rule>
 	<rule context="/*/cac:ProcurementProjectLot[cbc:ID/@schemeName='LotsGroup'][$noticeSubType = '38']">
 		<assert id="ND-LotsGroupAwardingTerms-38" role="ERROR" diagnostics="ND-LotsGroupAwardingTerms" test="count(cac:TenderingTerms/cac:AwardingTerms) = 0">rule|text|ND-LotsGroupAwardingTerms-38</assert>
-		<assert id="ND-LotsGroupFA-38" role="ERROR" diagnostics="ND-LotsGroupFA" test="count(cac:TenderingProcess/cac:FrameworkAgreement) = 0">rule|text|ND-LotsGroupFA-38</assert>
 	</rule>
 	<rule context="/*/cac:ProcurementProjectLot[cbc:ID/@schemeName='LotsGroup']/cac:ProcurementProject[$noticeSubType = '38']">
 		<assert id="ND-LotsGroupValueEstimate-38" role="ERROR" diagnostics="ND-LotsGroupValueEstimate" test="count(cac:RequestedTenderTotal) = 0">rule|text|ND-LotsGroupValueEstimate-38</assert>
+	</rule>
+	<rule context="/*/cac:TenderingProcess[$noticeSubType = '38']">
+		<assert id="ND-ProcedureFeaturesUnpublish-38" role="ERROR" diagnostics="ND-ProcedureFeaturesUnpublish" test="count(ext:UBLExtensions/ext:UBLExtension/ext:ExtensionContent/efext:EformsExtension/efac:FieldsPrivacy) = 0">rule|text|ND-ProcedureFeaturesUnpublish-38</assert>
+	</rule>
+	<rule context="/*/cac:TenderingProcess/cac:ProcessJustification[$noticeSubType = '38']">
+		<assert id="ND-DirectAwardJustificationPreviousUnpublish-38" role="ERROR" diagnostics="ND-DirectAwardJustificationPreviousUnpublish" test="count(ext:UBLExtensions/ext:UBLExtension/ext:ExtensionContent/efext:EformsExtension/efac:FieldsPrivacy) = 0">rule|text|ND-DirectAwardJustificationPreviousUnpublish-38</assert>
 	</rule>
 	<rule context="/*/cac:TenderingTerms[$noticeSubType = '38']">
 		<assert id="ND-TendererQualificationRequest-38" role="ERROR" diagnostics="ND-TendererQualificationRequest" test="count(cac:TendererQualificationRequest) = 0">rule|text|ND-TendererQualificationRequest-38</assert>
