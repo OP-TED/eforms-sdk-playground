@@ -1,4 +1,4 @@
-# SDK 1.14.0 Release Notes
+# SDK 1.99.0 Release Notes v2
 
 This release of the SDK does not contain any backwards incompatible changes: software that was able to use version 1.13.2 should also be able to use this version.
 
