@@ -1,41 +1,45 @@
+# SIMULATION ONLY — does NOT publish to Maven Central.
+#
+# This file exists on the playground repo so the MDM Release Wizard
+# can test the publish step end-to-end without touching the real
+# Maven Central registry. It mirrors the shape of the real publish
+# workflow (same name, same release-create trigger) so the wizard's
+# polling code behaves identically against playground and prod —
+# the only difference is that the body sleeps + exits success
+# instead of running an actual `mvn deploy`.
+#
+# The `push: develop` trigger from the real workflow is intentionally
+# dropped here: we don't want a sleep-2-min job firing on every commit
+# during testing. Only release-create + manual dispatch.
+
 name: Publish package to the Maven Central Repository
 
 on:
-  push:
-    branches:
-      - 'develop'
-      - 'efx-2'
-
   release:
     types: [created]
-
-  # Allows to run this workflow manually from the Actions tab
   workflow_dispatch:
 
 jobs:
   publish:
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      packages: write
     steps:
-      - uses: actions/checkout@v4
-      - name: Import GPG Key
-        uses: crazy-max/ghaction-import-gpg@v6
-        with:
-          gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
-          passphrase: ${{ secrets.GPG_PASSPHRASE }}
-      - name: Set up Java for publishing to Maven Central Repository
-        uses: actions/setup-java@v4
-        with:
-          java-version: '11'
-          distribution: 'adopt'
-          server-id: central
-          server-username: MAVEN_USERNAME
-          server-password: MAVEN_PASSWORD
-      - name: Publish to the Maven Central Repository
-        run: mvn --batch-mode deploy -Dgpg.passphrase='${{ secrets.GPG_PASSPHRASE }}' -Prelease
-        env:
-          MAVEN_USERNAME: ${{ secrets.OSSRH_USERNAME }}
-          MAVEN_PASSWORD: ${{ secrets.OSSRH_TOKEN }}
-
+      - name: Simulation notice
+        run: |
+          echo "================================================"
+          echo " SIMULATION ONLY — playground repository."
+          echo " This workflow does NOT publish anything to Maven"
+          echo " Central. It exists so the MDM Release Wizard can"
+          echo " test the publish step end-to-end without touching"
+          echo " the real artifact registry."
+          echo "================================================"
+      - name: Simulate Maven build + GPG sign + OSSRH deploy
+        run: |
+          echo "Simulating Maven build + GPG sign + OSSRH deploy..."
+          echo "Sleeping for 120 seconds to mimic real deploy time."
+          sleep 120
+          echo "Simulated deploy complete. (No JAR was uploaded anywhere.)"
+      - name: Done
+        run: |
+          echo "On prod this workflow would have queued the JAR for"
+          echo "Maven Central indexing (visible in 30 min - 24h)."
+          echo "On playground the JAR will never appear on Maven Central."
