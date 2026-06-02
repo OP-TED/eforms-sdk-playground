@@ -1,6 +1,6 @@
 {
   "ublVersion" : "2.3",
-  "sdkVersion" : "eforms-sdk-1.14.12-rc.2",
+  "sdkVersion" : "eforms-sdk-1.14.12",
   "metadataDatabase" : {
     "version" : "1.14.0",
     "createdOn" : "2026-05-31T13:22:52"
