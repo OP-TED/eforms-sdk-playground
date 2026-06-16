@@ -3,10 +3,7 @@
 <properties>
 <comment>group in Dutch. File generated from metadata database.</comment>
 <entry key="group|name|GR-Assets-Extended-Duration">Contractverlenging</entry>
-<entry key="group|name|GR-Business-Address">Adres</entry>
-<entry key="group|name|GR-Business-Contact">Contact</entry>
 <entry key="group|name|GR-Business-Party">Zakelijke partij</entry>
-<entry key="group|name|GR-Business-Publication">Publicatie</entry>
 <entry key="group|name|GR-Business-Section">Aankondiging</entry>
 <entry key="group|name|GR-Business-Sector">Bedrijfsactiviteit</entry>
 <entry key="group|name|GR-Buyer">Overeenkomstsluitende partij en dienstverlener</entry>
