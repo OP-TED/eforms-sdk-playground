@@ -3,10 +3,7 @@
 <properties>
 <comment>group in Hungarian. File generated from metadata database.</comment>
 <entry key="group|name|GR-Assets-Extended-Duration">Szerződéshosszabbítás</entry>
-<entry key="group|name|GR-Business-Address">Cím</entry>
-<entry key="group|name|GR-Business-Contact">Kapcsolattartó</entry>
 <entry key="group|name|GR-Business-Party">Vállalkozó fél</entry>
-<entry key="group|name|GR-Business-Publication">Közzététel</entry>
 <entry key="group|name|GR-Business-Section">Hirdetmény</entry>
 <entry key="group|name|GR-Business-Sector">Üzleti tevékenység</entry>
 <entry key="group|name|GR-Buyer">Ajánlatkérő fél és szolgáltató</entry>
