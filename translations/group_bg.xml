@@ -3,10 +3,7 @@
 <properties>
 <comment>group in Bulgarian. File generated from metadata database.</comment>
 <entry key="group|name|GR-Assets-Extended-Duration">Удължаване на договора</entry>
-<entry key="group|name|GR-Business-Address">Адрес</entry>
-<entry key="group|name|GR-Business-Contact">Контакт</entry>
 <entry key="group|name|GR-Business-Party">Стопански субект</entry>
-<entry key="group|name|GR-Business-Publication">Публикация</entry>
 <entry key="group|name|GR-Business-Section">Обявление</entry>
 <entry key="group|name|GR-Business-Sector">Бизнес дейност</entry>
 <entry key="group|name|GR-Buyer">Договаряща се страна и доставчик на услуги</entry>
