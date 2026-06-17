@@ -1,4 +1,4 @@
-# SDK yyy Release Notes
+# SDK 123 Release Notes
 
 Update of pattern-matching rules for amount fields inter alia to allow for negative amounts.
 
