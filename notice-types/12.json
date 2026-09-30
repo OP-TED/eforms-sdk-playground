@@ -1,9 +1,9 @@
 {
   "ublVersion" : "2.3",
-  "sdkVersion" : "1.16.0-beta.3",
+  "sdkVersion" : "1.15.2-rc.1",
   "metadataDatabase" : {
-    "version" : "1.14.51",
-    "createdOn" : "2026-09-10T16:05:32"
+    "version" : "1.14.0",
+    "createdOn" : "2026-06-17T12:33:52"
   },
   "noticeId" : "12",
   "metadata" : [ {
@@ -355,9 +355,7 @@
             "contentType" : "field",
             "displayType" : "COMBOBOX",
             "description" : "Classification Type (e.g. CPV)",
-            "_label" : "field|name|BT-26(m)-Procedure",
-            "_presetValue" : "cpv",
-            "hidden" : true
+            "_label" : "field|name|BT-26(m)-Procedure"
           }, {
             "id" : "BT-262-Procedure",
             "contentType" : "field",
@@ -378,9 +376,7 @@
             "contentType" : "field",
             "displayType" : "COMBOBOX",
             "description" : "Classification Type (e.g. CPV)",
-            "_label" : "field|name|BT-26(a)-Procedure",
-            "_presetValue" : "cpv",
-            "hidden" : true
+            "_label" : "field|name|BT-26(a)-Procedure"
           }, {
             "id" : "BT-263-Procedure",
             "contentType" : "field",
@@ -766,9 +762,7 @@
             "contentType" : "field",
             "displayType" : "COMBOBOX",
             "description" : "Classification Type (e.g. CPV)",
-            "_label" : "field|name|BT-26(m)-Lot",
-            "_presetValue" : "cpv",
-            "hidden" : true
+            "_label" : "field|name|BT-26(m)-Lot"
           }, {
             "id" : "BT-262-Lot",
             "contentType" : "field",
@@ -789,9 +783,7 @@
             "contentType" : "field",
             "displayType" : "COMBOBOX",
             "description" : "Classification Type (e.g. CPV)",
-            "_label" : "field|name|BT-26(a)-Lot",
-            "_presetValue" : "cpv",
-            "hidden" : true
+            "_label" : "field|name|BT-26(a)-Lot"
           }, {
             "id" : "BT-263-Lot",
             "contentType" : "field",
@@ -1418,12 +1410,6 @@
             "description" : "Award Criterion Type",
             "_label" : "field|name|BT-539-Lot"
           }, {
-            "id" : "BT-734-Lot",
-            "contentType" : "field",
-            "displayType" : "TEXTAREA",
-            "description" : "Award Criterion Name",
-            "_label" : "field|name|BT-734-Lot"
-          }, {
             "id" : "BT-540-Lot",
             "contentType" : "field",
             "displayType" : "TEXTAREA",
@@ -1498,6 +1484,12 @@
                 "_label" : "field|name|BT-5423-Lot"
               } ]
             } ]
+          }, {
+            "id" : "BT-734-Lot",
+            "contentType" : "field",
+            "displayType" : "TEXTAREA",
+            "description" : "Award Criterion Name",
+            "_label" : "field|name|BT-734-Lot"
           } ]
         }, {
           "id" : "BT-543-Lot",
@@ -1526,8 +1518,7 @@
           "contentType" : "field",
           "displayType" : "TEXTBOX",
           "description" : "Prize Rank",
-          "_label" : "field|name|BT-44-Lot",
-          "_presetValue" : "999"
+          "_label" : "field|name|BT-44-Lot"
         }, {
           "id" : "BT-644-Lot",
           "contentType" : "field",
@@ -2041,30 +2032,6 @@
         "_label" : "group|name|GR-Lot-ProcurementDocuments",
         "_repeatable" : true,
         "content" : [ {
-          "id" : "BT-14-Lot",
-          "contentType" : "field",
-          "displayType" : "COMBOBOX",
-          "description" : "Documents Restricted",
-          "_label" : "field|name|BT-14-Lot"
-        }, {
-          "id" : "BT-707-Lot",
-          "contentType" : "field",
-          "displayType" : "COMBOBOX",
-          "description" : "Documents Restricted Justification",
-          "_label" : "field|name|BT-707-Lot"
-        }, {
-          "id" : "BT-15-Lot",
-          "contentType" : "field",
-          "displayType" : "TEXTBOX",
-          "description" : "Documents URL",
-          "_label" : "field|name|BT-15-Lot"
-        }, {
-          "id" : "BT-615-Lot",
-          "contentType" : "field",
-          "displayType" : "TEXTBOX",
-          "description" : "Documents Restricted URL",
-          "_label" : "field|name|BT-615-Lot"
-        }, {
           "id" : "GR-Lot-DocsAllOfficialLanguages",
           "contentType" : "group",
           "nodeId" : "ND-LotDocAllOfficialLanguages",
@@ -2111,12 +2078,35 @@
             } ]
           } ]
         }, {
+          "id" : "BT-14-Lot",
+          "contentType" : "field",
+          "displayType" : "COMBOBOX",
+          "description" : "Documents Restricted",
+          "_label" : "field|name|BT-14-Lot"
+        }, {
+          "id" : "BT-707-Lot",
+          "contentType" : "field",
+          "displayType" : "COMBOBOX",
+          "description" : "Documents Restricted Justification",
+          "_label" : "field|name|BT-707-Lot"
+        }, {
+          "id" : "BT-15-Lot",
+          "contentType" : "field",
+          "displayType" : "TEXTBOX",
+          "description" : "Documents URL",
+          "_label" : "field|name|BT-15-Lot"
+        }, {
+          "id" : "BT-615-Lot",
+          "contentType" : "field",
+          "displayType" : "TEXTBOX",
+          "description" : "Documents Restricted URL",
+          "_label" : "field|name|BT-615-Lot"
+        }, {
           "id" : "OPT-140-Lot",
           "contentType" : "field",
           "displayType" : "TEXTBOX",
           "description" : "Procurement Documents ID",
-          "_label" : "field|name|OPT-140-Lot",
-          "_presetValue" : "procurement_document_id"
+          "_label" : "field|name|OPT-140-Lot"
         } ]
       }, {
         "id" : "GR-Lot-SubmissionTool",
@@ -2362,12 +2352,6 @@
             "description" : "Award Criterion Type",
             "_label" : "field|name|BT-539-LotsGroup"
           }, {
-            "id" : "BT-734-LotsGroup",
-            "contentType" : "field",
-            "displayType" : "TEXTAREA",
-            "description" : "Award Criterion Name",
-            "_label" : "field|name|BT-734-LotsGroup"
-          }, {
             "id" : "BT-540-LotsGroup",
             "contentType" : "field",
             "displayType" : "TEXTAREA",
@@ -2442,6 +2426,12 @@
                 "_label" : "field|name|BT-5423-LotsGroup"
               } ]
             } ]
+          }, {
+            "id" : "BT-734-LotsGroup",
+            "contentType" : "field",
+            "displayType" : "TEXTAREA",
+            "description" : "Award Criterion Name",
+            "_label" : "field|name|BT-734-LotsGroup"
           } ]
         }, {
           "id" : "BT-543-LotsGroup",
