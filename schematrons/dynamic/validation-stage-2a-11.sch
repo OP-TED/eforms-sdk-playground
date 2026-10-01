@@ -59,7 +59,7 @@
 	</rule>
 	<rule context="/*/cac:ContractingParty[$noticeSubType = '11']">
 		<assert id="BR-BT-00610-0016" role="ERROR" diagnostics="ND-ContractingParty_BT-610-Procedure-Buyer" test="count(cac:ContractingActivity[cbc:ActivityTypeCode/@listName='entity-activity']/cbc:ActivityTypeCode[@listName='entity-activity']) &gt; 0">rule|text|BR-BT-00610-0016</assert>
-		<assert id="BR-BT-00740-0016" role="ERROR" diagnostics="ND-ContractingParty_BT-740-Procedure-Buyer" test="count(cac:ContractingPartyType[cbc:PartyTypeCode/@listName='buyer-contracting-type']/cbc:PartyTypeCode[@listName='buyer-contracting-type']) = 0">rule|text|BR-BT-00740-0016</assert>
+		<assert id="BR-BT-00740-0016" role="ERROR" diagnostics="ND-ContractingParty_BT-740-Procedure-Buyer" test="count(cac:ContractingPartyType[cbc:PartyTypeCode/@listName='buyer-legal-type']/cbc:PartyTypeCode[@listName='buyer-contracting-type']) = 0">rule|text|BR-BT-00740-0016</assert>
 	</rule>
 	<rule context="/*/cac:ContractingParty/cac:Party[$noticeSubType = '11']">
 		<assert id="BR-OPT-00300-0116" role="ERROR" diagnostics="OPT-300-Procedure-Buyer" test="count(cac:PartyIdentification/cbc:ID) &gt; 0">rule|text|BR-OPT-00300-0116</assert>
@@ -348,8 +348,8 @@
 	</rule>
 	<rule context="/*/cac:ProcurementProjectLot[cbc:ID/@schemeName='Part']/cac:TenderingTerms/cac:CallForTendersDocumentReference[$noticeSubType = '11']">
 		<assert id="BR-BT-00014-0016" role="ERROR" diagnostics="BT-14-Part" test="count(cbc:DocumentType) = 0">rule|text|BR-BT-00014-0016</assert>
-		<assert id="BR-BT-00015-0016" role="ERROR" diagnostics="ND-PartProcurementDocument_BT-15-Part" test="count(cac:Attachment[../cbc:DocumentType/text()='non-restricted-document']/cac:ExternalReference/cbc:URI) = 0">rule|text|BR-BT-00015-0016</assert>
-		<assert id="BR-BT-00615-0016" role="ERROR" diagnostics="ND-PartProcurementDocument_BT-615-Part" test="count(cac:Attachment[../cbc:DocumentType/text()='restricted-document']/cac:ExternalReference/cbc:URI) = 0">rule|text|BR-BT-00615-0016</assert>
+		<assert id="BR-BT-00015-0016" role="ERROR" diagnostics="ND-PartProcurementDocument_BT-15-Part" test="count(cac:Attachment[../cbc:DocumentType/text()='restricted-document']/cac:ExternalReference/cbc:URI) = 0">rule|text|BR-BT-00015-0016</assert>
+		<assert id="BR-BT-00615-0016" role="ERROR" diagnostics="ND-PartProcurementDocument_BT-615-Part" test="count(cac:Attachment[../cbc:DocumentType/text()='non-restricted-document']/cac:ExternalReference/cbc:URI) = 0">rule|text|BR-BT-00615-0016</assert>
 		<assert id="BR-BT-00707-0016" role="ERROR" diagnostics="BT-707-Part" test="count(cbc:DocumentTypeCode) = 0">rule|text|BR-BT-00707-0016</assert>
 		<assert id="BR-BT-00708-0016" role="ERROR" diagnostics="ND-PartProcurementDocument_BT-708-Part" test="count(ext:UBLExtensions/ext:UBLExtension/ext:ExtensionContent/efext:EformsExtension/efac:OfficialLanguages/cac:Language/cbc:ID) = 0">rule|text|BR-BT-00708-0016</assert>
 		<assert id="BR-BT-00737-0016" role="ERROR" diagnostics="ND-PartProcurementDocument_BT-737-Part" test="count(ext:UBLExtensions/ext:UBLExtension/ext:ExtensionContent/efext:EformsExtension/efac:NonOfficialLanguages/cac:Language/cbc:ID) = 0">rule|text|BR-BT-00737-0016</assert>

@@ -1546,9 +1546,9 @@
 		<diagnostic id="ND-ContractModification" see="node:ND-ContractModification">efac:ContractModification</diagnostic>
 		<diagnostic id="ND-ContractingParty" see="node:ND-ContractingParty">cac:ContractingParty</diagnostic>
 		<diagnostic id="ND-ContractingParty_BT-10-Procedure-Buyer" see="field:BT-10-Procedure-Buyer">cac:ContractingActivity[cbc:ActivityTypeCode/@listName='authority-activity']/cbc:ActivityTypeCode[@listName='authority-activity']</diagnostic>
-		<diagnostic id="ND-ContractingParty_BT-11-Procedure-Buyer" see="field:BT-11-Procedure-Buyer">cac:ContractingPartyType[cbc:PartyTypeCode/@listName='buyer-legal-type']/cbc:PartyTypeCode[@listName='buyer-legal-type']</diagnostic>
+		<diagnostic id="ND-ContractingParty_BT-11-Procedure-Buyer" see="field:BT-11-Procedure-Buyer">cac:ContractingPartyType[cbc:PartyTypeCode/@listName='buyer-contracting-type']/cbc:PartyTypeCode[@listName='buyer-legal-type']</diagnostic>
 		<diagnostic id="ND-ContractingParty_BT-610-Procedure-Buyer" see="field:BT-610-Procedure-Buyer">cac:ContractingActivity[cbc:ActivityTypeCode/@listName='entity-activity']/cbc:ActivityTypeCode[@listName='entity-activity']</diagnostic>
-		<diagnostic id="ND-ContractingParty_BT-740-Procedure-Buyer" see="field:BT-740-Procedure-Buyer">cac:ContractingPartyType[cbc:PartyTypeCode/@listName='buyer-contracting-type']/cbc:PartyTypeCode[@listName='buyer-contracting-type']</diagnostic>
+		<diagnostic id="ND-ContractingParty_BT-740-Procedure-Buyer" see="field:BT-740-Procedure-Buyer">cac:ContractingPartyType[cbc:PartyTypeCode/@listName='buyer-legal-type']/cbc:PartyTypeCode[@listName='buyer-contracting-type']</diagnostic>
 		<diagnostic id="ND-CrossBorderLawUnpublish" see="node:ND-CrossBorderLawUnpublish">ext:UBLExtensions/ext:UBLExtension/ext:ExtensionContent/efext:EformsExtension/efac:FieldsPrivacy</diagnostic>
 		<diagnostic id="ND-DecisionReason" see="node:ND-DecisionReason">efac:DecisionReason</diagnostic>
 		<diagnostic id="ND-DirectAwardExtension" see="node:ND-DirectAwardExtension">ext:UBLExtensions/ext:UBLExtension/ext:ExtensionContent/efext:EformsExtension</diagnostic>
@@ -1598,8 +1598,8 @@
 		<diagnostic id="ND-LotPlacePerformance_BT-727-Lot" see="field:BT-727-Lot">cac:Address/cbc:Region</diagnostic>
 		<diagnostic id="ND-LotPreviousPlanning" see="node:ND-LotPreviousPlanning">cac:NoticeDocumentReference</diagnostic>
 		<diagnostic id="ND-LotProcurementDocument" see="node:ND-LotProcurementDocument">cac:CallForTendersDocumentReference</diagnostic>
-		<diagnostic id="ND-LotProcurementDocument_BT-15-Lot" see="field:BT-15-Lot">cac:Attachment[../cbc:DocumentType/text()='non-restricted-document']/cac:ExternalReference/cbc:URI</diagnostic>
-		<diagnostic id="ND-LotProcurementDocument_BT-615-Lot" see="field:BT-615-Lot">cac:Attachment[../cbc:DocumentType/text()='restricted-document']/cac:ExternalReference/cbc:URI</diagnostic>
+		<diagnostic id="ND-LotProcurementDocument_BT-15-Lot" see="field:BT-15-Lot">cac:Attachment[../cbc:DocumentType/text()='restricted-document']/cac:ExternalReference/cbc:URI</diagnostic>
+		<diagnostic id="ND-LotProcurementDocument_BT-615-Lot" see="field:BT-615-Lot">cac:Attachment[../cbc:DocumentType/text()='non-restricted-document']/cac:ExternalReference/cbc:URI</diagnostic>
 		<diagnostic id="ND-LotProcurementDocument_BT-708-Lot" see="field:BT-708-Lot">ext:UBLExtensions/ext:UBLExtension/ext:ExtensionContent/efext:EformsExtension/efac:OfficialLanguages/cac:Language/cbc:ID</diagnostic>
 		<diagnostic id="ND-LotProcurementDocument_BT-737-Lot" see="field:BT-737-Lot">ext:UBLExtensions/ext:UBLExtension/ext:ExtensionContent/efext:EformsExtension/efac:NonOfficialLanguages/cac:Language/cbc:ID</diagnostic>
 		<diagnostic id="ND-LotProcurementScope" see="node:ND-LotProcurementScope">cac:ProcurementProject</diagnostic>
@@ -1677,7 +1677,6 @@
 		<diagnostic id="ND-LotTenderingTerms_BT-18-Lot" see="field:BT-18-Lot">cac:TenderRecipientParty/cbc:EndpointID</diagnostic>
 		<diagnostic id="ND-LotTenderingTerms_BT-65-Lot" see="field:BT-65-Lot">cac:AllowedSubcontractTerms[cbc:SubcontractingConditionsCode/@listName='subcontracting-obligation']/cbc:SubcontractingConditionsCode</diagnostic>
 		<diagnostic id="ND-LotTenderingTerms_BT-681-Lot" see="field:BT-681-Lot">cac:ContractExecutionRequirement[cbc:ExecutionRequirementCode/@listName='fsr']/cbc:ExecutionRequirementCode</diagnostic>
-		<diagnostic id="ND-LotTenderingTerms_BT-70-Lot" see="field:BT-70-Lot">cac:ContractExecutionRequirement[cbc:ExecutionRequirementCode/@listName='conditions']/cbc:Description</diagnostic>
 		<diagnostic id="ND-LotTenderingTerms_BT-71-Lot" see="field:BT-71-Lot">cac:TendererQualificationRequest[not(cbc:CompanyLegalFormCode)][not(cac:SpecificTendererRequirement/cbc:TendererRequirementTypeCode[@listName='missing-info-submission'])][not(cac:SpecificTendererRequirement/cbc:TendererRequirementTypeCode[@listName='selection-criteria-source'])]/cac:SpecificTendererRequirement[cbc:TendererRequirementTypeCode/@listName='reserved-procurement']/cbc:TendererRequirementTypeCode</diagnostic>
 		<diagnostic id="ND-LotTenderingTerms_BT-736-Lot" see="field:BT-736-Lot">cac:ContractExecutionRequirement[cbc:ExecutionRequirementCode/@listName='reserved-execution']/cbc:ExecutionRequirementCode</diagnostic>
 		<diagnostic id="ND-LotTenderingTerms_BT-743-Lot" see="field:BT-743-Lot">cac:ContractExecutionRequirement[cbc:ExecutionRequirementCode/@listName='einvoicing']/cbc:ExecutionRequirementCode</diagnostic>
@@ -1696,6 +1695,7 @@
 		<diagnostic id="ND-LotTenderingTerms_OPT-071-Lot" see="field:OPT-071-Lot">cac:ContractExecutionRequirement[cbc:ExecutionRequirementCode/@listName='customer-service']/cbc:ExecutionRequirementCode</diagnostic>
 		<diagnostic id="ND-LotTenderingTerms_OPT-301-Lot-TenderReceipt" see="field:OPT-301-Lot-TenderReceipt">cac:TenderRecipientParty/cac:PartyIdentification/cbc:ID</diagnostic>
 		<diagnostic id="ND-LotValueEstimate" see="node:ND-LotValueEstimate">cac:RequestedTenderTotal</diagnostic>
+		<diagnostic id="ND-Lot_BT-40-Lot" see="field:BT-40-Lot">cac:TenderingTerms/ext:UBLExtensions/ext:UBLExtension/ext:ExtensionContent/efext:EformsExtension/efac:SelectionCriteria/efbc:SecondStageIndicator</diagnostic>
 		<diagnostic id="ND-Lot_BT-50-Lot" see="field:BT-50-Lot">cac:TenderingProcess/cac:EconomicOperatorShortList/cbc:MinimumQuantity</diagnostic>
 		<diagnostic id="ND-Lot_BT-630_d_-Lot" see="field:BT-630(d)-Lot">cac:TenderingProcess/ext:UBLExtensions/ext:UBLExtension/ext:ExtensionContent/efext:EformsExtension/efac:InterestExpressionReceptionPeriod/cbc:EndDate</diagnostic>
 		<diagnostic id="ND-Lot_BT-644-Lot" see="field:BT-644-Lot">cac:TenderingTerms/cac:AwardingTerms/cac:Prize/cbc:ValueAmount</diagnostic>
@@ -1747,8 +1747,8 @@
 		<diagnostic id="ND-PartPlacePerformance_BT-5131-Part" see="field:BT-5131-Part">cac:Address/cbc:CityName</diagnostic>
 		<diagnostic id="ND-PartPlacePerformance_BT-5141-Part" see="field:BT-5141-Part">cac:Address/cac:Country/cbc:IdentificationCode</diagnostic>
 		<diagnostic id="ND-PartPlacePerformance_BT-727-Part" see="field:BT-727-Part">cac:Address/cbc:Region</diagnostic>
-		<diagnostic id="ND-PartProcurementDocument_BT-15-Part" see="field:BT-15-Part">cac:Attachment[../cbc:DocumentType/text()='non-restricted-document']/cac:ExternalReference/cbc:URI</diagnostic>
-		<diagnostic id="ND-PartProcurementDocument_BT-615-Part" see="field:BT-615-Part">cac:Attachment[../cbc:DocumentType/text()='restricted-document']/cac:ExternalReference/cbc:URI</diagnostic>
+		<diagnostic id="ND-PartProcurementDocument_BT-15-Part" see="field:BT-15-Part">cac:Attachment[../cbc:DocumentType/text()='restricted-document']/cac:ExternalReference/cbc:URI</diagnostic>
+		<diagnostic id="ND-PartProcurementDocument_BT-615-Part" see="field:BT-615-Part">cac:Attachment[../cbc:DocumentType/text()='non-restricted-document']/cac:ExternalReference/cbc:URI</diagnostic>
 		<diagnostic id="ND-PartProcurementDocument_BT-708-Part" see="field:BT-708-Part">ext:UBLExtensions/ext:UBLExtension/ext:ExtensionContent/efext:EformsExtension/efac:OfficialLanguages/cac:Language/cbc:ID</diagnostic>
 		<diagnostic id="ND-PartProcurementDocument_BT-737-Part" see="field:BT-737-Part">ext:UBLExtensions/ext:UBLExtension/ext:ExtensionContent/efext:EformsExtension/efac:NonOfficialLanguages/cac:Language/cbc:ID</diagnostic>
 		<diagnostic id="ND-PartProcurementScope" see="node:ND-PartProcurementScope">cac:ProcurementProject</diagnostic>

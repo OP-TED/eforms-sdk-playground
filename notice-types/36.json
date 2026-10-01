@@ -1,9 +1,9 @@
 {
   "ublVersion" : "2.3",
-  "sdkVersion" : "1.15.1",
+  "sdkVersion" : "1.15.2",
   "metadataDatabase" : {
-    "version" : "1.14.44",
-    "createdOn" : "2026-07-09T15:39:38"
+    "version" : "1.14.0",
+    "createdOn" : "2026-06-17T12:33:52"
   },
   "noticeId" : "36",
   "metadata" : [ {
@@ -351,9 +351,7 @@
             "contentType" : "field",
             "displayType" : "COMBOBOX",
             "description" : "Classification Type (e.g. CPV)",
-            "_label" : "field|name|BT-26(m)-Procedure",
-            "_presetValue" : "cpv",
-            "hidden" : true
+            "_label" : "field|name|BT-26(m)-Procedure"
           }, {
             "id" : "BT-262-Procedure",
             "contentType" : "field",
@@ -374,9 +372,7 @@
             "contentType" : "field",
             "displayType" : "COMBOBOX",
             "description" : "Classification Type (e.g. CPV)",
-            "_label" : "field|name|BT-26(a)-Procedure",
-            "_presetValue" : "cpv",
-            "hidden" : true
+            "_label" : "field|name|BT-26(a)-Procedure"
           }, {
             "id" : "BT-263-Procedure",
             "contentType" : "field",
@@ -767,9 +763,7 @@
             "contentType" : "field",
             "displayType" : "COMBOBOX",
             "description" : "Classification Type (e.g. CPV)",
-            "_label" : "field|name|BT-26(m)-Lot",
-            "_presetValue" : "cpv",
-            "hidden" : true
+            "_label" : "field|name|BT-26(m)-Lot"
           }, {
             "id" : "BT-262-Lot",
             "contentType" : "field",
@@ -790,9 +784,7 @@
             "contentType" : "field",
             "displayType" : "COMBOBOX",
             "description" : "Classification Type (e.g. CPV)",
-            "_label" : "field|name|BT-26(a)-Lot",
-            "_presetValue" : "cpv",
-            "hidden" : true
+            "_label" : "field|name|BT-26(a)-Lot"
           }, {
             "id" : "BT-263-Lot",
             "contentType" : "field",
