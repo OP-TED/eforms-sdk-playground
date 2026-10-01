@@ -1,9 +1,9 @@
 {
   "ublVersion" : "2.3",
-  "sdkVersion" : "1.16.0-beta.3",
+  "sdkVersion" : "1.15.2-rc.2",
   "metadataDatabase" : {
-    "version" : "1.14.51",
-    "createdOn" : "2026-09-10T16:05:32"
+    "version" : "1.14.0",
+    "createdOn" : "2026-06-17T12:33:52"
   },
   "noticeId" : "E1",
   "metadata" : [ {
@@ -345,9 +345,7 @@
             "contentType" : "field",
             "displayType" : "COMBOBOX",
             "description" : "Classification Type (e.g. CPV)",
-            "_label" : "field|name|BT-26(m)-Procedure",
-            "_presetValue" : "cpv",
-            "hidden" : true
+            "_label" : "field|name|BT-26(m)-Procedure"
           }, {
             "id" : "BT-262-Procedure",
             "contentType" : "field",
@@ -368,9 +366,7 @@
             "contentType" : "field",
             "displayType" : "COMBOBOX",
             "description" : "Classification Type (e.g. CPV)",
-            "_label" : "field|name|BT-26(a)-Procedure",
-            "_presetValue" : "cpv",
-            "hidden" : true
+            "_label" : "field|name|BT-26(a)-Procedure"
           }, {
             "id" : "BT-263-Procedure",
             "contentType" : "field",
@@ -563,9 +559,7 @@
             "contentType" : "field",
             "displayType" : "COMBOBOX",
             "description" : "Classification Type (e.g. CPV)",
-            "_label" : "field|name|BT-26(m)-Lot",
-            "_presetValue" : "cpv",
-            "hidden" : true
+            "_label" : "field|name|BT-26(m)-Lot"
           }, {
             "id" : "BT-262-Lot",
             "contentType" : "field",
@@ -586,9 +580,7 @@
             "contentType" : "field",
             "displayType" : "COMBOBOX",
             "description" : "Classification Type (e.g. CPV)",
-            "_label" : "field|name|BT-26(a)-Lot",
-            "_presetValue" : "cpv",
-            "hidden" : true
+            "_label" : "field|name|BT-26(a)-Lot"
           }, {
             "id" : "BT-263-Lot",
             "contentType" : "field",
@@ -712,61 +704,12 @@
           "_label" : "field|name|BT-36-Lot"
         } ]
       }, {
-        "id" : "GR-Lot-ContractingSystem",
-        "contentType" : "group",
-        "displayType" : "GROUP",
-        "description" : "Tendering Procedure information (GPA, Atypical Tool, Deadlines, techniques) for a Lot",
-        "_label" : "group|name|GR-Lot-ContractingSystem",
-        "content" : [ {
-          "id" : "GR-Lot-FrameworkAgreement-Use",
-          "contentType" : "group",
-          "nodeId" : "ND-LotFAContractingSystem",
-          "displayType" : "GROUP",
-          "description" : "FA contracting System involvement for the Lot",
-          "_label" : "group|name|GR-Lot-FrameworkAgreement-Use",
-          "content" : [ {
-            "id" : "BT-765-Lot",
-            "contentType" : "field",
-            "displayType" : "COMBOBOX",
-            "description" : "Framework Agreement",
-            "_label" : "field|name|BT-765-Lot"
-          } ]
-        }, {
-          "id" : "GR-Lot-DPS-Use",
-          "contentType" : "group",
-          "nodeId" : "ND-LotDPSContractingSystem",
-          "displayType" : "GROUP",
-          "description" : "DPS contracting System involvement for the Lot",
-          "_label" : "group|name|GR-Lot-DPS-Use",
-          "content" : [ {
-            "id" : "BT-766-Lot",
-            "contentType" : "field",
-            "displayType" : "COMBOBOX",
-            "description" : "Dynamic Purchasing System",
-            "_label" : "field|name|BT-766-Lot"
-          } ]
-        } ]
-      }, {
         "id" : "GR-Lot-FrameworkAgreement",
         "contentType" : "group",
         "displayType" : "GROUP",
         "description" : "Framework Agreement",
         "_label" : "group|name|GR-Lot-FrameworkAgreement",
         "content" : [ {
-          "id" : "OPT-090-Lot",
-          "contentType" : "field",
-          "displayType" : "COMBOBOX",
-          "description" : "Buyer Categories",
-          "_label" : "field|name|OPT-090-Lot",
-          "_presetValue" : "buyer-categories",
-          "hidden" : true
-        }, {
-          "id" : "BT-111-Lot",
-          "contentType" : "field",
-          "displayType" : "TEXTAREA",
-          "description" : "Framework Buyer Categories",
-          "_label" : "field|name|BT-111-Lot"
-        }, {
           "id" : "BT-271-Lot",
           "contentType" : "field",
           "displayType" : "TEXTBOX",
@@ -869,27 +812,6 @@
           "displayType" : "TEXTAREA",
           "description" : "Additional Information",
           "_label" : "field|name|BT-300-Lot"
-        } ]
-      } ]
-    }, {
-      "id" : "GR-Lot-TenderingTerms",
-      "contentType" : "group",
-      "nodeId" : "ND-LotTenderingTerms",
-      "displayType" : "SECTION",
-      "description" : "Tendering Terms",
-      "_label" : "group|name|GR-Lot-TenderingTerms",
-      "content" : [ {
-        "id" : "GR-Recurrence",
-        "contentType" : "group",
-        "displayType" : "GROUP",
-        "description" : "Information about Recurrence",
-        "_label" : "group|name|GR-Recurrence",
-        "content" : [ {
-          "id" : "BT-94-Lot",
-          "contentType" : "field",
-          "displayType" : "RADIO",
-          "description" : "Recurrence",
-          "_label" : "field|name|BT-94-Lot"
         } ]
       } ]
     }, {
@@ -1034,8 +956,7 @@
           "contentType" : "field",
           "displayType" : "TEXTBOX",
           "description" : "Procurement Documents ID",
-          "_label" : "field|name|OPT-140-Lot",
-          "_presetValue" : "procurement_document_id"
+          "_label" : "field|name|OPT-140-Lot"
         } ]
       }, {
         "id" : "GR-Lot-SubmissionTool",
