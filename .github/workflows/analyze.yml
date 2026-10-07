@@ -1,3 +1,9 @@
+# Playground stub — succeeds instantly; builds and analyses nothing. The
+# playground is the Release Wizard's test rig, so the real SDK build + analysis
+# only runs on the canonical eForms-SDK repo. The triggers mirror the canonical
+# (push on the trunk branches only, plus pull_request / manual) so a playground
+# PR shows the same check, fires it once, and never twice.
+
 name: Build and analyze eForms SDK
 
 on:
@@ -14,44 +20,8 @@ on:
 
 jobs:
   analyze:
+    name: Simulate analyse (playground stub)
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Set up Java
-        uses: actions/setup-java@v4
-        with:
-          java-version: '11'
-          distribution: 'adopt'
-
-      - name: Build SDK
-        run: mvn clean install --no-transfer-progress
-
-      # Run the analyser as a plain Java process rather than via the
-      # exec-maven-plugin, so its own exit code becomes this step's exit code.
-      # A failing analysis then ends with the analyser's report and a single
-      # "exit code 1", instead of Maven wrapping it in an ExecuteException
-      # stack trace. The classpath (analyser + its dependencies) is still
-      # resolved by Maven from the version pinned in the pom's analyze profile.
-      - name: Analyse SDK
-        run: |
-          mvn --quiet --no-transfer-progress -Panalyze \
-            dependency:build-classpath -Dmdep.outputFile=analyser.classpath -DincludeScope=runtime
-          java -Xmx5g -cp "$(cat analyser.classpath)" \
-            eu.europa.ted.eforms.sdk.analysis.Application "$GITHUB_WORKSPACE"
-
-      # The analyser writes analyzer-summary.txt, analyzer-report.txt and analyzer.log to the working
-      # directory; collect them as artifacts even when the analysis fails (if: always()), so the
-      # details are available without re-running or flooding the job log.
-      - name: Upload analysis artifacts
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: sdk-analysis
-          path: |
-            analyzer-summary.txt
-            analyzer-report.txt
-            analyzer.log
-          if-no-files-found: warn
+      - name: Simulate build + analyse
+        run: echo "Playground stub — no real SDK build or analysis. Exiting success."
