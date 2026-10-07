@@ -6,7 +6,7 @@
 		{BT-11-Procedure-Buyer} #{auxiliary|text|legaltype-competent}: #{BT-11-Procedure-Buyer} // Legal type of the buyer (T01, T02)
 		{BT-740-Procedure-Buyer[BT-740-Procedure-Buyer == 'cont-ent']} #{field|name|BT-740-Procedure-Buyer} // Buyer Contracting Entity
 		{BT-10-Procedure-Buyer} #{field|name|BT-10-Procedure-Buyer}: #value // Activity of the contracting authority
-2 {ND-Root} #{auxiliary|text|procedure} // 2 Procedure
+2 {ND-Root} #{auxiliary|text|procedure} // 2 Procedurew
 	1 {ND-ProcedureProcurementScope} #{auxiliary|text|procedure} // 2.1 Procedure
 		{ND-ProcedureProcurementScope} #{field|name|BT-21-Procedure}: ${BT-21-Procedure} // Procedure Title
 		{ND-ProcedureProcurementScope} #{field|name|BT-24-Procedure}: ${BT-24-Procedure} // Procedure Description
