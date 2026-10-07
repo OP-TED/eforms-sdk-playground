@@ -2,11 +2,9 @@
 <!--File generated from metadata database-->
 <gc:CodeList xmlns:gc="http://docs.oasis-open.org/codelist/ns/genericode/1.0/">
    <Identification>
-      <ShortName>NutsMneLvl3</ShortName>
-      <LongName>nuts-mne-lvl3</LongName>
-      <LongName Identifier="listId">http://publications.europa.eu/resource/authority/nuts</LongName>
-      <LongName Identifier="eFormsParentId">nuts</LongName>
-      <Version>1.16.0-rc.1</Version>
+      <ShortName>NoticeReference</ShortName>
+      <LongName>notice-reference</LongName>
+      <Version>1.0</Version>
       <CanonicalUri/>
       <CanonicalVersionUri/>
       <Agency>
@@ -123,162 +121,162 @@
    <SimpleCodeList>
       <Row>
          <Value ColumnRef="code">
-            <SimpleValue>ME000</SimpleValue>
+            <SimpleValue>notice-id-ref</SimpleValue>
          </Value>
          <Value ColumnRef="Name">
-            <SimpleValue>Црна Гора</SimpleValue>
+            <SimpleValue>The reference to the notice is in the format "UUID-XX".</SimpleValue>
          </Value>
          <Value ColumnRef="bul_label">
-            <SimpleValue>Црна Гора</SimpleValue>
+            <SimpleValue>Референцията към известието е във формат 'UUID-XX'</SimpleValue>
          </Value>
          <Value ColumnRef="ces_label">
-            <SimpleValue>Црна Гора</SimpleValue>
+            <SimpleValue>Odkaz na oznámení je ve formátu 'UUID-XX'</SimpleValue>
          </Value>
          <Value ColumnRef="dan_label">
-            <SimpleValue>Црна Гора</SimpleValue>
+            <SimpleValue>Henvisningen til meddelelsen er i formatet 'UUID-XX'</SimpleValue>
          </Value>
          <Value ColumnRef="deu_label">
-            <SimpleValue>Црна Гора</SimpleValue>
+            <SimpleValue>Der Verweis auf die Mitteilung hat das Format 'UUID-XX'</SimpleValue>
          </Value>
          <Value ColumnRef="ell_label">
-            <SimpleValue>Црна Гора</SimpleValue>
+            <SimpleValue>Η αναφορά στην ειδοποίηση είναι στη μορφή 'UUID-XX'</SimpleValue>
          </Value>
          <Value ColumnRef="eng_label">
-            <SimpleValue>Црна Гора</SimpleValue>
+            <SimpleValue>The reference to the notice is in the format 'UUID-XX'</SimpleValue>
          </Value>
          <Value ColumnRef="spa_label">
-            <SimpleValue>Црна Гора</SimpleValue>
+            <SimpleValue>La referencia al aviso está en el formato 'UUID-XX'</SimpleValue>
          </Value>
          <Value ColumnRef="est_label">
-            <SimpleValue>Црна Гора</SimpleValue>
+            <SimpleValue>Teate viide on formaadis 'UUID-XX'</SimpleValue>
          </Value>
          <Value ColumnRef="fin_label">
-            <SimpleValue>Црна Гора</SimpleValue>
+            <SimpleValue>Ilmoituksen viite on muodossa 'UUID-XX'</SimpleValue>
          </Value>
          <Value ColumnRef="fra_label">
-            <SimpleValue>Црна Гора</SimpleValue>
+            <SimpleValue>La référence à l'avis est au format 'UUID-XX'</SimpleValue>
          </Value>
          <Value ColumnRef="gle_label">
-            <SimpleValue>Црна Гора</SimpleValue>
+            <SimpleValue>Tá an tagairt don fógra i bhformáid 'UUID-XX'</SimpleValue>
          </Value>
          <Value ColumnRef="hrv_label">
-            <SimpleValue>Црна Гора</SimpleValue>
+            <SimpleValue>Referenca na obavijest je u formatu 'UUID-XX'</SimpleValue>
          </Value>
          <Value ColumnRef="hun_label">
-            <SimpleValue>Црна Гора</SimpleValue>
+            <SimpleValue>Az értesítésre vonatkozó hivatkozás a 'UUID-XX' formátumban van</SimpleValue>
          </Value>
          <Value ColumnRef="ita_label">
-            <SimpleValue>Црна Гора</SimpleValue>
+            <SimpleValue>Il riferimento all'avviso è nel formato 'UUID-XX'</SimpleValue>
          </Value>
          <Value ColumnRef="lit_label">
-            <SimpleValue>Црна Гора</SimpleValue>
+            <SimpleValue>Pranešimo nuoroda yra formatu 'UUID-XX'</SimpleValue>
          </Value>
          <Value ColumnRef="lav_label">
-            <SimpleValue>Црна Гора</SimpleValue>
+            <SimpleValue>Paziņojuma atsauce ir formātā 'UUID-XX'</SimpleValue>
          </Value>
          <Value ColumnRef="mlt_label">
-            <SimpleValue>Црна Гора</SimpleValue>
+            <SimpleValue>Ir-referenza għan-notifika hija fil-format 'UUID-XX'</SimpleValue>
          </Value>
          <Value ColumnRef="nld_label">
-            <SimpleValue>Црна Гора</SimpleValue>
+            <SimpleValue>De verwijzing naar de kennisgeving is in het formaat 'UUID-XX'</SimpleValue>
          </Value>
          <Value ColumnRef="pol_label">
-            <SimpleValue>Црна Гора</SimpleValue>
+            <SimpleValue>Odniesienie do powiadomienia jest w formacie 'UUID-XX'</SimpleValue>
          </Value>
          <Value ColumnRef="por_label">
-            <SimpleValue>Црна Гора</SimpleValue>
+            <SimpleValue>A referência ao aviso está no formato 'UUID-XX'</SimpleValue>
          </Value>
          <Value ColumnRef="ron_label">
-            <SimpleValue>Црна Гора</SimpleValue>
+            <SimpleValue>Referința la notificare este în formatul 'UUID-XX'</SimpleValue>
          </Value>
          <Value ColumnRef="slk_label">
-            <SimpleValue>Црна Гора</SimpleValue>
+            <SimpleValue>Odkaz na oznámenie je vo formáte 'UUID-XX'</SimpleValue>
          </Value>
          <Value ColumnRef="slv_label">
-            <SimpleValue>Црна Гора</SimpleValue>
+            <SimpleValue>Napotitev na obvestilo je v formatu 'UUID-XX'</SimpleValue>
          </Value>
          <Value ColumnRef="swe_label">
-            <SimpleValue>Црна Гора</SimpleValue>
+            <SimpleValue>Referensen till meddelandet är i formatet 'UUID-XX'</SimpleValue>
          </Value>
       </Row>
       <Row>
          <Value ColumnRef="code">
-            <SimpleValue>MEZZZ</SimpleValue>
+            <SimpleValue>ojs-notice-id</SimpleValue>
          </Value>
          <Value ColumnRef="Name">
-            <SimpleValue>Extra-Regio NUTS 3</SimpleValue>
+            <SimpleValue>The reference to the notice is in the format "XXXXXXXXXX-YYYY".</SimpleValue>
          </Value>
          <Value ColumnRef="bul_label">
-            <SimpleValue>Extra-Regio NUTS 3</SimpleValue>
+            <SimpleValue>Референцията към известието е във формат 'XXXXXXXXXX-YYYY'</SimpleValue>
          </Value>
          <Value ColumnRef="ces_label">
-            <SimpleValue>Extra-Regio NUTS 3</SimpleValue>
+            <SimpleValue>Odkaz na oznámení je ve formátu 'XXXXXXXXXX-YYYY'</SimpleValue>
          </Value>
          <Value ColumnRef="dan_label">
-            <SimpleValue>Extra-Regio NUTS 3</SimpleValue>
+            <SimpleValue>Henvisningen til meddelelsen er i formatet 'XXXXXXXXXX-YYYY'</SimpleValue>
          </Value>
          <Value ColumnRef="deu_label">
-            <SimpleValue>Extra-Regio NUTS 3</SimpleValue>
+            <SimpleValue>Der Verweis auf die Mitteilung hat das Format 'XXXXXXXXXX-YYYY'</SimpleValue>
          </Value>
          <Value ColumnRef="ell_label">
-            <SimpleValue>Extra-Regio NUTS 3</SimpleValue>
+            <SimpleValue>Η αναφορά στην ειδοποίηση είναι στη μορφή 'XXXXXXXXXX-YYYY'</SimpleValue>
          </Value>
          <Value ColumnRef="eng_label">
-            <SimpleValue>Extra-Regio NUTS 3</SimpleValue>
+            <SimpleValue>The reference to the notice is in the format 'XXXXXXXXXX-YYYY'</SimpleValue>
          </Value>
          <Value ColumnRef="spa_label">
-            <SimpleValue>Extra-Regio NUTS 3</SimpleValue>
+            <SimpleValue>La referencia al aviso está en el formato 'XXXXXXXXXX-YYYY'</SimpleValue>
          </Value>
          <Value ColumnRef="est_label">
-            <SimpleValue>Extra-Regio NUTS 3</SimpleValue>
+            <SimpleValue>Teate viide on formaadis 'XXXXXXXXXX-YYYY'</SimpleValue>
          </Value>
          <Value ColumnRef="fin_label">
-            <SimpleValue>Extra-Regio NUTS 3</SimpleValue>
+            <SimpleValue>Ilmoituksen viite on muodossa 'XXXXXXXXXX-YYYY'</SimpleValue>
          </Value>
          <Value ColumnRef="fra_label">
-            <SimpleValue>Extra-Regio NUTS 3</SimpleValue>
+            <SimpleValue>La référence à l'avis est au format 'XXXXXXXXXX-YYYY'</SimpleValue>
          </Value>
          <Value ColumnRef="gle_label">
-            <SimpleValue>Extra-Regio NUTS 3</SimpleValue>
+            <SimpleValue>Tá an tagairt don fógra i bhformáid 'XXXXXXXXXX-YYYY'</SimpleValue>
          </Value>
          <Value ColumnRef="hrv_label">
-            <SimpleValue>Extra-Regio NUTS 3</SimpleValue>
+            <SimpleValue>Referenca na obavijest je u formatu 'XXXXXXXXXX-YYYY'</SimpleValue>
          </Value>
          <Value ColumnRef="hun_label">
-            <SimpleValue>Extra-Regio NUTS 3</SimpleValue>
+            <SimpleValue>Az értesítésre vonatkozó hivatkozás a 'XXXXXXXXXX-YYYY' formátumban van</SimpleValue>
          </Value>
          <Value ColumnRef="ita_label">
-            <SimpleValue>Extra-Regio NUTS 3</SimpleValue>
+            <SimpleValue>Il riferimento all'avviso è nel formato 'XXXXXXXXXX-YYYY'</SimpleValue>
          </Value>
          <Value ColumnRef="lit_label">
-            <SimpleValue>Extra-Regio NUTS 3</SimpleValue>
+            <SimpleValue>Pranešimo nuoroda yra formatu 'XXXXXXXXXX-YYYY'</SimpleValue>
          </Value>
          <Value ColumnRef="lav_label">
-            <SimpleValue>Extra-Regio NUTS 3</SimpleValue>
+            <SimpleValue>Paziņojuma atsauce ir formātā 'XXXXXXXXXX-YYYY'</SimpleValue>
          </Value>
          <Value ColumnRef="mlt_label">
-            <SimpleValue>Extra-Regio NUTS 3</SimpleValue>
+            <SimpleValue>Ir-referenza għan-notifika hija fil-format 'XXXXXXXXXX-YYYY'</SimpleValue>
          </Value>
          <Value ColumnRef="nld_label">
-            <SimpleValue>Extra-Regio NUTS 3</SimpleValue>
+            <SimpleValue>De verwijzing naar de kennisgeving is in het formaat 'XXXXXXXXXX-YYYY'</SimpleValue>
          </Value>
          <Value ColumnRef="pol_label">
-            <SimpleValue>Extra-Regio NUTS 3</SimpleValue>
+            <SimpleValue>Odniesienie do powiadomienia jest w formacie 'XXXXXXXXXX-YYYY'</SimpleValue>
          </Value>
          <Value ColumnRef="por_label">
-            <SimpleValue>Extra-Regio NUTS 3</SimpleValue>
+            <SimpleValue>A referência ao aviso está no formato 'XXXXXXXXXX-YYYY'</SimpleValue>
          </Value>
          <Value ColumnRef="ron_label">
-            <SimpleValue>Extra-Regio NUTS 3</SimpleValue>
+            <SimpleValue>Referința la notificare este în formatul 'XXXXXXXXXX-YYYY'</SimpleValue>
          </Value>
          <Value ColumnRef="slk_label">
-            <SimpleValue>Extra-Regio NUTS 3</SimpleValue>
+            <SimpleValue>Odkaz na oznámenie je vo formáte 'XXXXXXXXXX-YYYY'</SimpleValue>
          </Value>
          <Value ColumnRef="slv_label">
-            <SimpleValue>Extra-Regio NUTS 3</SimpleValue>
+            <SimpleValue>Napotitev na obvestilo je v formatu 'XXXXXXXXXX-YYYY'</SimpleValue>
          </Value>
          <Value ColumnRef="swe_label">
-            <SimpleValue>Extra-Regio NUTS 3</SimpleValue>
+            <SimpleValue>Referensen till meddelandet är i formatet 'XXXXXXXXXX-YYYY'</SimpleValue>
          </Value>
       </Row>
    </SimpleCodeList>
