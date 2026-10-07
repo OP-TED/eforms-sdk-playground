@@ -1,3 +1,9 @@
+# Playground stub — succeeds instantly; runs no real benchmark. The playground
+# is the Release Wizard's test rig, so the real Schematron benchmark only runs on
+# the canonical eForms-SDK repo. The triggers mirror the canonical (push on the
+# trunk branches only, plus pull_request / manual / schedule) so a playground PR
+# shows the same check, fires it once, and never twice.
+
 name: Benchmark Schematron rules with the SDK Analyzer
 
 on:
@@ -15,45 +21,10 @@ on:
     # * is a special character in YAML so you have to quote this string
     - cron:  '0 5 * * 2,5'
 
-
 jobs:
   benchmark:
-    name: Run Schematron benchmark
+    name: Simulate benchmark (playground stub)
     runs-on: ubuntu-latest
-    permissions:
-      # Contents permission needed to create a commit comment
-      contents: write
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Set up Java
-        uses: actions/setup-java@v4
-        with:
-          java-version: '11'
-          distribution: 'adopt'
-
-      - name: Run benchmark
-        run: mvn clean install -Pbenchmark --no-transfer-progress
-
-      # Download previous benchmark result from cache (if exists)
-      - name: Download previous benchmark data
-        uses: actions/cache@v4
-        with:
-          path: ./cache
-          key: ${{ runner.os }}-benchmark
-
-      - name: Process benchmark result
-        uses: benchmark-action/github-action-benchmark@v1
-        with:
-          name: JMH Benchmark
-          tool: 'jmh'
-          output-file-path: jmh-result.json
-          external-data-json-path: ./cache/benchmark-data.json
-          # Alert if new results are significantly worse than previous results
-          alert-threshold: "125%"
-          # Mark the workflow as failed if an alert happens
-          fail-on-alert: true
-          # Set to true to add a comment on the commit that caused the alert
-          comment-on-alert: false
-          # GitHub API token to make a commit comment
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Simulate benchmark
+        run: echo "Playground stub — no real benchmark. Exiting success."
