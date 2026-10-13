@@ -1,3 +1,21 @@
+# PLAYGROUND COPY — publishes nothing to Maven Central.
+#
+# This is production's publish workflow (OP-TED/eForms-SDK, branch develop, as of September
+# 2026) with exactly one change: the two steps that need secrets — importing the GPG signing
+# key and `mvn deploy` to Maven Central — are replaced by one simulated step that runs under
+# the same condition.
+#
+# Everything else is production's own logic, on purpose:
+# - the same triggers (a release being *published*, pushes to develop and efx-2, manual runs),
+#   so the release wizard's polling sees the same runs as in production;
+# - the real publication check, .github/scripts/validate-publication.sh. It is NOT overlaid:
+#   the playground refresh copies production's current script, so the playground rejects
+#   exactly what production would reject (for example a release whose tag is not the merge
+#   commit of a prepare/* → develop|efx-2 or release/* → main pull request), and fails loudly
+#   if production moves or changes it.
+#
+# When production's publish workflow changes, update this copy to match.
+
 name: Publish package to the Maven Central Repository
 
 on:
@@ -55,15 +73,18 @@ jobs:
           RELEASE_TAG_NAME: ${{ github.event.release.tag_name }}
           GITHUB_TOKEN: ${{ github.token }}
         run: bash .github/scripts/validate-publication.sh
-      - name: Import GPG Key
+      - name: Simulate signing and publishing to the Maven Central Repository
         if: steps.publication.outputs.publish == 'true'
-        uses: crazy-max/ghaction-import-gpg@v6
-        with:
-          gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
-          passphrase: ${{ secrets.GPG_PASSPHRASE }}
-      - name: Publish to the Maven Central Repository
-        if: steps.publication.outputs.publish == 'true'
-        run: mvn --batch-mode deploy -Dgpg.passphrase='${{ secrets.GPG_PASSPHRASE }}' -Prelease
+        shell: bash
         env:
-          MAVEN_USERNAME: ${{ secrets.OSSRH_USERNAME }}
-          MAVEN_PASSWORD: ${{ secrets.OSSRH_TOKEN }}
+          PROJECT_VERSION: ${{ steps.project.outputs.version }}
+          # A release publication takes minutes in production; a snapshot push is quick.
+          SIMULATED_SECONDS: ${{ github.event_name == 'release' && '120' || '5' }}
+        run: |
+          echo "================================================"
+          echo " PLAYGROUND — nothing is signed or uploaded."
+          echo " Production would now sign ${PROJECT_VERSION} and"
+          echo " deploy it to Maven Central."
+          echo "================================================"
+          sleep "${SIMULATED_SECONDS}"
+          echo "Simulated publication of ${PROJECT_VERSION} complete."
