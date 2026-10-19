@@ -4,10 +4,6 @@
     "type" : "dynamic",
     "filename" : "dynamic/complete-validation.sch"
   }, {
-    "name" : "config",
-    "type" : "dynamic",
-    "filename" : "dynamic/config.sch"
-  }, {
     "name" : "validation-stage-1a",
     "type" : "dynamic",
     "stage" : "1a",
@@ -267,11 +263,6 @@
     "type" : "dynamic",
     "stage" : "1b",
     "filename" : "dynamic/validation-stage-1b-X02.sch"
-  }, {
-    "name" : "validation-stage-1m",
-    "type" : "dynamic",
-    "stage" : "1m",
-    "filename" : "dynamic/validation-stage-1m.sch"
   }, {
     "name" : "validation-stage-2a-1",
     "type" : "dynamic",
@@ -1596,11 +1587,6 @@
     "type" : "static",
     "stage" : "1b",
     "filename" : "static/validation-stage-1b-X02.sch"
-  }, {
-    "name" : "validation-stage-1m",
-    "type" : "static",
-    "stage" : "1m",
-    "filename" : "static/validation-stage-1m.sch"
   }, {
     "name" : "validation-stage-2a-1",
     "type" : "static",
