@@ -433,8 +433,8 @@
 <entry key="field|description|BT-688-LotResult-Language">En beskrivning och motivering för tillämpningen av tvingande skäl relaterade till allmänintresset</entry>
 <entry key="field|description|BT-70-Lot">Den viktigaste informationen om genomförandet av kontraktet (t.ex. delresultat, skadestånd, immateriella rättigheter).</entry>
 <entry key="field|description|BT-70-Lot-Language">Den viktigaste informationen om genomförandet av kontraktet (t.ex. delresultat, skadestånd, immateriella rättigheter).</entry>
-<entry key="field|description|BT-701-notice">Identifieraren för meddelandet om europeisk offentlig upphandling i detta meddelande. Om denna identifierare anges i alla offentliggjorda versioner av detta meddelande (t.ex. på TED-webbplatsen, nationella portaler, regionala portaler), kan upphandlingsmeddelanden i unionen få unik identifiering.</entry>
-<entry key="field|description|BT-701-notice-Scheme">Identifieraren för meddelandet om europeisk offentlig upphandling i detta meddelande. Om denna identifierare anges i alla offentliggjorda versioner av detta meddelande (t.ex. på TED-webbplatsen, nationella portaler, regionala portaler), kan upphandlingsmeddelanden i unionen få unik identifiering.</entry>
+<entry key="field|description|BT-701-notice">Identifierare för det europeiska meddelandet om offentlig upphandling för detta meddelande.</entry>
+<entry key="field|description|BT-701-notice-Scheme">Identifierare för det europeiska meddelandet om offentlig upphandling för detta meddelande.</entry>
 <entry key="field|description|BT-702(a)-notice">Det eller de språk som detta meddelande är offentligt tillgängligt på. Dessa språkversioner har samma rättsliga giltighet.</entry>
 <entry key="field|description|BT-702(b)-notice">Det eller de språk som detta meddelande är offentligt tillgängligt på. Dessa språkversioner har samma rättsliga giltighet.</entry>
 <entry key="field|description|BT-706-UBO">Nationalitet(er) för vinnarens, anbudsgivarens eller underentreprenörens verkliga huvudman som offentliggjorts i det eller de register som upprättats i enlighet med Europaparlamentets och rådets direktiv (EU) 2018/843. Om ett sådant register inte finns (t.ex. om det rör sig om entreprenörer som är etablerade utanför unionen) ska motsvarande information anges från andra källor.</entry>
@@ -724,7 +724,6 @@
 <entry key="field|description|OPT-072-Lot-Language">Språk som används för att beskriva kvalitetsmålet</entry>
 <entry key="field|description|OPT-090-Lot">Kod som indikerar att det handlar om köparkategorier: 'köparkategorier'</entry>
 <entry key="field|description|OPT-100-Contract">Referens till resultatrapporten som innehåller information om ramavtalet som det aktuella avtalet baseras på</entry>
-<entry key="field|description|OPT-100-Contract-Scheme">Namn på schemat som används för att notera referensen till resultatrapporten som innehåller information om ramavtalet som det aktuella avtalet baseras på</entry>
 <entry key="field|description|OPT-110-Lot-FiscalLegis">Webbadress där lokal skattelagstiftning kan hittas</entry>
 <entry key="field|description|OPT-110-Part-FiscalLegis">Webbadress där lokal skattelagstiftning kan hittas</entry>
 <entry key="field|description|OPT-111-Lot-FiscalLegis">Identifierare för skattelagstiftning</entry>
@@ -805,10 +804,6 @@
 <entry key="field|description|OPT-301-Part-TenderEval-Scheme">Namnet på schemat för referensen till organisationen ('organization') eller kontaktpunkten ('touchpoint') som utvärderar förslagen</entry>
 <entry key="field|description|OPT-301-Part-TenderReceipt">Hänvisning till organisationen (ORG-xxxx) eller kontaktpunkten (TPO-xxxx) till vilken anbuden eller ansökningarna om deltagande ska lämnas in</entry>
 <entry key="field|description|OPT-301-Part-TenderReceipt-Scheme">Namnet på schemat för referensen till organisationen ('organization') eller kontaktpunkten ('touchpoint') som tar emot förslagen</entry>
-<entry key="field|description|OPT-301-ReviewBody">Referens till organisationen (ORG-xxxx) som hanterar granskningsförfrågan i det nuvarande rapporterade granskningsstadiet</entry>
-<entry key="field|description|OPT-301-ReviewBody-Scheme">Namnet på schemat för referensen till organisationen ('organization') som granskar förfrågan i det nuvarande rapporterade granskningsstadiet</entry>
-<entry key="field|description|OPT-301-ReviewReq">Referens till organisationen (ORG-xxxx) som initierade granskningsförfrågan som ledde till rapporteringen av det nuvarande granskningsstadiet</entry>
-<entry key="field|description|OPT-301-ReviewReq-Scheme">Namnet på schemat för referensen till organisationen ('organization') eller kontaktpunkten ('touchpoint')</entry>
 <entry key="field|description|OPT-301-Tenderer-MainCont">Referens till organisationen (ORG-xxxx) som är huvudproponenten</entry>
 <entry key="field|description|OPT-301-Tenderer-MainCont-Scheme">Namnet på schemat för referensen till organisationen ('organization') som fungerar som huvudproponenten</entry>
 <entry key="field|description|OPT-301-Tenderer-SubCont">Referens till organisationen (ORG-xxxx) som är underleverantör till en eller flera huvudproponenter</entry>
@@ -832,7 +827,7 @@
 <entry key="field|hint|BT-1375-Procedure">Lägga till så många delkontrakt som du vill inkludera i gruppen av delkontrakt.</entry>
 <entry key="field|hint|BT-1375-Procedure-Scheme">Lägga till så många delkontrakt som du vill inkludera i gruppen av delkontrakt.</entry>
 <entry key="field|hint|BT-1501(p)-Contract">En av följande måste fyllas i: BUYER, RESULT, RES-XXXX, ORG-XXXX, TPA-XXXX, TPO- XXXX, TEN-XXXX, UBO-XXXX</entry>
-<entry key="field|hint|BT-195-notice">Varje grupp med ej offentliggjorda uppgifter innehåller ett eller flera fält som undantas från offentliggörande, enligt dokumentationen i TED.</entry>
+<entry key="field|hint|BT-195-notice">Varje grupp med ej offentliggjorda uppgifter innehåller ett eller flera fält som undantas från offentliggörande, enligt dokumentationen i TED: https://ted.europa.eu/sv/simap/undisclosed</entry>
 <entry key="field|hint|BT-198-notice">Om datumet för offentliggörande inte anges kommer uppgifterna aldrig att offentliggöras. Om datumet anges får det inte ligga mer än 5 år efter inlämningsdatumet.</entry>
 <entry key="field|hint|BT-22-Lot">Om du använder en intern identifierare för dina förfaranden och delkontrakt ska du använda dem. Du måste ha olika identifierare för varje delkontrakt.</entry>
 <entry key="field|hint|BT-22-Lot-Scheme">Om du använder en intern identifierare för dina förfaranden och delkontrakt ska du använda dem. Du måste ha olika identifierare för varje delkontrakt.</entry>
@@ -923,8 +918,8 @@
 <entry key="field|name|BT-131(t)-Lot">Tidsfrist för mottagande av anbud</entry>
 <entry key="field|name|BT-1311(d)-Lot">Tidsfrist för mottagande av anbudsansökningar</entry>
 <entry key="field|name|BT-1311(t)-Lot">Tidsfrist för mottagande av anbudsansökningar</entry>
-<entry key="field|name|BT-132(d)-Lot">Öppningsdatum</entry>
-<entry key="field|name|BT-132(t)-Lot">Öppningsdatum</entry>
+<entry key="field|name|BT-132(d)-Lot">Datum för offentlig öppning</entry>
+<entry key="field|name|BT-132(t)-Lot">Tid för offentlig öppning</entry>
 <entry key="field|name|BT-133-Lot">Plats</entry>
 <entry key="field|name|BT-133-Lot-Language">Plats</entry>
 <entry key="field|name|BT-134-Lot">Kompletterande information</entry>
@@ -1300,8 +1295,8 @@
 <entry key="field|name|BT-688-LotResult-Language">Tvingande skäl relaterade till allmänintresset</entry>
 <entry key="field|name|BT-70-Lot">Villkor som gäller genomförandet av kontraktet</entry>
 <entry key="field|name|BT-70-Lot-Language">Villkor som gäller genomförandet av kontraktet</entry>
-<entry key="field|name|BT-701-notice">Identifierare/version för meddelandet</entry>
-<entry key="field|name|BT-701-notice-Scheme">Identifierare/version för meddelandet</entry>
+<entry key="field|name|BT-701-notice">Identifierare för meddelandet</entry>
+<entry key="field|name|BT-701-notice-Scheme">Identifierare för meddelandet</entry>
 <entry key="field|name|BT-702(a)-notice">Språk som det här meddelandet finns officiellt tillgängligt på</entry>
 <entry key="field|name|BT-702(b)-notice">Språk som det här meddelandet finns officiellt tillgängligt på</entry>
 <entry key="field|name|BT-706-UBO">Nationalitet på verklig huvudman</entry>
