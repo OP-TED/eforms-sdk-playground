@@ -1,3 +1,7 @@
+# SDK 1.18.0 Release Notes
+
+TEST TEST TEST
+
 # SDK 1.16.0-beta.3 Release Notes
 
 ## SDK 1.16.0-beta.3
