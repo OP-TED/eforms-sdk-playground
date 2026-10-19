@@ -433,8 +433,8 @@
 <entry key="field|description|BT-688-LotResult-Language">Uma descrição e justificativa para a aplicação de razões preponderantes relacionadas ao interesse público</entry>
 <entry key="field|description|BT-70-Lot">As principais informações sobre a execução do contrato (p. ex., prestações intercalares, indemnização por danos, direitos de propriedade intelectual, etc.).</entry>
 <entry key="field|description|BT-70-Lot-Language">As principais informações sobre a execução do contrato (p. ex., prestações intercalares, indemnização por danos, direitos de propriedade intelectual, etc.).</entry>
-<entry key="field|description|BT-701-notice">O identificador europeu de um anúncio de concurso público. A inclusão deste identificador em todas as versões publicadas do anúncio em questão (p. ex., no sítio TED, em portais de publicação nacionais ou regionais, etc.) permite uma identificação única dos anúncios de concurso em toda a União.</entry>
-<entry key="field|description|BT-701-notice-Scheme">O identificador europeu de um anúncio de concurso público. A inclusão deste identificador em todas as versões publicadas do anúncio em questão (p. ex., no sítio TED, em portais de publicação nacionais ou regionais, etc.) permite uma identificação única dos anúncios de concurso em toda a União.</entry>
+<entry key="field|description|BT-701-notice">Identificador do anúncio europeu de contratação pública do presente anúncio.</entry>
+<entry key="field|description|BT-701-notice-Scheme">Identificador do anúncio europeu de contratação pública do presente anúncio.</entry>
 <entry key="field|description|BT-702(a)-notice">A(s) língua(s) em que o anúncio em questão está oficialmente disponível. Todas as versões linguísticas são igualmente válidas do ponto de vista jurídico.</entry>
 <entry key="field|description|BT-702(b)-notice">A(s) língua(s) em que o anúncio em questão está oficialmente disponível. Todas as versões linguísticas são igualmente válidas do ponto de vista jurídico.</entry>
 <entry key="field|description|BT-706-UBO">Nacionalidade (ou nacionalidades) do(s) proprietário(s) beneficiário(s) do vencedor, proponente ou subcontratante, tal como publicada(s) no(s) registo(s) estabelecido(s) pela Diretiva (UE) 2018/843 do Parlamento Europeu e do Conselho. Caso não exista um registo deste tipo (p. ex., no caso de contratantes estabelecidos fora da União), devem ser fornecidas informações equivalentes provenientes de outras fontes.</entry>
@@ -724,7 +724,6 @@
 <entry key="field|description|OPT-072-Lot-Language">Língua usada para descrever o objetivo de qualidade</entry>
 <entry key="field|description|OPT-090-Lot">Código que indica que se trata de categorias de compradores: 'categorias de compradores'</entry>
 <entry key="field|description|OPT-100-Contract">Referência para o relatório de resultados que contém informações sobre o contrato-quadro assinado no qual o contrato atual se baseia</entry>
-<entry key="field|description|OPT-100-Contract-Scheme">Nome do esquema usado para anotar a referência para o relatório de resultados que contém informações sobre o contrato-quadro assinado no qual o contrato atual se baseia</entry>
 <entry key="field|description|OPT-110-Lot-FiscalLegis">Endereço da web onde pode ser encontrada a legislação fiscal local</entry>
 <entry key="field|description|OPT-110-Part-FiscalLegis">Endereço da web onde pode ser encontrada a legislação fiscal local</entry>
 <entry key="field|description|OPT-111-Lot-FiscalLegis">Identificador da legislação fiscal</entry>
@@ -805,10 +804,6 @@
 <entry key="field|description|OPT-301-Part-TenderEval-Scheme">Nome do esquema para a referência à organização ('organization') ou ponto de contato ('touchpoint') que avalia as propostas</entry>
 <entry key="field|description|OPT-301-Part-TenderReceipt">Referência à organização (ORG-xxxx) ou ao ponto de contacto (TPO-xxxx) a quem as propostas ou pedidos de participação devem ser submetidos</entry>
 <entry key="field|description|OPT-301-Part-TenderReceipt-Scheme">Nome do esquema para a referência à organização ('organization') ou ponto de contato ('touchpoint') que recebe as propostas</entry>
-<entry key="field|description|OPT-301-ReviewBody">Referência à organização (ORG-xxxx) que está lidando com o pedido de revisão no estágio de revisão atualmente relatado</entry>
-<entry key="field|description|OPT-301-ReviewBody-Scheme">Nome do esquema para a referência à organização ('organization') que está revisando o pedido no estágio de revisão atualmente relatado</entry>
-<entry key="field|description|OPT-301-ReviewReq">Referência à organização (ORG-xxxx) que iniciou o pedido de revisão que levou ao relato do estágio de revisão atual</entry>
-<entry key="field|description|OPT-301-ReviewReq-Scheme">Nome do esquema para a referência à organização ('organization') ou ponto de contato ('touchpoint')</entry>
 <entry key="field|description|OPT-301-Tenderer-MainCont">Referência à organização (ORG-xxxx) que é o principal proponente</entry>
 <entry key="field|description|OPT-301-Tenderer-MainCont-Scheme">Nome do esquema para a referência à organização ('organization') que atua como o principal proponente</entry>
 <entry key="field|description|OPT-301-Tenderer-SubCont">Referência à organização (ORG-xxxx) que é um subcontratado de um ou mais proponentes principais</entry>
@@ -832,7 +827,7 @@
 <entry key="field|hint|BT-1375-Procedure">Adicione o número de lotes que pretende incluir no grupo de lotes.</entry>
 <entry key="field|hint|BT-1375-Procedure-Scheme">Adicione o número de lotes que pretende incluir no grupo de lotes.</entry>
 <entry key="field|hint|BT-1501(p)-Contract">Um dos seguintes campos deve ser preenchido: BUYER, RESULT, RES-XXXX, ORG-XXXX, TPA-XXXX, TPO- XXXX, TEN-XXXX, UBO-XXXX</entry>
-<entry key="field|hint|BT-195-notice">Cada grupo de informações não divulgadas contém um ou mais campos que não são publicados, conforme documentado no TED.</entry>
+<entry key="field|hint|BT-195-notice">Cada grupo de informações não divulgadas contém um ou mais campos que não são publicados, conforme documentado no TED: https://ted.europa.eu/pt/simap/undisclosed</entry>
 <entry key="field|hint|BT-198-notice">Se a data de divulgação não for indicada, as informações nunca serão divulgadas. Se for indicada, não pode ser posterior em mais de 5 anos à data de apresentação.</entry>
 <entry key="field|hint|BT-22-Lot">Se utilizar um identificador interno para o seu procedimento e para os seus lotes, introduza-o. Utilize identificadores diferentes para cada lote.</entry>
 <entry key="field|hint|BT-22-Lot-Scheme">Se utilizar um identificador interno para o seu procedimento e para os seus lotes, introduza-o. Utilize identificadores diferentes para cada lote.</entry>
@@ -923,8 +918,8 @@
 <entry key="field|name|BT-131(t)-Lot">Prazo para a receção das propostas</entry>
 <entry key="field|name|BT-1311(d)-Lot">Prazo para a receção dos pedidos de participação</entry>
 <entry key="field|name|BT-1311(t)-Lot">Prazo para a receção dos pedidos de participação</entry>
-<entry key="field|name|BT-132(d)-Lot">Data de abertura</entry>
-<entry key="field|name|BT-132(t)-Lot">Data de abertura</entry>
+<entry key="field|name|BT-132(d)-Lot">Data da abertura pública</entry>
+<entry key="field|name|BT-132(t)-Lot">Hora da abertura pública</entry>
 <entry key="field|name|BT-133-Lot">Local</entry>
 <entry key="field|name|BT-133-Lot-Language">Local</entry>
 <entry key="field|name|BT-134-Lot">Informações adicionais</entry>
@@ -1300,8 +1295,8 @@
 <entry key="field|name|BT-688-LotResult-Language">Razões preponderantes relacionadas ao interesse público</entry>
 <entry key="field|name|BT-70-Lot">Condições relacionadas com a execução do contrato</entry>
 <entry key="field|name|BT-70-Lot-Language">Condições relacionadas com a execução do contrato</entry>
-<entry key="field|name|BT-701-notice">Identificador/versão do anúncio</entry>
-<entry key="field|name|BT-701-notice-Scheme">Identificador/versão do anúncio</entry>
+<entry key="field|name|BT-701-notice">Identificador do anúncio</entry>
+<entry key="field|name|BT-701-notice-Scheme">Identificador do anúncio</entry>
 <entry key="field|name|BT-702(a)-notice">Línguas em que o presente anúncio está oficialmente disponível</entry>
 <entry key="field|name|BT-702(b)-notice">Línguas em que o presente anúncio está oficialmente disponível</entry>
 <entry key="field|name|BT-706-UBO">Nacionalidade do titular</entry>
