@@ -13,6 +13,11 @@
     "stage" : "1a",
     "filename" : "dynamic/validation-stage-1a.sch"
   }, {
+    "name" : "validation-stage-1b-1",
+    "type" : "dynamic",
+    "stage" : "1b",
+    "filename" : "dynamic/validation-stage-1b-1.sch"
+  }, {
     "name" : "validation-stage-1b-10",
     "type" : "dynamic",
     "stage" : "1b",
@@ -1258,6 +1263,11 @@
     "stage" : "5",
     "filename" : "dynamic/validation-stage-5-CEI.sch"
   }, {
+    "name" : "validation-stage-5-E1",
+    "type" : "dynamic",
+    "stage" : "5",
+    "filename" : "dynamic/validation-stage-5-E1.sch"
+  }, {
     "name" : "validation-stage-5-E2",
     "type" : "dynamic",
     "stage" : "5",
@@ -1331,6 +1341,11 @@
     "type" : "static",
     "stage" : "1a",
     "filename" : "static/validation-stage-1a.sch"
+  }, {
+    "name" : "validation-stage-1b-1",
+    "type" : "static",
+    "stage" : "1b",
+    "filename" : "static/validation-stage-1b-1.sch"
   }, {
     "name" : "validation-stage-1b-10",
     "type" : "static",
@@ -2576,6 +2591,11 @@
     "type" : "static",
     "stage" : "5",
     "filename" : "static/validation-stage-5-CEI.sch"
+  }, {
+    "name" : "validation-stage-5-E1",
+    "type" : "static",
+    "stage" : "5",
+    "filename" : "static/validation-stage-5-E1.sch"
   }, {
     "name" : "validation-stage-5-E2",
     "type" : "static",
