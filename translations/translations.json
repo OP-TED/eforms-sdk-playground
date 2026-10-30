@@ -1321,100 +1321,100 @@
     "filename" : "view_sv.xml"
   } ],
   "languages" : [ {
-    "description" : "Bulgarian",
     "twoLetterCode" : "bg",
-    "threeLetterCode" : "bul"
+    "threeLetterCode" : "bul",
+    "description" : "Bulgarian"
   }, {
-    "description" : "Czech",
     "twoLetterCode" : "cs",
-    "threeLetterCode" : "ces"
+    "threeLetterCode" : "ces",
+    "description" : "Czech"
   }, {
-    "description" : "Danish",
     "twoLetterCode" : "da",
-    "threeLetterCode" : "dan"
+    "threeLetterCode" : "dan",
+    "description" : "Danish"
   }, {
-    "description" : "German",
     "twoLetterCode" : "de",
-    "threeLetterCode" : "deu"
+    "threeLetterCode" : "deu",
+    "description" : "German"
   }, {
-    "description" : "Greek",
     "twoLetterCode" : "el",
-    "threeLetterCode" : "ell"
+    "threeLetterCode" : "ell",
+    "description" : "Greek"
   }, {
-    "description" : "English",
     "twoLetterCode" : "en",
-    "threeLetterCode" : "eng"
+    "threeLetterCode" : "eng",
+    "description" : "English"
   }, {
-    "description" : "Spanish",
     "twoLetterCode" : "es",
-    "threeLetterCode" : "spa"
+    "threeLetterCode" : "spa",
+    "description" : "Spanish"
   }, {
-    "description" : "Estonian",
     "twoLetterCode" : "et",
-    "threeLetterCode" : "est"
+    "threeLetterCode" : "est",
+    "description" : "Estonian"
   }, {
-    "description" : "Finnish",
     "twoLetterCode" : "fi",
-    "threeLetterCode" : "fin"
+    "threeLetterCode" : "fin",
+    "description" : "Finnish"
   }, {
-    "description" : "French",
     "twoLetterCode" : "fr",
-    "threeLetterCode" : "fra"
+    "threeLetterCode" : "fra",
+    "description" : "French"
   }, {
-    "description" : "Irish",
     "twoLetterCode" : "ga",
-    "threeLetterCode" : "gle"
+    "threeLetterCode" : "gle",
+    "description" : "Irish"
   }, {
-    "description" : "Croatian",
     "twoLetterCode" : "hr",
-    "threeLetterCode" : "hrv"
+    "threeLetterCode" : "hrv",
+    "description" : "Croatian"
   }, {
-    "description" : "Hungarian",
     "twoLetterCode" : "hu",
-    "threeLetterCode" : "hun"
+    "threeLetterCode" : "hun",
+    "description" : "Hungarian"
   }, {
-    "description" : "Italian",
     "twoLetterCode" : "it",
-    "threeLetterCode" : "ita"
+    "threeLetterCode" : "ita",
+    "description" : "Italian"
   }, {
-    "description" : "Lithuanian",
     "twoLetterCode" : "lt",
-    "threeLetterCode" : "lit"
+    "threeLetterCode" : "lit",
+    "description" : "Lithuanian"
   }, {
-    "description" : "Latvian",
     "twoLetterCode" : "lv",
-    "threeLetterCode" : "lav"
+    "threeLetterCode" : "lav",
+    "description" : "Latvian"
   }, {
-    "description" : "Maltese",
     "twoLetterCode" : "mt",
-    "threeLetterCode" : "mlt"
+    "threeLetterCode" : "mlt",
+    "description" : "Maltese"
   }, {
-    "description" : "Dutch",
     "twoLetterCode" : "nl",
-    "threeLetterCode" : "nld"
+    "threeLetterCode" : "nld",
+    "description" : "Dutch"
   }, {
-    "description" : "Polish",
     "twoLetterCode" : "pl",
-    "threeLetterCode" : "pol"
+    "threeLetterCode" : "pol",
+    "description" : "Polish"
   }, {
-    "description" : "Portuguese",
     "twoLetterCode" : "pt",
-    "threeLetterCode" : "por"
+    "threeLetterCode" : "por",
+    "description" : "Portuguese"
   }, {
-    "description" : "Romanian",
     "twoLetterCode" : "ro",
-    "threeLetterCode" : "ron"
+    "threeLetterCode" : "ron",
+    "description" : "Romanian"
   }, {
-    "description" : "Slovak",
     "twoLetterCode" : "sk",
-    "threeLetterCode" : "slk"
+    "threeLetterCode" : "slk",
+    "description" : "Slovak"
   }, {
-    "description" : "Slovenian",
     "twoLetterCode" : "sl",
-    "threeLetterCode" : "slv"
+    "threeLetterCode" : "slv",
+    "description" : "Slovenian"
   }, {
-    "description" : "Swedish",
     "twoLetterCode" : "sv",
-    "threeLetterCode" : "swe"
+    "threeLetterCode" : "swe",
+    "description" : "Swedish"
   } ]
 }
