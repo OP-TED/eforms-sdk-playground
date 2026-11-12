@@ -225,7 +225,7 @@
 <entry key="business-term|description|BT-687">Undantag från tillämpningen av IPI-åtgärden</entry>
 <entry key="business-term|description|BT-688">En beskrivning och motivering för tillämpningen av tvingande skäl relaterade till allmänintresset</entry>
 <entry key="business-term|description|BT-70">Den viktigaste informationen om genomförandet av kontraktet (t.ex. delresultat, skadestånd, immateriella rättigheter).</entry>
-<entry key="business-term|description|BT-701">Identifieraren för meddelandet om europeisk offentlig upphandling i detta meddelande. Om denna identifierare anges i alla offentliggjorda versioner av detta meddelande (t.ex. på TED-webbplatsen, nationella portaler, regionala portaler), kan upphandlingsmeddelanden i unionen få unik identifiering.</entry>
+<entry key="business-term|description|BT-701">Identifierare för det europeiska meddelandet om offentlig upphandling för detta meddelande.</entry>
 <entry key="business-term|description|BT-702">Det eller de språk som detta meddelande är offentligt tillgängligt på. Dessa språkversioner har samma rättsliga giltighet.</entry>
 <entry key="business-term|description|BT-706">Nationalitet(er) för vinnarens, anbudsgivarens eller underentreprenörens verkliga huvudman som offentliggjorts i det eller de register som upprättats i enlighet med Europaparlamentets och rådets direktiv (EU) 2018/843. Om ett sådant register inte finns (t.ex. om det rör sig om entreprenörer som är etablerade utanför unionen) ska motsvarande information anges från andra källor.</entry>
 <entry key="business-term|description|BT-707">Motiveringen för att begränsa åtkomsten till vissa upphandlingsdokument.</entry>
@@ -266,9 +266,6 @@
 <entry key="business-term|description|BT-744">Avancerad eller kvalificerad elektronisk underskrift eller stämpel (enligt definitionen i Europaparlamentets och rådets förordning (EU) nr 910/2014) krävs.</entry>
 <entry key="business-term|description|BT-745">Beskrivning av hur intresseanmälan, anbudsansökan eller anbud ska inlämnas på icke-elektronisk väg.</entry>
 <entry key="business-term|description|BT-746">Nationaliteten (eller nationaliteterna) för vinnarens, anbudsgivarens eller underentreprenörens verkliga huvudman offentliggörs inte i det eller de register som upprättats i enlighet med direktiv (EU) 2018/843, eftersom vinnaren är noterad på en reglerad marknad (t.ex. en värdepappersbörs) som garanterar tillräcklig insyn i enlighet med lagstiftningen om bekämpning av penningtvätt.</entry>
-<entry key="business-term|description|BT-747">Kriterierna (eller kriteriet) avser t.ex. ekonomisk och finansiell ställning eller tekniska och yrkesmässiga kunskaper.</entry>
-<entry key="business-term|description|BT-748">De kriterier (eller det kriterium) för en viss typ som används, inte används eller (om ett förhandsmeddelande används som ett meddelande om upphandling eller för att minska tidsfristerna) om användningen ännu inte är känd.</entry>
-<entry key="business-term|description|BT-749">Namn på urvalskriterierna (eller urvalskriteriet).</entry>
 <entry key="business-term|description|BT-75">Beskrivningen av den finansiella garanti som anbudsgivaren är skyldig att ställa när denne lämnar ett anbud. Garantin kan ställas i form av exempelvis en betalning till köparen eller en handling från banken. Garantin är vanligtvis förverkad om en anbudsgivare har fått kontraktet, men därefter vägrar att underteckna det.</entry>
 <entry key="business-term|description|BT-750">En beskrivning av urvalskriteriet och hur det kommer att användas för att välja ut de anbudssökande som ska inbjudas att delta i det andra steget i förfarandet (om ett högsta antal anbudssökande har fastställts).</entry>
 <entry key="business-term|description|BT-751">En garanti krävs.</entry>
@@ -589,7 +586,7 @@
 <entry key="business-term|name|BT-687">Undantag från tillämpningen av IPI-åtgärden</entry>
 <entry key="business-term|name|BT-688">Tvingande skäl relaterade till allmänintresset</entry>
 <entry key="business-term|name|BT-70">Villkor som gäller genomförandet av kontraktet</entry>
-<entry key="business-term|name|BT-701">Identifierare/version för meddelandet</entry>
+<entry key="business-term|name|BT-701">Identifierare för meddelandet</entry>
 <entry key="business-term|name|BT-702">Språk som det här meddelandet finns officiellt tillgängligt på</entry>
 <entry key="business-term|name|BT-706">Nationalitet på verklig huvudman</entry>
 <entry key="business-term|name|BT-707">Motivering för att begränsa åtkomsten till vissa upphandlingsdokument</entry>
@@ -630,9 +627,6 @@
 <entry key="business-term|name|BT-744">Avancerad eller kvalificerad elektronisk underskrift eller stämpel (enligt definitionen i förordning (EU) nr 910/2014) krävs</entry>
 <entry key="business-term|name|BT-745">Beskrivning</entry>
 <entry key="business-term|name|BT-746">Vinnaren är noterad på en reglerad marknad</entry>
-<entry key="business-term|name|BT-747">Typ</entry>
-<entry key="business-term|name|BT-748">Användning av det här kriteriet</entry>
-<entry key="business-term|name|BT-749">Namn</entry>
 <entry key="business-term|name|BT-75">Beskrivning av den finansiella garantin</entry>
 <entry key="business-term|name|BT-750">Beskrivning av urvalskriterium</entry>
 <entry key="business-term|name|BT-751">En garanti krävs</entry>

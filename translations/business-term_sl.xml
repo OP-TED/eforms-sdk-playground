@@ -225,7 +225,7 @@
 <entry key="business-term|description|BT-687">Izjema od uporabe ukrepa IPI</entry>
 <entry key="business-term|description|BT-688">Opis in utemeljitev za uporabo prevladujočih razlogov, povezanih z javnim interesom</entry>
 <entry key="business-term|description|BT-70">Glavni podatki o izvedbi naročila (npr. vmesni rezultati, nadomestilo za škodo, pravice intelektualne lastnine).</entry>
-<entry key="business-term|description|BT-701">Evropski identifikator obvestila o javnem naročilu iz tega obvestila. Če je ta identifikator naveden v vseh objavljenih različicah tega obvestila (npr. v TED, na nacionalnih portalih za objavljanje in regionalnih portalih za objavljanje), je mogoče obvestilo o javnem naročilu enotno identificirati po vsej Uniji.</entry>
+<entry key="business-term|description|BT-701">Identifikator evropskega obvestila o javnem naročilu za to obvestilo.</entry>
 <entry key="business-term|description|BT-702">Jeziki, v katerih je to obvestilo uradno objavljeno. Te jezikovne različice imajo enako pravno veljavo.</entry>
 <entry key="business-term|description|BT-706">Državljanstva dejanskih lastnikov zmagovalca, ponudnika ali podizvajalca, kot so objavljena v registrih, vzpostavljenih z Direktivo (EU) 2018/843 Evropskega parlamenta in Sveta. Če takega registra ni (npr. pri izvajalcih s sedežem zunaj Unije), se navedejo enakovredne informacije iz drugih virov.</entry>
 <entry key="business-term|description|BT-707">Razlog za omejitve dostopa do nekaterih dokumentov v zvezi z oddajo javnega naročila.</entry>
@@ -266,9 +266,6 @@
 <entry key="business-term|description|BT-744">Potreben je napredni ali kvalificirani elektronski podpis ali žig (v skladu z Uredbo (EU) št. 910/2014 Evropskega parlamenta in Sveta).</entry>
 <entry key="business-term|description|BT-745">Opis načina neelektronske oddaje ponudb, prijav za sodelovanje ali prijav interesa.</entry>
 <entry key="business-term|description|BT-746">Državljanstva dejanskih lastnikov zmagovalca, ponudnika ali podizvajalca niso objavljena v registrih, vzpostavljenih z Direktivo (EU) 2018/843, ker zmagovalec kotira na reguliranem trgu (npr. borza), na katerem je zagotovljena zadostna preglednost v skladu z zakonodajo o preprečevanju pranja denarja.</entry>
-<entry key="business-term|description|BT-747">Pogoji zadevajo npr. ekonomski in finančni položaj ali tehnično in strokovno sposobnost.</entry>
-<entry key="business-term|description|BT-748">Pogoji določene vrste se uporabljajo/se ne uporabljajo oziroma (v primeru predhodnega informativnega obvestila, ki se uporablja kot javni razpis ali za skrajšanje rokov) še ni znano, ali se bodo uporabljali.</entry>
-<entry key="business-term|description|BT-749">Naziv pogojev za sodelovanje.</entry>
 <entry key="business-term|description|BT-75">Opis finančnega jamstva, ki se zahteva od ponudnika ob predložitvi ponudbe. Jamstvo je lahko npr. v obliki plačila kupcu ali bančnega dokumenta. Jamstvo praviloma zapade, če ponudnik dobi naročilo, a ga potem noče podpisati.</entry>
 <entry key="business-term|description|BT-750">Opis merila za izbor in kako se bodo uporabljali pogoji za izbiro kandidatov, ki bodo povabljeni k sodelovanju na drugi stopnji postopka (če je bilo določeno največje število kandidatov).</entry>
 <entry key="business-term|description|BT-751">Potrebno je jamstvo.</entry>
@@ -589,7 +586,7 @@
 <entry key="business-term|name|BT-687">Izjema od uporabe ukrepa IPI</entry>
 <entry key="business-term|name|BT-688">Prevladujoči razlogi, povezani z javnim interesom</entry>
 <entry key="business-term|name|BT-70">Pogoji, povezani z izvajanjem javnega naročila</entry>
-<entry key="business-term|name|BT-701">Identifikator/različica obvestila</entry>
+<entry key="business-term|name|BT-701">Identifikator obvestila</entry>
 <entry key="business-term|name|BT-702">Jeziki, v katerih je uradno dostopno to obvestilo</entry>
 <entry key="business-term|name|BT-706">Državljanstvo lastnika</entry>
 <entry key="business-term|name|BT-707">Obrazložitev za omejitve dostopa do nekaterih dokumentov v zvezi z oddajo javnega naročila</entry>
@@ -630,9 +627,6 @@
 <entry key="business-term|name|BT-744">Potreben je napredni ali kvalificirani elektronski podpis ali žig (v skladu z Uredbo (EU) št. 910/2014)</entry>
 <entry key="business-term|name|BT-745">Opis</entry>
 <entry key="business-term|name|BT-746">Zmagovalec kotira na reguliranem trgu</entry>
-<entry key="business-term|name|BT-747">Vrsta</entry>
-<entry key="business-term|name|BT-748">Uporaba tega merila</entry>
-<entry key="business-term|name|BT-749">Ime</entry>
 <entry key="business-term|name|BT-75">Opis finančnega poroštva</entry>
 <entry key="business-term|name|BT-750">Opis merila za izbor</entry>
 <entry key="business-term|name|BT-751">Potrebno je jamstvo</entry>
